@@ -1,0 +1,15 @@
+
+- name: Twitter
+  url: http://twitter.com/ep1dr0me
+  class: icon-twitter
+  title: ""
+
+- name: GitHub
+  url: http://github.com/pibook/gr
+  class: icon-github
+  title:
+
+- name: Facebook
+  url: http://www.facebook.com/pibookgr
+  class: icon-facebook
+  title:

@@ -1,0 +1,60 @@
+- title: ΑΡΧΙΚΗ
+  url: "/"
+  side: left
+
+- title: "ΚΕΦΑΛΑΙΑ"
+  url: ""
+  side: left
+  dropdown:
+  - title: "ΠΡΟΛΟΓΟΣ"
+    url: "/manuscript/preface.html"
+  - title: "ΕΙΣΑΓΩΓΗ"
+    url: "/manuscript/intro.html"
+  - title: "ΟΡΙΣΜΟΣ"
+    url: "/manuscript/definition.html"
+  - title: "ΜΕΘΟΔΟΣ"
+    url: "/manuscript/method.html"
+  - title: "ΑΡΧΕΤΥΠΑ"
+    url: "/manuscript/archetypes.html"
+  - title: "ΕΡΓΑΛΕΙΑ"
+    url: "/manuscript/tools.html"
+  - title: "ΜΟΝΤΕΛΑ"
+    url: "/manuscript/models.html"
+  - title: "ΣΥΝΘΕΣΗ"
+    url: "/manuscript/synthesis.html"
+  - title: "ΑΝΑΖΗΤΗΣΗ"
+    url: "/manuscript/search.html"
+  - title: "ΚΑΤΑΣΚΕΥΗ"
+    url: "/manuscript/make.html"
+
+- title: "ΔΙΑΦΑΝΕΙΕΣ"
+  url: ""
+  side: left
+  dropdown:
+  - title: "ΠΡΟΛΟΓΟΣ"
+    url: "/slides/pre/"
+  - title: "ΕΙΣΑΓΩΓΗ"
+    url: "/slides/intro/"
+  - title: "ΟΡΙΣΜΟΣ"
+    url: "/slides/ch01/"
+  - title: "ΜΕΘΟΔΟΣ"
+    url: "/slides/ch02/"
+  - title: "ΑΡΧΕΤΥΠΑ"
+    url: "/slides/ch03/"
+  - title: "ΕΡΓΑΛΕΙΑ"
+    url: "/slides/ch04/"
+  - title: "ΜΟΝΤΕΛΑ"
+    url: "/slides/ch05/"
+  - title: "ΣΥΝΘΕΣΗ"
+    url: "/slides/ch06/"
+
+- title: ΑΓΟΡΑ
+  url: "/book/"
+  side: left
+  dropdown:
+  - title: "PDF, EPUB, MOBI"
+    url: "https://leanpub.com/pibook"
+
+- title: ΕΝΗΜΕΡΩΣΕΙΣ
+  url: "/blog/"
+  side: left
