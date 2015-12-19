@@ -1,0 +1,16 @@
+- menu_name: "ΕΥΧΑΡΙΣΤΙΕΣ"
+
+- name: "Github Pages"
+  url: "http://pages.github.com/"
+  class: "sitemap-link"
+  title: "Github Pages"
+
+- name: "Feeling Responsive Theme"
+  url: "http://phlow.github.io/feeling-responsive/"
+  class: "network-entypo"
+  title: "Feeling Responsive Theme"
+
+- name: "Περισσότερες ευχαριστίες"
+  url: "/credits/"
+  class: "rss-link"
+  title: "Images by Unsplash"
