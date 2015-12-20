@@ -10,8 +10,8 @@ widget-1:
     image: toc-thumb.jpg
 widget-2:
     title: "Αγορά"
-    url: 'https://leanpub.com/pibook'
-    text: 'Αγορά ψηφιακού βιβλίου'
+    url: '/book/'
+    text: 'Αγορά βιβλίου'
     image: book-thumb.jpg
 widget-3:
     title: "Συμμετοχή"
