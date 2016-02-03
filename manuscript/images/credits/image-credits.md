@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ΔΙΚΑΙΩΜΑΤΑ ΕΙΚΟΝΩΝ"
+title: "ΠΝΕΥΜΑΤΙΚΑ ΔΙΚΑΙΩΜΑΤΑ ΕΙΚΟΝΩΝ"
 subheadline: ""
 show_meta: false
 teaser: ""
