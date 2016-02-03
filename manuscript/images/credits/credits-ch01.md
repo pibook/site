@@ -1,4 +1,4 @@
-# IMAGE CREDITS ch01
+# ΟΡΙΣΜΟΣ
 
 ![Screenshot of Original 1984 Macintosh desktop. Courtesy of Wikipedia.org. Uploaded by Tene as Image:Apple_Macintosh_Desktop.png. Copyright by Microsoft. Link: https://en.wikipedia.org/wiki/File:Apple_Macintosh_Desktop.png](/manuscript/images/ch01/macintosh-desktop.png)
 
