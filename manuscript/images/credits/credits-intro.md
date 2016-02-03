@@ -1,4 +1,4 @@
-# IMAGE CREDITS Intro
+# ΕΙΣΑΓΩΓΗ
 
 ![Processing Github page Screenshot. Courtesy of Konstantinos Chorianopoulos. Screenshot from https://github.com/processing.](/manuscript/images/intro/github-profile.png)
 
