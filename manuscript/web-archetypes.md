@@ -20,10 +20,6 @@ show_meta: false
 
 {% include_relative pi-ch03.md %}
 
-{% include_relative mi-ch03.md %}
-
-{% include_relative examples/ex-ch03.md %}
-
 {% include license.html %}
 
 </div><!-- /.medium-8.columns -->

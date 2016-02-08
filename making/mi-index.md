@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 header:
-   image_fullwidth: "header5.jpg"
-permalink: "/manuscript/models.html"
+   image_fullwidth: "header3.jpg"
+permalink: "/making/"
 show_meta: false
 ---
 
@@ -18,7 +18,17 @@ show_meta: false
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-{% include_relative pi-ch05.md %}
+{% include_relative mi-ch01.md %}
+
+{% include_relative mi-ch02.md %}
+
+{% include_relative mi-ch03.md %}
+
+{% include_relative mi-ch04.md %}
+
+{% include_relative mi-ch05.md %}
+
+{% include_relative mi-ch06.md %}
 
 {% include license.html %}
 
