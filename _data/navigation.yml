@@ -28,8 +28,20 @@
     url: "/manuscript/make.html"
 
 - title: "ΠΟΛΥΜΕΣΑ"
-  url: "/toc/"
+  url: ""
   side: left
+  dropdown:
+  - title: "ΠΕΡΙΕΧΟΜΕΝΑ"
+    url: "/toc/"
+  - title: "ΠΑΡΑΔΕΙΓΜΑΤΑ"
+    url: "/remix/"
+  - title: "ΕΡΓΑΣΙΕΣ"
+    url: "/making/"
+  - title: "ΔΙΑΦΑΝΕΙΕΣ"
+    url: ""
+  - title: "SCREENCASTS"
+    url: ""
+
 
 - title: ΑΓΟΡΑ
   url: "/book/"
