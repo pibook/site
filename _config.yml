@@ -18,6 +18,9 @@ slogan: "Από τον Επιτραπέζιο στον Κινητό και Δι�
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: "Ο Προγραμματισμός της Διάδρασης είναι ένα βιβλίο που διανέμεται ελεύθερα στο δίκτυο, ενώ είναι διαθέσιμο για αγορά σε πολλές μορφές ηλεκτρονικού και φυσικού βιβλίου"
 
+# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
+credits: '<p>Created with &hearts; by <a href="http://www.epidro.me">epidrome</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
@@ -87,7 +90,7 @@ defaults:
       show_meta: true 	# Show metadata beneath all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "Κωνσταντίνος Χωριανόπουλος"
+      author: "Konstantinos Chorianopoulos"
   -
     scope:
       path: ""
@@ -96,7 +99,7 @@ defaults:
       show_meta: true   # Show metadata beneath all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "Κωνσταντίνος Χωριανόπουλος"
+      author: "Konstantinos Chorianopoulos"
 
 
 
