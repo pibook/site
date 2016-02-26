@@ -30,7 +30,7 @@
 
 Buchenau, M., & Suri, J. F. (2000, August). Experience prototyping. In Proceedings of the 3rd conference on Designing interactive systems: processes, practices, methods, and techniques (pp. 424-433). ACM.
 
-Pering, C. (2002). Interaction design prototyping of communicator devices: Towards meeting the hardware-software challenge. interactions, 9(6), 36-46.
+Pering, C. (2002). Interaction design prototyping of communicator devices: Towards meeting the hardware-software challenge. Ιnteractions, 9(6), 36-46.
 
 ## Δραστηριότητες
 
