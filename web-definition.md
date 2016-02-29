@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 header:
-   image_fullwidth: "header8.jpg"
-permalink: "/manuscript/make.html"
+   image_fullwidth: "header1.jpg"
+permalink: "/definition/"
 show_meta: false
 ---
 
@@ -18,7 +18,7 @@ show_meta: false
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-{% include_relative pi-ax02.md %}
+{% include_relative manuscript/pi-ch01.md %}
 
 {% include license.html %}
 

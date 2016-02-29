@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 header:
-   image_fullwidth: "header3.jpg"
-permalink: "/manuscript/archetypes.html"
+   image_fullwidth: "header-1.jpg"
+permalink: "/preface/"
 show_meta: false
 ---
 
@@ -18,7 +18,7 @@ show_meta: false
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-{% include_relative pi-ch03.md %}
+{% include_relative manuscript/pi-pre.md %}
 
 {% include license.html %}
 

@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header:
    image_fullwidth: "header5.jpg"
-permalink: "/manuscript/models.html"
+permalink: "/models/"
 show_meta: false
 ---
 
@@ -18,7 +18,7 @@ show_meta: false
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-{% include_relative pi-ch05.md %}
+{% include_relative manuscript/pi-ch05.md %}
 
 {% include license.html %}
 
