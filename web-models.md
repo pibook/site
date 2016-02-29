@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header:
    image_fullwidth: "header5.jpg"
-permalink: "/manuscript/models.html"
+permalink: "/models/"
 show_meta: false
 ---
 

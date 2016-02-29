@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header:
    image_fullwidth: "header7.jpg"
-permalink: "/manuscript/search.html"
+permalink: "/search/"
 show_meta: false
 ---
 
