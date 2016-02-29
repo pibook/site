@@ -4,7 +4,7 @@ header:
    image_fullwidth: "header0.jpg"
    caption: This is a caption for the header image with link
    caption_url:
-permalink: "/manuscript/intro.html"
+permalink: "/intro/"
 show_meta: false
 ---
 
@@ -21,7 +21,7 @@ show_meta: false
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-{% include_relative pi-intro.md %}
+{% include_relative manuscript/pi-intro.md %}
 
 {% include license.html %}
 
