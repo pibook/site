@@ -18,7 +18,7 @@ show_meta: false
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-{% include_relative pi-pre.md %}
+{% include_relative manuscript/pi-pre.md %}
 
 {% include license.html %}
 
