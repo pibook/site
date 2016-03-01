@@ -1,12 +1,12 @@
 ---
 layout: page-fullwidth
 header:
-   image_fullwidth: "header2.jpg"
+   image_fullwidth: "header3.jpg"
    caption: This is a caption for the header image with link
    caption_url:
 permalink: "/slides/method/"
 gallery:
-    - image_url: ch01/macintosh-desktop.png
+    - image_url: ch02/human-centered-design.jpg
       caption: Το λειτουργικό σύστημα του επιτραπέζιου υπολογιστή Macintosh (1984) ήταν το πρώτο επιτυχημένο εμπορικό γραφικό περιβάλλον εργασίας και το πρώτο που έδωσε πρόσβαση σε πολλές εφαρμογές λογισμικού, ακόμη και σε χρήστες που δεν είχαν γνώσεις υπολογιστών, χάρη στην ευχρηστία του.
     - image_url: ch01/math-blaster.png
       caption: Το εκπαιδευτικό βιντεο-παιχνίδι Math Blaster βασίζεται σε μια πολύ δημοφιλή και κλασική φόρμα παιχνιδιού (shoot’em up) με τη διαφορά ότι ο χρήστης θα πρέπει να κάνει και τις μαθηματικές πράξεις σωστά για να πετύχει τον στόχο του παιχνιδιού.
