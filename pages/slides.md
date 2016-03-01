@@ -13,16 +13,16 @@ header:
 
 [Εισαγωγή](/slides/intro/)
 
-[Ορισμός](/slides/ch01/)
+[Ορισμός](/slides/definition/)
 
-[Μέθοδος](/slides/ch02/)
+[Μέθοδος](/slides/method/)
 
-[Αρχέτυπα](/slides/ch03/)
+[Αρχέτυπα](/slides/archetypes/)
 
-[Εργαλεία](/slides/ch04/)
+[Εργαλεία](/slides/tools/)
 
-[Μοντέλα](/slides/ch05/)
+[Μοντέλα](/slides/models/)
 
-[Σύνθεση](/slides/ch06/)
+[Σύνθεση](/slides/synthesis/)
 
 {% include license.html %}
