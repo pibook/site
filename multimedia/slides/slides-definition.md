@@ -1,9 +1,5 @@
 ---
-layout: page-fullwidth
-header:
-   image_fullwidth: "header2.jpg"
-   caption: This is a caption for the header image with link
-   caption_url:
+layout: page
 permalink: "/slides/definition/"
 gallery:
     - image_url: ch01/macintosh-desktop.png

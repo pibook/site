@@ -1,9 +1,5 @@
 ---
-layout: page-fullwidth
-header:
-   image_fullwidth: "header3.jpg"
-   caption: This is a caption for the header image with link
-   caption_url:
+layout: page
 permalink: "/slides/method/"
 gallery:
     - image_url: ch02/human-centered-design.jpg

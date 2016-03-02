@@ -1,9 +1,5 @@
 ---
-layout: page-fullwidth
-header:
-   image_fullwidth: "header5.jpg"
-   caption: This is a caption for the header image with link
-   caption_url:
+layout: page
 permalink: "/slides/tools/"
 gallery:
     - image_url: ch04/uist-history.png
