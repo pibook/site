@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ΔΙΑΦΑΝΕΙΕΣ"
+title: "Διαφάνειες"
 subheadline: ""
 show_meta: false
 teaser: ""
