@@ -4,7 +4,7 @@ header:
    image_fullwidth: "header1.jpg"
    caption: This is a caption for the header image with link
    caption_url:
-permalink: "/slides/pre/"
+permalink: "/slides/preface/"
 gallery:
     - image_url: pre/bell-nomograph.png
       caption: Ο ερευνητής της επιστήμης των υπολογιστών Gordon Bell έφτιαξε το 2002 ένα διάγραμμα που δείχνει πόσο διαφορετικοί είναι οι υπολογιστές και τα δημογραφικά των χρηστών ανάλογως τη δεκαετία που εμφανίστηκαν.

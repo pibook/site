@@ -9,13 +9,13 @@ header:
     image_fullwidth: "header-toc.jpg"
 ---
 
-[Πρόλογος](/manuscript/pre.html), [Διαφάνειες](/slides/pre/)
+[Πρόλογος](/manuscript/pre.html), [Διαφάνειες](/slides/preface/)
 
 [Εισαγωγή](/manuscript/intro.html), [Διαφάνειες](/slides/intro/)
 
-[Ορισμός](/manuscript/definition.html), [Διαφάνειες](/slides/intro/), [Screencast A](https://www.youtube.com/watch?v=H3ZAjgOi61w), [Screencast B](https://www.youtube.com/watch?v=VbmJnAo5rWQ)
+[Ορισμός](/manuscript/definition.html), [Διαφάνειες](/slides/defintion/), [Screencast A](https://www.youtube.com/watch?v=H3ZAjgOi61w), [Screencast B](https://www.youtube.com/watch?v=VbmJnAo5rWQ)
 
-[Μέθοδος](/manuscript/method.html), [Διαφάνειες](/slides/ch02/), [Screencast A](https://www.youtube.com/watch?v=KM6Aakkc-gM), [Screencast B](https://www.youtube.com/watch?v=6LI_SH9IE-0)
+[Μέθοδος](/manuscript/method.html), [Διαφάνειες](/slides/method/), [Screencast A](https://www.youtube.com/watch?v=KM6Aakkc-gM), [Screencast B](https://www.youtube.com/watch?v=6LI_SH9IE-0)
 
 [Αρχέτυπα](/manuscript/archetypes.html), [Διαφάνειες](/slides/ch03/), [Screencast A](https://www.youtube.com/watch?v=YgQn5hxRi1U), [Screencast B](https://www.youtube.com/watch?v=k6TSBMZDO64)
 
