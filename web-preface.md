@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header:
    image_fullwidth: "header-1.jpg"
-permalink: "/manuscript/preface/"
+permalink: "/manuscript/preface.html"
 show_meta: false
 ---
 
