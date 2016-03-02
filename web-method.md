@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header:
    image_fullwidth: "header2.jpg"
-permalink: "/method/"
+permalink: "/manuscript/method.html"
 show_meta: false
 ---
 

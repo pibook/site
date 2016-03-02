@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header:
    image_fullwidth: "header3.jpg"
-permalink: "/archetypes/"
+permalink: "/manuscript/archetypes.html"
 show_meta: false
 ---
 
