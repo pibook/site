@@ -1,5 +1,6 @@
 ---
 layout: page
+header: no
 permalink: "/slides/archetypes/"
 gallery:
     - image_url: ch03/xerox-star.png

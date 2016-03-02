@@ -1,5 +1,6 @@
 ---
 layout: page
+header: no
 permalink: "/slides/definition/"
 gallery:
     - image_url: ch01/macintosh-desktop.png

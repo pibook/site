@@ -1,5 +1,6 @@
 ---
 layout: page
+header: no
 permalink: "/slides/tools/"
 gallery:
     - image_url: ch04/uist-history.png

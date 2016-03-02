@@ -1,5 +1,6 @@
 ---
 layout: page
+header: no
 permalink: "/slides/intro/"
 gallery:
     - image_url: intro/github-profile.png

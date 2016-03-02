@@ -1,5 +1,6 @@
 ---
 layout: page
+header: no
 permalink: "/slides/method/"
 gallery:
     - image_url: ch02/human-centered-design.jpg

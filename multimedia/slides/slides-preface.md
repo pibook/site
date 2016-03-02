@@ -1,5 +1,6 @@
 ---
 layout: page
+header: no
 permalink: "/slides/preface/"
 gallery:
     - image_url: pre/bell-nomograph.png
