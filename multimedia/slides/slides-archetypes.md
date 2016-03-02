@@ -1,5 +1,10 @@
 ---
 layout: page
+title: "ΔΙΑΦΑΝΕΙΕΣ"
+subheadline: ""
+show_meta: false
+teaser: ""
+header: no
 permalink: "/slides/archetypes/"
 gallery:
     - image_url: ch03/xerox-star.png

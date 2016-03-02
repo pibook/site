@@ -1,5 +1,10 @@
 ---
 layout: page
+title: "ΔΙΑΦΑΝΕΙΕΣ"
+subheadline: ""
+show_meta: false
+teaser: ""
+header: no
 permalink: "/slides/method/"
 gallery:
     - image_url: ch02/human-centered-design.jpg

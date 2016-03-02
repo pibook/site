@@ -1,5 +1,10 @@
 ---
 layout: page
+title: "ΔΙΑΦΑΝΕΙΕΣ"
+subheadline: ""
+show_meta: false
+teaser: ""
+header: no
 permalink: "/slides/preface/"
 gallery:
     - image_url: pre/bell-nomograph.png

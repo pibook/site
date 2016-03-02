@@ -1,5 +1,10 @@
 ---
 layout: page
+title: "ΔΙΑΦΑΝΕΙΕΣ"
+subheadline: ""
+show_meta: false
+teaser: ""
+header: no
 permalink: "/slides/intro/"
 gallery:
     - image_url: intro/github-profile.png

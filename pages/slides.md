@@ -5,11 +5,10 @@ subheadline: ""
 show_meta: false
 teaser: ""
 permalink: "/slides/"
-header:
-    image_fullwidth: "header-toc.jpg"
+header: no
 ---
 
-[Πρόλογος](/slides/pre/)
+[Πρόλογος](/slides/preface/)
 
 [Εισαγωγή](/slides/intro/)
 

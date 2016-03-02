@@ -1,5 +1,10 @@
 ---
 layout: page
+title: "ΔΙΑΦΑΝΕΙΕΣ"
+subheadline: ""
+show_meta: false
+teaser: ""
+header: no
 permalink: "/slides/tools/"
 gallery:
     - image_url: ch04/uist-history.png
