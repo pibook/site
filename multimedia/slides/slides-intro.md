@@ -1,9 +1,5 @@
 ---
-layout: page-fullwidth
-header:
-   image_fullwidth: "header0.jpg"
-   caption: This is a caption for the header image with link
-   caption_url:
+layout: page
 permalink: "/slides/intro/"
 gallery:
     - image_url: intro/github-profile.png
