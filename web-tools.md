@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header:
    image_fullwidth: "header4.jpg"
-permalink: "/tools/"
+permalink: "/manuscript/tools.html"
 show_meta: false
 ---
 

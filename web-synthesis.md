@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header:
    image_fullwidth: "header6.jpg"
-permalink: "/synthesis/"
+permalink: "/manuscript/synthesis.html"
 show_meta: false
 ---
 

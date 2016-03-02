@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header:
    image_fullwidth: "header1.jpg"
-permalink: "/definition/"
+permalink: "/manuscript/definition.html"
 show_meta: false
 ---
 

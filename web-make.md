@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header:
    image_fullwidth: "header8.jpg"
-permalink: "/make/"
+permalink: "/manuscript/make.html"
 show_meta: false
 ---
 

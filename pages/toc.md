@@ -9,21 +9,21 @@ header:
     image_fullwidth: "header-toc.jpg"
 ---
 
-[Πρόλογος](/pre/), [Διαφάνειες](/slides/pre/)
+[Πρόλογος](/manuscript/pre.html), [Διαφάνειες](/slides/preface/)
 
-[Εισαγωγή](/intro/), [Διαφάνειες](/slides/intro/)
+[Εισαγωγή](/manuscript/intro.html), [Διαφάνειες](/slides/intro/)
 
-[Ορισμός](/definition/), [Διαφάνειες](/slides/intro/), [Screencast A](https://www.youtube.com/watch?v=H3ZAjgOi61w), [Screencast B](https://www.youtube.com/watch?v=VbmJnAo5rWQ)
+[Ορισμός](/manuscript/definition.html), [Διαφάνειες](/slides/defintion/), [Screencast A](https://www.youtube.com/watch?v=H3ZAjgOi61w), [Screencast B](https://www.youtube.com/watch?v=VbmJnAo5rWQ)
 
-[Μέθοδος](/method/), [Διαφάνειες](/slides/ch02/), [Screencast A](https://www.youtube.com/watch?v=KM6Aakkc-gM), [Screencast B](https://www.youtube.com/watch?v=6LI_SH9IE-0)
+[Μέθοδος](/manuscript/method.html), [Διαφάνειες](/slides/method/), [Screencast A](https://www.youtube.com/watch?v=KM6Aakkc-gM), [Screencast B](https://www.youtube.com/watch?v=6LI_SH9IE-0)
 
-[Αρχέτυπα](/archetypes/), [Διαφάνειες](/slides/ch03/), [Screencast A](https://www.youtube.com/watch?v=YgQn5hxRi1U), [Screencast B](https://www.youtube.com/watch?v=k6TSBMZDO64)
+[Αρχέτυπα](/manuscript/archetypes.html), [Διαφάνειες](/slides/ch03/), [Screencast A](https://www.youtube.com/watch?v=YgQn5hxRi1U), [Screencast B](https://www.youtube.com/watch?v=k6TSBMZDO64)
 
-[Εργαλεία](/tools/), [Διαφάνειες](/slides/ch04/), [Screencast A](https://www.youtube.com/watch?v=_FnZVCQFxT4)
+[Εργαλεία](/manuscript/tools.html), [Διαφάνειες](/slides/ch04/), [Screencast A](https://www.youtube.com/watch?v=_FnZVCQFxT4)
 
-[Μοντέλα](/models/), [Διαφάνειες](/slides/ch05/)
+[Μοντέλα](/manuscript/models.html), [Διαφάνειες](/slides/ch05/)
 
-[Σύνθεση](/synthesis/), [Διαφάνειες](/slides/ch06/)
+[Σύνθεση](/manuscript/synthesis.html), [Διαφάνειες](/slides/ch06/)
 
 [Αναζήτηση](/manuscript/search.html)
 
