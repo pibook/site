@@ -5,8 +5,7 @@ subheadline: ""
 show_meta: false
 teaser: ""
 permalink: "/toc/"
-header:
-    image_fullwidth: "header-toc.jpg"
+header: no
 ---
 
 [Πρόλογος](/manuscript/pre.html), [Διαφάνειες](/slides/preface/)
@@ -17,13 +16,13 @@ header:
 
 [Μέθοδος](/manuscript/method.html), [Διαφάνειες](/slides/method/), [Screencast A](https://www.youtube.com/watch?v=KM6Aakkc-gM), [Screencast B](https://www.youtube.com/watch?v=6LI_SH9IE-0)
 
-[Αρχέτυπα](/manuscript/archetypes.html), [Διαφάνειες](/slides/ch03/), [Screencast A](https://www.youtube.com/watch?v=YgQn5hxRi1U), [Screencast B](https://www.youtube.com/watch?v=k6TSBMZDO64)
+[Αρχέτυπα](/manuscript/archetypes.html), [Διαφάνειες](/slides/archetypes/), [Screencast A](https://www.youtube.com/watch?v=YgQn5hxRi1U), [Screencast B](https://www.youtube.com/watch?v=k6TSBMZDO64)
 
-[Εργαλεία](/manuscript/tools.html), [Διαφάνειες](/slides/ch04/), [Screencast A](https://www.youtube.com/watch?v=_FnZVCQFxT4)
+[Εργαλεία](/manuscript/tools.html), [Διαφάνειες](/slides/tools/), [Screencast A](https://www.youtube.com/watch?v=_FnZVCQFxT4)
 
-[Μοντέλα](/manuscript/models.html), [Διαφάνειες](/slides/ch05/)
+[Μοντέλα](/manuscript/models.html), [Διαφάνειες](/slides/models/)
 
-[Σύνθεση](/manuscript/synthesis.html), [Διαφάνειες](/slides/ch06/)
+[Σύνθεση](/manuscript/synthesis.html), [Διαφάνειες](/slides/synthesis/)
 
 [Αναζήτηση](/manuscript/search.html)
 
