@@ -1,10 +1,11 @@
 ---
-layout: page-fullwidth
-header:
-   image_fullwidth: "header2.jpg"
-   caption: This is a caption for the header image with link
-   caption_url:
-permalink: "/slides/intro/"
+layout: page
+title: "Συλλογή Εικόνων"
+subheadline: ""
+show_meta: false
+teaser: ""
+header: no
+permalink: "/gallery/definition/"
 gallery:
     - image_url: ch01/macintosh-desktop.png
       caption: Το λειτουργικό σύστημα του επιτραπέζιου υπολογιστή Macintosh (1984) ήταν το πρώτο επιτυχημένο εμπορικό γραφικό περιβάλλον εργασίας και το πρώτο που έδωσε πρόσβαση σε πολλές εφαρμογές λογισμικού, ακόμη και σε χρήστες που δεν είχαν γνώσεις υπολογιστών, χάρη στην ευχρηστία του.

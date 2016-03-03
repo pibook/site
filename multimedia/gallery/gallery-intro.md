@@ -1,10 +1,11 @@
 ---
-layout: page-fullwidth
-header:
-   image_fullwidth: "header0.jpg"
-   caption: This is a caption for the header image with link
-   caption_url:
-permalink: "/slides/intro/"
+layout: page
+title: "Συλλογή Εικόνων"
+subheadline: ""
+show_meta: false
+teaser: ""
+header: no
+permalink: "/gallery/intro/"
 gallery:
     - image_url: intro/github-profile.png
       caption: Το προφίλ ενός χρήστη στο αποθετήριο πηγαίου κώδικα δίνει μια εποπτική εικόνα της ποιότητας και της ποσότητας της συνεισφοράς του σε συνεργατικά έργα, και μπορεί να αποτελέσει μοντέλο για τη βελτίωση της πιστοποίησης που δίνουν τα μαθήματα και οι σχολές.
