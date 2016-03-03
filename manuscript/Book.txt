@@ -1,8 +1,6 @@
 
 {frontmatter}
 
-pi-front.md
-pi-ax00-acro.md
 pi-pre.md
 pi-intro.md
 
@@ -20,3 +18,5 @@ pi-ch06.md
 pi-ax00.md
 pi-ax01.md
 pi-ax02.md
+
+pi-front.md
