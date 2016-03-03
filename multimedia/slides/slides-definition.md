@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Διαφάνειες"
-subheadline: ""
+title: "Ορισμός"
+subheadline: "ΔΙΑΦΑΝΕΙΕΣ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 1."
 show_meta: false
 teaser: ""
 header: no

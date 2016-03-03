@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Διαφάνειες"
-subheadline: ""
+title: "Εισαγωγή"
+subheadline: "ΔΙΑΦΑΝΕΙΕΣ"
 show_meta: false
 teaser: ""
 header: no

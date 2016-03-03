@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Διαφάνειες"
-subheadline: ""
+title: "Αρχέτυπα"
+subheadline: "ΔΙΑΦΑΝΕΙΕΣ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 3."
 show_meta: false
 teaser: ""
 header: no

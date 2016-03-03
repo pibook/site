@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Διαφάνειες"
-subheadline: ""
+title: "Μοντέλα"
+subheadline: "ΔΙΑΦΑΝΕΙΕΣ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 5."
 show_meta: false
 teaser: ""
 header: no
