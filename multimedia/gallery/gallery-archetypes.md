@@ -3,7 +3,7 @@ layout: page
 title: "Αρχέτυπα"
 subheadline: "ΣΥΛΛΟΓΗ ΕΙΚΟΝΩΝ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 3."
 show_meta: false
-teaser: ""
+teaser: "Μπορείτε να προσθέσετε περισσότερες εικόνες σύμφωνα με τις οδηγίες στο τέλος της σελίδας"
 header: no
 permalink: "/gallery/archetypes/"
 gallery:
