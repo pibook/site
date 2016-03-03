@@ -18,5 +18,3 @@ pi-ch06.md
 pi-ax00.md
 pi-ax01.md
 pi-ax02.md
-
-pi-front.md
