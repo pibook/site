@@ -51,5 +51,3 @@ gallery:
 
 
 {% include gallery %}
-
-{% include contribute-image %}
