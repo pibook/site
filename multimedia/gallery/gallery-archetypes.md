@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Συλλογή Εικόνων"
-subheadline: "για το 3ο κεφάλαιο: Αρχέτυπα"
+title: "Αρχέτυπα"
+subheadline: "ΣΥΛΛΟΓΗ ΕΙΚΟΝΩΝ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 3."
 show_meta: false
 teaser: ""
 header: no
