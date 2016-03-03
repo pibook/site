@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Διαφάνειες"
-subheadline: ""
+title: "Σύνθεση"
+subheadline: "ΔΙΑΦΑΝΕΙΕΣ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 6."
 show_meta: false
 teaser: ""
 header: no
