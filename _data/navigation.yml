@@ -39,6 +39,8 @@
     url: "/making/"
   - title: "ΔΙΑΦΑΝΕΙΕΣ"
     url: "/slides/"
+  - title: "ΕΙΚΟΝΕΣ"
+    url: "/gallery/"
   - title: "SCREENCASTS"
     url: "/screencasts/"
 
@@ -47,9 +49,11 @@
   url: "/book/"
   side: left
   dropdown:
-  - title: "PDF, EPUB, MOBI"
+  - title: "ΗΛΕΚΤΡΟΝΙΚΟΥ ΒΙΒΛΙΟΥ"
     url: "https://leanpub.com/pibook"
-
+  - title: "ΕΚΤΥΠΩΜΕΝΟΥ ΒΙΒΛΙΟΥ"
+    url: ""
+    
 - title: ΕΝΗΜΕΡΩΣΕΙΣ
   url: "/blog/archive/"
   side: left

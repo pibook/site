@@ -1,10 +1,11 @@
 ---
-layout: page-fullwidth
-header:
-   image_fullwidth: "header3.jpg"
-   caption: This is a caption for the header image with link
-   caption_url:
-permalink: "/slides/method/"
+layout: page
+title: "Μέθοδος"
+subheadline: "ΣΥΛΛΟΓΗ ΕΙΚΟΝΩΝ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 2."
+show_meta: false
+teaser: "Μπορείτε να προσθέσετε περισσότερες εικόνες σύμφωνα με τις οδηγίες στο τέλος της σελίδας"
+header: no
+permalink: "/gallery/method/"
 gallery:
     - image_url: ch02/human-centered-design.jpg
       caption: Ο κύκλος της ανθρωποκεντρικής σχεδίασης θεωρεί δεδομένο ότι οι ανθρώπινες ανάγκες είναι ένας κινούμενος στόχος, αλλά για πρακτικούς λόγους κάποια σχεδίαση κλειδώνει και βγαίνει ως μία έκδοση.
