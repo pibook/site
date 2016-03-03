@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Συλλογή Εικόνων"
-subheadline: ""
+title: "Εργαλεία"
+subheadline: "ΣΥΛΛΟΓΗ ΕΙΚΟΝΩΝ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 4."
 show_meta: false
-teaser: ""
+teaser: "Μπορείτε να προσθέσετε περισσότερες εικόνες σύμφωνα με τις οδηγίες στο τέλος της σελίδας"
 header: no
 permalink: "/gallery/tools/"
 gallery:

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Συλλογή Εικόνων"
-subheadline: ""
+title: "Ορισμός"
+subheadline: "ΣΥΛΛΟΓΗ ΕΙΚΟΝΩΝ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 1."
 show_meta: false
-teaser: ""
+teaser: "Μπορείτε να προσθέσετε περισσότερες εικόνες σύμφωνα με τις οδηγίες στο τέλος της σελίδας"
 header: no
 permalink: "/gallery/definition/"
 gallery:

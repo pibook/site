@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Συλλογή Εικόνων"
-subheadline: ""
+title: "Μοντέλα"
+subheadline: "ΣΥΛΛΟΓΗ ΕΙΚΟΝΩΝ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 5."
 show_meta: false
-teaser: ""
+teaser: "Μπορείτε να προσθέσετε περισσότερες εικόνες σύμφωνα με τις οδηγίες στο τέλος της σελίδας"
 header: no
 permalink: "/gallery/models/"
 gallery:

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Συλλογή Εικόνων"
-subheadline: ""
+title: "Εισαγωγή"
+subheadline: "ΣΥΛΛΟΓΗ ΕΙΚΟΝΩΝ ΓΙΑ ΤΗΝ ΕΙΣΑΓΩΓΗ"
 show_meta: false
-teaser: ""
+teaser: "Μπορείτε να προσθέσετε περισσότερες εικόνες σύμφωνα με τις οδηγίες στο τέλος της σελίδας"
 header: no
 permalink: "/gallery/intro/"
 gallery:
