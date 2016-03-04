@@ -7,25 +7,25 @@
   side: left
   dropdown:
   - title: "ΠΡΟΛΟΓΟΣ"
-    url: "/manuscript/preface.html"
+    url: "/chapters/preface/"
   - title: "ΕΙΣΑΓΩΓΗ"
-    url: "/manuscript/intro.html"
+    url: "/chapters/intro/"
   - title: "1. ΟΡΙΣΜΟΣ"
-    url: "/manuscript/definition.html"
+    url: "/chapters/definition/"
   - title: "2. ΜΕΘΟΔΟΣ"
-    url: "/manuscript/method.html"
+    url: "/chapters/method/"
   - title: "3. ΑΡΧΕΤΥΠΑ"
-    url: "/manuscript/archetypes.html"
+    url: "/chapters/archetypes/"
   - title: "4. ΕΡΓΑΛΕΙΑ"
-    url: "/manuscript/tools.html"
+    url: "/chapters/tools/"
   - title: "5. ΜΟΝΤΕΛΑ"
-    url: "/manuscript/models.html"
+    url: "/chapters/models/"
   - title: "6. ΣΥΝΘΕΣΗ"
-    url: "/manuscript/synthesis.html"
+    url: "/chapters/synthesis/"
   - title: "I. ΑΝΑΖΗΤΗΣΗ"
-    url: "/manuscript/search.html"
+    url: "/making/"
   - title: "II. ΚΑΤΑΣΚΕΥΗ"
-    url: "/manuscript/make.html"
+    url: "/making/"
 
 - title: "ΠΟΛΥΜΕΣΑ"
   url: ""
@@ -53,7 +53,7 @@
     url: "https://leanpub.com/pibook"
   - title: "ΕΚΤΥΠΩΜΕΝΟΥ ΒΙΒΛΙΟΥ"
     url: ""
-    
+
 - title: ΕΝΗΜΕΡΩΣΕΙΣ
   url: "/blog/archive/"
   side: left
