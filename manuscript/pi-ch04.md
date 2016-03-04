@@ -128,27 +128,3 @@
 Από τη σκοπιά των εργαλείων και της διαδικασίας ανάπτυξης, το πιο ενδιαφέρον τμήμα του λογισμικού ReacTIVision που χρησιμοποιείται στο σύστημα Reactable, είναι το υποσύστημα της προσομοίωσης. Η δοκιμή για νέες χειρονομίες, για συνεργατικές εφαρμογές σε πολυαπτική οθόνη, μπορεί να ξεκινήσει από τον προσομοιωτή που εκτελείται πάνω στον επιτραπέζιο υπολογιστή και επιτρέπει στον κατασκευαστή να εξερευνήσει σχετικά άμεσα, μέσα από γρήγορη δοκιμή και επανάληψη, πιθανές εναλλακτικές. Στη συνέχεια, βέβαια, θα πρέπει να έχει στη διάθεσή του και την αντίστοιχη πραγματική πολυαπτική επιφάνεια· αφού είναι διαφορετικό για τους χρήστες να χειρίζονται απτά αντικείμενα και τα δάκτυλά τους, από το να προσομοιώνουν όλες αυτές τις κινήσεις μέσω του ποντικιού.
 
 Συνοπτικά, βλέπουμε ότι η περίπτωση του προγραμματισμού της διάδρασης για το Reactable που αντιπροσωπεύει ένα νέο σύστημα διάδρασης, απαιτεί πολλές δεξιότητες πέρα από τη γλώσσα προγραμματισμού. Αρχικά, οι κατασκευαστές του Reactable είχαν ως στόχο να ικανοποιήσουν τις ανάγκες μιας πολύ συγκεκριμένης ομάδας χρηστών, των μουσικών που παίζουν ζωντανά ηλεκτρονική μουσική. Με αφετηρία τις ειδικές ανάγκες αυτής της ομάδας σχεδίασαν και κατασκεύασαν τόσο το υλικό όσο και το λογισμικό για τη νέα συσκευή διάδρασης. Σε αυτήν την προσπάθεια δε χρειάστηκε να επανεφεύρουν τον τροχό. Αντιθέτως, ενσωμάτωσαν όσα περισσότερα έτοιμα στοιχεία μπορούσαν από σχετικά έργα (π.χ., πολυαπτική οθόνη προβολής, αναγνώριση εικόνας, πρωτόκολλο μετάδοσης δεδομένων). Σε αναλογία με την περίπτωση της γραφικής επιφάνειας εργασίας του επιτραπέζιου υπολογιστή η οποία στόχευε να διευκολύνει την εργασία στο γραφείο, οι κατασκευαστές του Reactable οδηγήθηκαν σε μια νέα συσκευή διάδρασης που εξυπηρετεί τις ανάγκες της ζωντανής ηλεκτρονικής μουσικής με έναν νέο τρόπο, ο οποίος όμως βασίζεται σε στοιχεία από προηγούμενη έρευνα και ταυτόχρονα έχει την ευελιξία να εξυπηρετήσει και σχετικές ομάδες χρηστών.
-
-## Σχετική βιβλιογραφία
-
-Graham, P. (2004). Hackers and Painters: Big Ideas from the Computer Age. O'Reilly Media
-
-Grudin, J. (1990, March). The computer reaches out: the historical continuity of interface design. In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 261-268). ACM.
-
-Hunt, A. A. (2000). The pragmatic programmer: from journeyman to master. Addison-Wesley Professional.
-
-McConnell, S. (2004). Code complete. O'Reilly Media, Inc.
-
-Myers, B., Hudson, S. E., & Pausch, R. (2000). Past, present, and future of user interface software tools. ACM Transactions on Computer-Human Interaction (TOCHI), 7(1), 3-28.
-
-Noble, J. (2012). Programming Interactivity. O'Reilly.
-
-Olsen, D. R. (2009) Building Interactive Systems: Principles for Human-Computer Interaction. Cengage Learning.
-
-Raymond, E. (1999). The cathedral and the bazaar. Knowledge, Technology & Policy, 12(3), 23-49.
-
-Reas, C., & Fry, B. (2007). Processing: a programming handbook for visual designers and artists (Vol. 6812). Mit Press.
-
-Thimbleby, H. (2007). Press On:Principles of Interaction Programming. MIT Press
-
-Victor, Β. (2012). [Learnable Programming: Designing a Programming System for Understanding Programs](http://worrydream.com/LearnableProgramming/)

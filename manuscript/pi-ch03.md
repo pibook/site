@@ -121,23 +121,3 @@ O σχεδιασμός του υπολογιστή και ειδικά των σ
 Η εφαρμογή iTunes, εκτός από το να οργανώνει και να διανέμει τα πολυμεσικά πλέον αρχεία του χρήστη, μετατρέπεται σταδιακά στον Δούρειο Ίππο που θα φέρει τις κινητές εφαρμογές στη συσκευή του χρήστη. Οι πρώτες εκδόσεις του iTunes είναι επιτραπέζιες εφαρμογές εκτέλεσης μουσικών αρχείων και συγχρονισμού με το iPod, ενώ οι τελευταίες εκδόσεις συνδέονται και ενημερώνουν το λογισμικό για όλες τις κινητές συσκευές του χρήστη (π.χ., smart phone, tablet, smart watch, κτλ.). Ταυτόχρονα, συνδέονται και με τα οικιακά συστήματα ψυχαγωγίας, όπως ηχεία και τηλεόραση, ώστε να επιτρέψουν την εκτέλεση των πολυμεσικών αρχείων σε συσκευές εξόδου υψηλότερης πιστότητας σε σχέση με εκείνες του επιτραπέζιου υπολογιστή.
 
 Ένα σημαντικό μάθημα που μας δίνει η ιστορία του iPod είναι πως τα σύγχρονα διαδραστικά συστήματα δε στέκονται από μόνα τους, αλλά λειτουργούν σε ένα οικοσύστημα συσκευών και εφαρμογών. Ένα ακόμη μάθημα είναι πως η εισαγωγή της καινοτομίας πρέπει να γίνει τόσο σταδιακά που η μετάβαση να είναι διαφανής για τον τελικό χρήστη. Όταν οι πρώτοι χρήστες του iPod έβαζαν το iTunes ήθελαν απλώς να οργανώσουν καλύτερα τη μουσική τους, ήταν ένα πρόβλημα που ήδη αντιμετώπιζαν στον επιτραπέζιο υπολογιστή. Καθώς απέκτησαν οικειότητα με το iTunes το είδαν να μεταμορφώνεται σε ένα πολυεργαλείο για όλες τις κινητές συσκευές τους.
-
-## Σχετική βιβλιογραφία
-
-Banzi, M. (2009). Getting Started with arduino. O'Reilly Media, Inc.
-
-Card, S. K., English, W. K., & Burr, B. J. (1978). Evaluation of mouse, rate-controlled isometric joystick, step keys, and text keys for text selection on a CRT. Ergonomics, 21(8), 601-613.
-
-Cassell, J. (Ed.). (2000). Embodied conversational agents. MIT press.
-
-Ken Hinckley, Koji Yatani, Michel Pahud, Nicole Coddington, Jenny Rodenhouse, Andy Wilson, Hrvoje Benko, and Bill Buxton. 2010. Pen + touch = new tools. In Proceedings of the 23nd annual ACM symposium on User interface software and technology (UIST '10). ACM, New York, NY, USA, 27-36.
-
-Igoe, T. (2007). Making things talk: practical methods for connecting physical objects. O'reilly.
-
-McEwen, A, Cassimally, H. (2013). Designing the Internet of Things. Wiley.
-
-Reeves, B., & Nass, C. (1996). How people treat computers, television, and new media like real people and places. CSLI Publications and Cambridge university press.
-
-Shneiderman, B., & Maes, P. (1997). Direct manipulation vs. interface agents. interactions, 4(6), 42-61.
-
-O'Sullivan, D., & Igoe, T. (2004). Physical computing: sensing and controlling the Physical world with computers. Cengage Learning.
