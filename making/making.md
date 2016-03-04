@@ -18,6 +18,10 @@ show_meta: false
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
+{% include_relative search.md %}
+
+{% include_relative make.md %}
+
 {% include_relative mi-ch01.md %}
 
 {% include_relative mi-ch02.md %}
