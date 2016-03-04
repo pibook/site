@@ -8,20 +8,20 @@ permalink: "/biography/"
 header: no
 ---
 
-[Πρόλογος](/slides/preface/)
+[Alan Kay](/biography/kay/)
 
-[Εισαγωγή](/slides/intro/)
+[Douglas Engelbart](/biography/engelbart/)
 
-[Ορισμός](/slides/definition/)
+[Bret Victor](/biography/victor/)
 
-[Μέθοδος](/slides/method/)
+[Ivan Sutherland](/biography/sutherland/)
 
-[Αρχέτυπα](/slides/archetypes/)
+[Bill Buxton](/biography/buxton/)
 
-[Εργαλεία](/slides/tools/)
+[Don Norman](/biography/norman/)
 
-[Μοντέλα](/slides/models/)
+[David Canfield Smith](/biography/smith/)
 
-[Σύνθεση](/slides/synthesis/)
+[J. C. R. Licklider](/biography/licklider/)
 
 {% include license.html %}

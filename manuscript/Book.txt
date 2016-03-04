@@ -15,6 +15,5 @@ pi-ch06.md
 
 {backmatter}
 
-pi-ax00.md
 pi-ax01.md
 pi-ax02.md
