@@ -8,10 +8,6 @@ permalink: "/bibliography/"
 header: no
 ---
 
-[Πρόλογος](/bibliography/preface/)
-
-[Εισαγωγή](/bibliography/intro/)
-
 [Ορισμός](/bibliography/definition/)
 
 [Μέθοδος](/bibliography/method/)

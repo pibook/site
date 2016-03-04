@@ -98,36 +98,3 @@ J. C. R. Licklider
 H Wikipedia είναι ένα σπουδαίο παράδειγμα προγραμματισμού της διάδρασης για τους παρακάτω λόγους: Πρώτον, βλέπουμε για μια ακόμη φορά (π.χ., Facebook) ότι ένα σύστημα διάδρασης ανθρώπου-υπολογιστή μπορεί να γίνει πολύ επιτυχημένο, όχι επειδή είναι το πιο προηγμένο τεχνολογικά, αλλά επειδή είναι αυτό που εξυπηρετεί με απλό τρόπο τις πραγματικές ανάγκες των χρηστών (π.χ., επεξεργασία περιεχομένου χωρίς την ανάγκη πρόσθετου λογισμικού)και την κατάλληλη χρονική στιγμή. Δεύτερον, το μοντέλο λογισμικού τύπου wiki, μετά την επιτυχία που είχε με τη Wikipedia, χρησιμοποιήθηκε σε πάρα πολλές άλλες περιπτώσεις, όπως στην κατασκευή προσωπικών ιστοσελίδων από τους τελικούς χρήστες (π.χ., Wordpress). Τέλος, αν και μια εγκυκλοπαίδεια που δίνει εύκολη πρόσβαση στην ανθρώπινη γνώση σε πολλές γλώσσες είναι από μόνη της ένα σπουδαίο προϊόν, αυτό που κάνει πραγματικά ξεχωριστή τη Wikipedia είναι ότι αποτελεί την καλύτερη απόδειξη ότι ένα απλό λογισμικό και μερικοί κοινώς αποδεκτοί κανόνες συνεργασίας (π.χ., αρχείο αλλαγών και περιοχή συζήτησης) μπορούν να αντικαταστάσησουν τη μέχρι τότε ιεαραρχική και κερδοσκοπική διαδικασία παραγωγής προϊόντων περιεχομένου.
 
 Το παραπάνω παράδειγμα λειτουργίας (καθολική συμμετοχή και συνεργατικό λογισμικό) της Wikipedia εφαρμόστηκε σε πολλές ακόμη περιπτώσεις συνεργατικής παραγωγής περιεχομένου, με ιδιαίτερη έμφαση στις περιπτώσεις εκείνες που οι κερδοσκοπικοί οργανισμοί δεν είχαν κίνητρα συμμετοχής (π.χ., ushahidi). Ένα ακόμη πολύ επιτυχημένο παράδειγμα είναι η παραγωγή χαρτογραφικής πληροφόρησης και ειδικά η προσπάθεια του OpenStreetMap, το οποίο επιτρέπει σε όλους τους χρήστες να εισάγουν δρόμους και χαρτογραφική πληροφορία σε μια κοινή περιοχή, με σκοπό να δημιουργηθεί μια εναλλακτική στα κυρίαρχα προϊόντα όπως το Google Maps, που ελέγχονται από κερδοσκοπικές εταιρείες. Για τους δημιουργούς των αντίστοιχων συστημάτων ανοικτής πρόσβασης, τα κίνητρα συμμετοχής τους είναι συνήθως κάτι περισσότερο από μια φιλοσοφική άρνηση του μοντέλου λειτουργίας των κερδοσκοπικών επιχειρήσεων, αφού ο στόχος τους είναι περισσότερο η πρόσβαση σε μια διαφορετική αντίληψη στην παραγωγή του περιεχομένου. Άλλωστε, ακόμη και οι κυρίαρχες πλατφόρμες χαρτών αποδέχτηκαν την αδυναμία τους να καλύψουν τις επιμέρους ανάγκες που συνέχεια προκύπτουν, και έδωσαν (από το 2013) τη δυνατότητα στους χρήστες να κάνουν προτάσεις για αλλαγές στους χάρτες τους (π.χ., Google Map Maker, Here Map Creator).
-
-
-## Σχετική βιβλιογραφία
-
-Baecker, R. M. (Ed.). (1993). Readings in groupware and computer-supported cooperative work: Assisting human-human collaboration. Morgan Kaufmann.
-
-Bush, V. (1945). As we may think. The atlantic monthly, 176(1), 101-108.
-
-Berners-Lee, T. (1996). WWW: Past, present, and future. Computer, 29(10), 69-77.
-
-Bernstein, M. S., Little, G., Miller, R. C., Hartmann, B., Ackerman, M. S., Karger, D. R., ... & Panovich, K. (2010, October). Soylent: a word processor with a crowd inside. In Proceedings of the 23nd annual ACM symposium on User interface software and technology (pp. 313-322). ACM.
-
-Garrett, J. J. (2010). Elements of user experience, the: user-centered design for the web and beyond. Pearson Education.
-
-Herbsleb, J. D. (2007, May). Global software engineering: The future of socio-technical coordination. In 2007 Future of Software Engineering (pp. 188-198). IEEE Computer Society.
-
-Jaimes, A., & Sebe, N. (2007). Multimodal human–computer interaction: A survey. Computer vision and image understanding, 108(1), 116-134.
-
-Licklider, J. C. R. (1960). Man-computer symbiosis. Human Factors in Electronics, IRE Transactions on, (1), 4-11.
-
-Malone, T. W., & Crowston, K. (1994). The interdisciplinary study of coordination. ACM Computing Surveys (CSUR), 26(1), 87-119.
-
-Nelson, T. H. (1987). Computer lib: Dream machines. Tempus Books of Microsoft Press.
-
-Norman, D. A. (1993). Things that make us smart: Defending human attributes in the age of the machine. Basic Books.
-
-Packer, R., & Jordan, K. (2002). Multimedia: from Wagner to virtual reality. WW Norton & Company.
-
-Sellen, A. J., & Harper, R. H. (2002). The myth of the paperless office. MIT press.
-
-Shiffman, Daniel. Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction. Morgan Kaufmann, 2009.
-
-Νικόλαος Αβούρης, Χαράλαμπος Καραγιαννίδης, Βασίλης Ι. Κόμης (επιμέλεια), Συνεργατική τεχνολογία: Συστήματα και μοντέλα συνεργασίας για εργασία, μάθηση, κοινότητες πρακτικής και δημιουργία γνώσης, Κλειδάριθμος, 2009

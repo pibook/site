@@ -8,20 +8,20 @@ permalink: "/case-study/"
 header: no
 ---
 
-[Πρόλογος](/slides/preface/)
+[Πρόλογος](/case-study/preface/)
 
-[Εισαγωγή](/slides/intro/)
+[Εισαγωγή](/case-study/intro/)
 
-[Ορισμός](/slides/definition/)
+[Ορισμός](/case-study/definition/)
 
-[Μέθοδος](/slides/method/)
+[Μέθοδος](/case-study/method/)
 
-[Αρχέτυπα](/slides/archetypes/)
+[Αρχέτυπα](/case-study/archetypes/)
 
-[Εργαλεία](/slides/tools/)
+[Εργαλεία](/case-study/tools/)
 
-[Μοντέλα](/slides/models/)
+[Μοντέλα](/case-study/models/)
 
-[Σύνθεση](/slides/synthesis/)
+[Σύνθεση](/case-study/synthesis/)
 
 {% include license.html %}

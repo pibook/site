@@ -87,37 +87,3 @@
 Από την πλευρά της σχεδίασης της διάδρασης, το κοινωνικό δίκτυο Facebook καθιέρωσε μια σειρά από νέα μοτίβα, τα οποία έχουν πλέον ανάλογη αποδοχή με τα μοτίβα της γραφικής επιφάνειας εργασίας. Ανεξάρτητα από το αν μια εφαρμογή είναι κοινωνικό δίκτυο ή όχι, πολλές φορές πλέον δίνει τη δυνατότητα στους χρήστες της να μοιραστούν απευθείας το περιεχόμενό τους (share) ή τη δραστηριότητά τους στα κοινωνικά δίκτυα. Επίσης, δίνει τη δυνατότητα να σχολιάσουν (comment) και να δηλώσουν την αποδοχή τους (like) για το περιεχόμενο που εμφανίζεται. Επιπλέον, η μαζική χρήση του κοινωνικού δικτύου (Τον Αύγουστο του 2015 το Facebook αριθμεί 1,5 δις μέλη) και για πολλές διαφορετικές δραστηριότητες, έχει επιτρέψει και την εκτέλεση μαζικών πειραμάτων στο πεδίο ακόμα και ερήμην των χρηστών του, στα οποία μελετήθηκε αν η εμφάνιση διαφορετικού περιεχομένου (π.χ., θετικό, αρνητικό περιεχόμενο), μπορεί να επηρεάσει αντίστοιχα τη συμπεριφορά των χρηστών.
 
 Από την πλευρά της κατασκευής και της επιλογής των τεχνολογικών εργαλείων της διάδρασης, το Facebook έχει υλοποιηθεί αρχικά και κατά ένα μεγάλο μέρος του στην PHP, παρότι υπάρχουν πολλές άλλες επιλογές που θεωρούνται περισσότερο κατάλληλες. Στην πράξη, οι κατασκευαστές του Facebook διάλεξαν ένα οικείο εργαλείο και όταν βρέθηκαν μπροστά σε θέματα απόδοσης, αντί να ξαναγράψουν το σύστημα, επέλεξαν να φτιάξουν έναν μεταφραστή (compiler) που μετατρέπει την PHP σε C++, η οποία μπορεί να εκτελεστεί γρηγορότερα. Τέλος, εκτός από την επίδραση που είχε το Facebook στον τρόπο που αναπτύσσονται όλες οι διαδραστικές εφαρμογές, είχε επιπλέον σημαντική επίδραση στον τρόπο που ορίζουμε το διαδίκτυο, καθώς μειώθηκε η σημασία του WWW.
-
-## Σχετική βιβλιογραφία
-
-Beaudouin-Lafon, M. (2004, May). Designing interaction, not interfaces. In Proceedings of the working conference on Advanced visual interfaces (pp. 15-22). ACM.
-
-Bickmore, T. W., & Picard, R. W. (2005). Establishing and maintaining long-term human-computer relationships. ACM Transactions on Computer-Human Interaction (TOCHI), 12(2), 293-327.
-
-Bly, S. A., Harrison, S. R., & Irwin, S. (1993). Media spaces: bringing people together in a video, audio, and computing environment. Communications of the ACM, 36(1), 28-46.
-
-Card, S. K., Moran, T. P., & Newell, A. (1983). The psychology of human-computer interaction. Lawrence Erlbaum Associates.
-
-Denning, P., & Metcalfe, J. M. (1997). Beyond Calculation: The Next 50 Years of Computing. Copernicus
-
-Findlater, L., & McGrenere, J. (2004, April). A comparison of static, adaptive, and adaptable menus. In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 89-96). ACM.
-
-Fincher, D. (Director). (2010). The Social Network [Film]. United States: Columbia Pictures.
-
-Fogg, B. J. (2002). Persuasive Technology: Using Computers to Change What We Think and Do. Morgan Kauffman.
-
-Krueger, M. W., Gionfriddo, T., & Hinrichsen, K. (1985, April). VIDEOPLACE—an artificial reality. In ACM SIGCHI Bulletin (Vol. 16, No. 4, pp. 35-40). ACM.
-
-Laurel, B. (2013). Computers as theatre. Addison-Wesley.
-
-McCullough, M. (1998). Abstracting craft: The practiced digital hand. MIT press.
-
-Norman, D. A. (2004). Emotional design: Why we love (or hate) everyday things. Basic books.
-
-Papert, S. (1980). Mindstorms: Children, computers, and powerful ideas. Basic Books, Inc..
-
-Reeves, B., & Nass, C. (1996). How people treat computers, television, and new media like real people and places. CSLI Publications and Cambridge university press.
-
-Rheingold, H. (1985). Tools for thought: The history and future of mind-expanding technology. MIT Press.
-
-Tractinsky, N., Katz, A. S., & Ikar, D. (2000). What is beautiful is usable. Interacting with computers, 13(2), 127-145.
