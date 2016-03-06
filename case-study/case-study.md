@@ -1,16 +1,12 @@
 ---
 layout: page
-title: "ΜΕΛΕΤΕΣ ΠΕΡΙΠΤΩΣΗΣ"
+title: "Μελέτες περίπτωσης"
 subheadline: ""
 show_meta: false
 teaser: ""
 permalink: "/case-study/"
 header: no
 ---
-
-[Πρόλογος](/case-study/preface/)
-
-[Εισαγωγή](/case-study/intro/)
 
 [Ορισμός](/case-study/definition/)
 
