@@ -1,7 +1,7 @@
 ---
-permalink: /search/
+permalink: /google/
 layout: page
-title: "Search"
+title: "Google search"
 ---
 
 {% include google_search %}
