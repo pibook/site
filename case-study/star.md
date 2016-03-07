@@ -4,7 +4,7 @@ title: "Star"
 subheadline: "ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ"
 show_meta: false
 teaser: ""
-permalink: "/case-study/definition/"
+permalink: "/case-study/xerox-star/"
 header: no
 ---
 
