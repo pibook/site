@@ -30,4 +30,4 @@ gallery:
 ---
 
 
-{% include gallery %}
+{% include slides %}
