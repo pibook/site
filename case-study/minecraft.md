@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Ορισμός"
-subheadline: "ΜΕΛΕΤΕΣ ΠΕΡΙΠΤΩΣΗΣ"
+title: "Minecraft"
+subheadline: "ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ"
 show_meta: false
 teaser: ""
 permalink: "/case-study/minecraft/"
