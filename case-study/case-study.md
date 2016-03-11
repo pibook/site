@@ -20,4 +20,10 @@ header: no
 
 [Σύνθεση](/case-study/synthesis/)
 
+<ul>
+    {% for post in site.categories.case-study %}
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+
 {% include license.html %}
