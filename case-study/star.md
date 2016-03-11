@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Star"
+title: "Xerox Star"
 subheadline: "ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ"
 show_meta: false
 teaser: ""
-permalink: "/case-study/xerox-star/"
+permalink: "/case-study/star/"
 header: no
 ---
 
