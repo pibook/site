@@ -27,5 +27,3 @@ header: no
 </ul>
 
 {% include contribute-case-study %}
-
-{% include license.html %}
