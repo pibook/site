@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: "ΜΕΛΕΤΗΣΕ"
+- title: "ΜΕΛΕΤΗ"
   url: "/toc/"
   side: left
   dropdown:
@@ -15,7 +15,7 @@
   - title: "ΠΕΡΙΠΤΩΣΕΙΣ"
     url: "/case-study/"
 
-- title: "ΔΗΜΙΟΥΡΓΗΣΕ"
+- title: "ΔΗΜΙΟΥΡΓΙΑ"
   url: ""
   side: left
   dropdown:
