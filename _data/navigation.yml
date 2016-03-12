@@ -3,7 +3,7 @@
   side: left
 
 - title: "ΜΕΛΕΤΗ"
-  url: "/toc/"
+  url: "/study/"
   side: left
   dropdown:
   - title: "SCREENCASTS"
