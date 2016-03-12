@@ -48,13 +48,8 @@
 
 
 - title: ΑΓΟΡΑ
-  url: "/book/"
+  url: "/buy/"
   side: left
-  dropdown:
-  - title: "LEANPUB"
-    url: "https://leanpub.com/pibook"
-  - title: "LULU"
-    url: "http://www.lulu.com/shop/konstantinos-chorianopoulos/programming-interactivity/paperback/product-22597875.html"
 
 - title: ΕΝΗΜΕΡΩΣΕΙΣ
   url: "/blog/archive/"
