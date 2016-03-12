@@ -47,8 +47,8 @@
     url: "/screencasts/"
 
 
-- title: ΑΓΟΡΑ
-  url: "/buy/"
+- title: ΒΙΒΛΙΟ
+  url: "/book/"
   side: left
 
 - title: ΕΝΗΜΕΡΩΣΕΙΣ
