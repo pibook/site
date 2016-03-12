@@ -1,7 +1,6 @@
 ---
 layout: page-fullwidth
-header:
-   image_fullwidth: "header3.jpg"
+header: no
 permalink: "/making/"
 show_meta: false
 ---
@@ -18,7 +17,7 @@ show_meta: false
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-{% include_relative mi-ch01.md %}
+{% include_relative video-game.md %}
 
 {% include_relative mi-ch02.md %}
 
