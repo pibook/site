@@ -23,5 +23,3 @@ header: no
 [Μοντέλα](/slides/models/)
 
 [Σύνθεση](/slides/synthesis/)
-
-{% include license.html %}
