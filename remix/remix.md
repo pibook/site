@@ -30,7 +30,5 @@ show_meta: false
 
 {% include_relative rmx-ch06.md %}
 
-{% include license.html %}
-
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

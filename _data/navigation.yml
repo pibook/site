@@ -2,50 +2,27 @@
   url: "/"
   side: left
 
-- title: "ΚΕΦΑΛΑΙΑ"
-  url: ""
+- title: "ΜΕΛΕΤΗΣΕ"
+  url: "/toc/"
   side: left
   dropdown:
-  - title: "ΠΡΟΛΟΓΟΣ"
-    url: "/preface/"
-  - title: "ΕΙΣΑΓΩΓΗ"
-    url: "/intro/"
-  - title: "1. ΟΡΙΣΜΟΣ"
-    url: "/definition/"
-  - title: "2. ΜΕΘΟΔΟΣ"
-    url: "/method/"
-  - title: "3. ΑΡΧΕΤΥΠΑ"
-    url: "/archetypes/"
-  - title: "4. ΕΡΓΑΛΕΙΑ"
-    url: "/tools/"
-  - title: "5. ΜΟΝΤΕΛΑ"
-    url: "/models/"
-  - title: "6. ΣΥΝΘΕΣΗ"
-    url: "/synthesis/"
-  - title: "I. ΑΝΑΖΗΤΗΣΗ"
-    url: "/research/"
-  - title: "II. ΚΑΤΑΣΚΕΥΗ"
-    url: "/make/"
-
-- title: "ΠΟΛΥΜΕΣΑ"
-  url: ""
-  side: left
-  dropdown:
-  - title: "ΠΕΡΙΕΧΟΜΕΝΑ"
-    url: "/toc/"
-  - title: "ΠΕΡΙΠΤΩΣΕΙΣ"
-    url: "/case-study/"
-  - title: "ΜΟΤΙΒΑ"
-    url: "/remix/"
-  - title: "ΚΑΤΑΣΚΕΥΕΣ"
-    url: "/making/"
+  - title: "SCREENCASTS"
+    url: "/screencasts/"
   - title: "ΔΙΑΦΑΝΕΙΕΣ"
     url: "/slides/"
   - title: "ΕΙΚΟΝΕΣ"
     url: "/gallery/"
-  - title: "SCREENCASTS"
-    url: "/screencasts/"
+  - title: "ΠΕΡΙΠΤΩΣΕΙΣ"
+    url: "/case-study/"
 
+- title: "ΔΗΜΙΟΥΡΓΗΣΕ"
+  url: ""
+  side: left
+  dropdown:
+  - title: "ΜΟΤΙΒΑ"
+    url: "/remix/"
+  - title: "ΚΑΤΑΣΚΕΥΕΣ"
+    url: "/making/"
 
 - title: ΒΙΒΛΙΟ
   url: "/book/"
