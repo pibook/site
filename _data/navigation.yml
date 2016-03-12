@@ -16,7 +16,7 @@
     url: "/case-study/"
 
 - title: "ΔΗΜΙΟΥΡΓΙΑ"
-  url: ""
+  url: "/create/"
   side: left
   dropdown:
   - title: "ΜΟΤΙΒΑ"

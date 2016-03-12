@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Πίνακας Περιεχομένων"
+title: "Δημιουργία"
 subheadline: ""
 show_meta: false
 teaser: ""
-permalink: "/toc/"
+permalink: "/create/"
 header: no
 ---
 
@@ -27,5 +27,3 @@ header: no
 [Αναζήτηση](/search/)
 
 [Κατασκευή](/make/)
-
-{% include license.html %}
