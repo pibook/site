@@ -7,6 +7,15 @@
 #   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
 #                                                 /____/
 #
+
+# Collections
+
+collections:
+  case-study:
+    output: true
+    permalink: /case-study/:path/
+
+
 # Title of your website
 title: "Ο Προγραμματισμός της Διάδρασης"
 

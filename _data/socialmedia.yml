@@ -2,17 +2,17 @@
 - name: Twitter
   url: http://twitter.com/ep1dr0me
   class: icon-twitter
-  title: ""
+  title: Twitter
 
 - name: GitHub
   url: http://github.com/pibook/pibookgr
   class: icon-github
-  title:
+  title: GitHub
 
 - name: Facebook
   url: http://www.facebook.com/pibookgr
   class: icon-facebook
-  title:
+  title: Facebook
 
 - name: YouTube
   url: https://www.youtube.com/channel/UCXRT71xdiJVlbgMpeMvUZ3g
