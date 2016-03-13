@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Βιβλίο"
+title: "Αγορά"
 subheadline: ""
 show_meta: false
 teaser: ""
-permalink: "/book/"
+permalink: "/buy/"
 header: no
 ---
 

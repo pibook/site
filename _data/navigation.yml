@@ -27,8 +27,13 @@
     url: "/making/"
 
 - title: ΒΙΒΛΙΟ
-  url: "/book/"
+  url: ""
   side: left
+  dropdown:
+  - title: "ΑΓΟΡΑ"
+    url: "/buy/"
+  - title: "ΣΧΕΤΙΚΑ"
+    url: "/related-books/"
 
 - title: ΕΝΗΜΕΡΩΣΕΙΣ
   url: "/blog/archive/"
