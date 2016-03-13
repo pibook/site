@@ -13,3 +13,13 @@
   url: http://www.facebook.com/pibookgr
   class: icon-facebook
   title:
+
+- name: YouTube
+  url: https://www.youtube.com/channel/UCXRT71xdiJVlbgMpeMvUZ3g
+  class: icon-youtube
+  title: "Videos and Screencasts"
+
+- name: Google+
+  url: https://plus.google.com/u/0/+KonstantinosChorianopoulos/
+  class: icon-googleplus
+  title: "Google+"
