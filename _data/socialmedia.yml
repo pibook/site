@@ -1,8 +1,8 @@
 
-- name: Twitter
-  url: http://twitter.com/ep1dr0me
-  class: icon-twitter
-  title: Twitter
+#- name: Twitter
+#  url: http://twitter.com/ep1dr0me
+#  class: icon-twitter
+#  title: Twitter
 
 - name: GitHub
   url: http://github.com/pibook/pibookgr
@@ -19,7 +19,7 @@
   class: icon-youtube
   title: "Videos and Screencasts"
 
-- name: Phlow YouTube Google+
+- name: Google
   url: https://plus.google.com/u/0/+KonstantinosChorianopoulos/
   class: icon-googleplus
   title: "Google+"
