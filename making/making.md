@@ -23,11 +23,11 @@ show_meta: false
 
 {% include_relative photography.md %}
 
-{% include_relative mi-ch04.md %}
+{% include_relative media-player.md %}
 
-{% include_relative mi-ch05.md %}
+{% include_relative mobile-notes.md %}
 
-{% include_relative mi-ch06.md %}
+{% include_relative activity-tracker.md %}
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
