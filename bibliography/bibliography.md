@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ΒΙΒΛΙΟΓΡΑΦΙΑ"
+title: "Βιβλιογραφία"
 subheadline: ""
 show_meta: false
 teaser: ""
