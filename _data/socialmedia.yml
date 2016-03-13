@@ -19,7 +19,17 @@
   class: icon-youtube
   title: "Videos and Screencasts"
 
-- name: Google+
+- name: Phlow YouTube Google+
   url: https://plus.google.com/u/0/+KonstantinosChorianopoulos/
   class: icon-googleplus
   title: "Google+"
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
