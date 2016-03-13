@@ -19,9 +19,9 @@ show_meta: false
 
 {% include_relative video-game.md %}
 
-{% include_relative mi-ch02.md %}
+{% include_relative remote-control.md %}
 
-{% include_relative mi-ch03.md %}
+{% include_relative photography.md %}
 
 {% include_relative mi-ch04.md %}
 
