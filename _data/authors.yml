@@ -1,3 +1,14 @@
-your_author_name:
-    name: "Konstantinos Chorianopoulos"
-    url: http://www.epidro.me/
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+epidrome: # replace this with your info
+  name: "Konstantinos Chorianopoulos"
+  siterole: "webmaster, developer, copywriter, designer"
+  uri: http://www.epidro.me/
+  email:
+  twitter: "@ep1dr0me"
+# you can add more authors here

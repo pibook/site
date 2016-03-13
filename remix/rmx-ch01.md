@@ -7,11 +7,11 @@
 <p data-height="350" data-theme-id="17517" data-slug-hash="dYPxYp" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/dYPxYp/'>SVG Shape Example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Ασκηση: Κατανοήστε τον τρόπο λειτουργίας των εικόνων τύπου SVG και στη σύνέχεια τροποποιείστε το παράδειγμα δημιουργώντας δίπλα στην υπάρχουσα εικόνα, μια ίδια (που να εκτελεί την ίδια λειτουργία) του μισού μεγέθους.
+Ασκηση: Κατανοήστε τον τρόπο λειτουργίας των εικόνων τύπου SVG και στη συνέχεια τροποποιείστε το παράδειγμα δημιουργώντας δίπλα στην υπάρχουσα εικόνα, μια ίδια (που να εκτελεί την ίδια λειτουργία) του μισού μεγέθους.
 
 ## Παράδειγμα διαδραστικού διακόπτη
 
-Διαδραστικό παράδειγμα κώδικα που αναπαριστά τη λειτουργία ενός διακόπτη. Ο χρήστης μπορεί να επιλέξει ανάμεσα στις επιλογές ON και OFF. Για τη δημιουργία του παραδείγματος χρησιμοποιείται ο CSS preprocessor LESS. 
+Διαδραστικό παράδειγμα κώδικα που αναπαριστά τη λειτουργία ενός διακόπτη. Ο χρήστης μπορεί να επιλέξει ανάμεσα στις επιλογές ON και OFF. Για τη δημιουργία του παραδείγματος χρησιμοποιείται ο CSS preprocessor LESS.
 
 <p data-height="350" data-theme-id="17517" data-slug-hash="GpgVJv" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/GpgVJv/'>Switch Button #2</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
@@ -29,7 +29,7 @@
 
 ## Παράδειγμα διαδραστικού κειμένου
 
-Διαδραστικό παράδειγμα κώδικα που δημιουργεί ειδικά εφέ κατά το Hover (κίνηση του ποντικιού πάνω από την εικόνα) πάνω στο κείμενο. Για τη δημιουργία αυτών των εφέ δε γίνεται χρήση Javascript, αλλά χρησιμοποιείται ο CSS preprocessor SCSS. 
+Διαδραστικό παράδειγμα κώδικα που δημιουργεί ειδικά εφέ κατά το Hover (κίνηση του ποντικιού πάνω από την εικόνα) πάνω στο κείμενο. Για τη δημιουργία αυτών των εφέ δε γίνεται χρήση Javascript, αλλά χρησιμοποιείται ο CSS preprocessor SCSS.
 
 <p data-height="350" data-theme-id="17517" data-slug-hash="EVaqVx" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/EVaqVx/'>10 stunning hover effects with scss</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
