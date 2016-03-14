@@ -1,8 +1,10 @@
 ---
 layout: page
 title: "Contact"
-meta_title: ""
+show_meta: false
 subheadline: ""
 teaser: ""
 permalink: "/contact/"
 ---
+
+[Konstantinos Chorianopoulos](http://www.epidro.me)
