@@ -23,7 +23,7 @@ collections:
   case-study:
     output: true
     permalink: /case-study/:path/
-  making:
+  collection:
     output: true
     permalink: /collection/:path/
 
