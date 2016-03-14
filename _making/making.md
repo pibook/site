@@ -5,4 +5,4 @@ permalink: "/collection/"
 show_meta: false
 ---
 
-{% include list-collection collection='making' %}
+{% include list-collection collection='collection' %}

@@ -25,7 +25,7 @@ collections:
     permalink: /case-study/:path/
   making:
     output: true
-    permalink: /making/:path/
+    permalink: /collection/:path/
 
 # Title of your website
 title: "Ο Προγραμματισμός της Διάδρασης"
