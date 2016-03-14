@@ -11,10 +11,21 @@
 # Collections
 
 collections:
+  biography:
+    output: true
+    permalink: /biography/:path/
+  quotes:
+    output: true
+    permalink: /quotes/:path/
+  remix:
+    output: true
+    permalink: /remix/:path/
   case-study:
     output: true
     permalink: /case-study/:path/
-
+  making:
+    output: true
+    permalink: /making/:path/
 
 # Title of your website
 title: "Ο Προγραμματισμός της Διάδρασης"
