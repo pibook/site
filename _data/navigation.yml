@@ -34,7 +34,5 @@
     url: "/buy/"
   - title: "ΣΧΕΤΙΚΑ"
     url: "/related-books/"
-
-- title: ΕΝΗΜΕΡΩΣΕΙΣ
-  url: "/blog/archive/"
-  side: left
+  - title: "ΕΝΗΜΕΡΩΣΕΙΣ"
+    url: "/blog/archive/"
