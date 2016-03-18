@@ -1,3 +1,13 @@
+- title: ΑΡΧΙΚΗ
+  url: "/"
+  side: left
+  dropdown:
+  - title: "ΑΝΑΓΚΗ"
+    url: "/need/"
+  - title: "ΚΟΙΝΟ"
+    url: "/audience/"
+  - title: "ΟΦΕΛΗ"
+    url: "/benefit/"
 
 - title: "ΜΕΛΕΤΗ"
   url: "/study/"
@@ -40,6 +50,8 @@
   url: ""
   side: left
   dropdown:
+  - title: "ΠΡΟΑΠΑΙΤΟΥΜΕΝΑ"
+    url: "/required/"
   - title: "ΠΡΟΣΕΓΓΙΣΗ"
     url: "/approach/"
   - title: "ΠΡΟΓΡΑΜΜΑ"
