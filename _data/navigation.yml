@@ -38,3 +38,16 @@
     url: "/books-more/"
   - title: "ΕΝΗΜΕΡΩΣΕΙΣ"
     url: "/blog/archive/"
+
+- title: ΔΙΔΑΚΤΙΚΗ
+  url: ""
+  side: left
+  dropdown:
+  - title: "ΠΡΟΣΕΓΓΙΣΗ"
+    url: "/approach/"
+  - title: "ΠΡΟΓΡΑΜΜΑ"
+    url: "/syllabus/"
+  - title: "ΕΡΓΑΣΙΕΣ"
+    url: "/projects/"
+  - title: "ΑΞΙΟΛΟΓΗΣΗ"
+    url: "/evaluation/"

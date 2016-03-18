@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Σχετικά βιβλία"
 subheadline: ""
 show_meta: false
 teaser: ""
