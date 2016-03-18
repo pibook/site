@@ -12,8 +12,4 @@ header: no
 
 [Leanpub (PDF, EPUB, MOBI)](https://leanpub.com/pibook): ηλεκτρονικό βιβλίο σε πολλές μορφές αρχείων με δωρεάν ενημερώσεις για πάντα, εσείς διαλέγετε την τιμή, η οποία είναι η μικρότερη της αγοράς γιατί το leanpub έχει πολύ μικρή προμήθεια. Το πακέτο περιλαμβάνει τα αρχεία EPUB και MOBI, τα οποία είναι κατάλληλα για ανάγνωση από ηλεκτρονικούς αναγνώστες, κινητά τηλέφωνα και τάμπλετς, ενώ το αρχείο PDF είναι σε μέγεθος A4 για εύκολη εκτύπωση. Μπορείτε να διαβάσετε δωρεάν το πρώτο κέφαλαιο καθώς και την εισαγωγή και τον πρόλογο, ως δείγμα των περιεχομένων του βιβλίου.
 
-[Lulu](http://www.lulu.com/content/paperback-book/programming-interactivity/18529446): έντυπο βιβλίο (διανομή από ΗΠΑ)
-
-[createspace](https://www.createspace.com/6057635): έντυπο βιβλίο (διανομή από ΗΠΑ)
-
-[amazon.co.uk](http://www.amazon.co.uk/Programming-Interactivity-Konstantinos-Chorianopoulos/dp/6188242304): έντυπο βιβλίο (διανομή από Ευρώπη)
+[amazon.co.uk](http://www.amazon.co.uk/Programming-Interactivity-Konstantinos-Chorianopoulos/dp/6188242304): έντυπο βιβλίο
