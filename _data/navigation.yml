@@ -9,6 +9,21 @@
   - title: "ΟΦΕΛΗ"
     url: "/benefit/"
 
+- title: ΔΙΔΑΚΤΙΚΗ
+  url: ""
+  side: left
+  dropdown:
+  - title: "ΠΡΟΑΠΑΙΤΟΥΜΕΝΑ"
+    url: "/required/"
+  - title: "ΠΡΟΣΕΓΓΙΣΗ"
+    url: "/approach/"
+  - title: "ΠΡΟΓΡΑΜΜΑ"
+    url: "/syllabus/"
+  - title: "ΕΡΓΑΣΙΕΣ"
+    url: "/projects/"
+  - title: "ΑΞΙΟΛΟΓΗΣΗ"
+    url: "/evaluation/"
+
 - title: "ΜΕΛΕΤΗ"
   url: "/study/"
   side: left
@@ -45,18 +60,3 @@
     url: "/books-more/"
   - title: "ΕΝΗΜΕΡΩΣΕΙΣ"
     url: "/blog/archive/"
-
-- title: ΔΙΔΑΚΤΙΚΗ
-  url: ""
-  side: left
-  dropdown:
-  - title: "ΠΡΟΑΠΑΙΤΟΥΜΕΝΑ"
-    url: "/required/"
-  - title: "ΠΡΟΣΕΓΓΙΣΗ"
-    url: "/approach/"
-  - title: "ΠΡΟΓΡΑΜΜΑ"
-    url: "/syllabus/"
-  - title: "ΕΡΓΑΣΙΕΣ"
-    url: "/projects/"
-  - title: "ΑΞΙΟΛΟΓΗΣΗ"
-    url: "/evaluation/"
