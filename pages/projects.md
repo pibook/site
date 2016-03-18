@@ -1,8 +1,6 @@
 ---
 layout: page
-subheadline: ""
 show_meta: false
-teaser: ""
 permalink: "/projects/"
 header: no
 ---
