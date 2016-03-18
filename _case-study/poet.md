@@ -1,11 +1,15 @@
 ---
 layout: page
 title: "The Design of Everyday Things"
-subheadline: "ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ"
 show_meta: false
-teaser: ""
-permalink: "/case-study/poet/"
 header: no
+show_meta: false
+categories:
+  - case-study
+  - method
+tags:
+  - donald norman
+  - success
 ---
 
 {% include_relative cs-poet.md %}

@@ -1,11 +1,15 @@
 ---
 layout: page
 title: "Wikipedia"
-subheadline: "ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ"
 show_meta: false
-teaser: ""
-permalink: "/case-study/wikipedia/"
 header: no
+categories:
+  - case-study
+  - synthesis
+tags:
+  - wikipedia
+  - success
+
 ---
 
 {% include_relative cs-wikipedia.md %}

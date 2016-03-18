@@ -1,11 +1,14 @@
 ---
 layout: page
 title: "Facebook"
-subheadline: "ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ"
-show_meta: false
-teaser: ""
-permalink: "/case-study/facebook/"
 header: no
+show_meta: false
+categories:
+  - case-study
+  - models
+tags:
+  - facebok
+  - success
 ---
 
 {% include_relative cs-facebook.md %}

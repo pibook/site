@@ -4,7 +4,6 @@ title: "Μελέτες περίπτωσης"
 subheadline: ""
 show_meta: false
 teaser: ""
-permalink: "/case-study/"
 header: no
 ---
 
@@ -20,10 +19,5 @@ header: no
 
 Σύνθεση: [World Wide Web](/case-study/www/), [Wikipedia](/case-study/wikipedia/)
 
-<ul>
-    {% for post in site.categories.case-study %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
 
 {% include contribute-case-study %}

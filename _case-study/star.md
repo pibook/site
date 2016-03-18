@@ -1,11 +1,16 @@
 ---
 layout: page
 title: "Xerox Star"
-subheadline: "ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ"
 show_meta: false
-teaser: ""
-permalink: "/case-study/star/"
 header: no
+show_meta: false
+categories:
+  - case-study
+  - definition
+tags:
+  - xerox star
+  - success
+
 ---
 
 {% include_relative cs-star.md %}

@@ -1,11 +1,13 @@
 ---
 layout: page
 title: "Affective usability"
-subheadline: "ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ"
-show_meta: false
-teaser: ""
-permalink: "/case-study/affective/"
 header: no
+show_meta: false
+categories:
+  - case-study
+  - models
+tags:
+  - affective usability
 ---
 
 {% include_relative cs-affective.md %}

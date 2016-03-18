@@ -1,11 +1,15 @@
 ---
 layout: page
 title: "Apple iPod"
-subheadline: "ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ"
-show_meta: false
-teaser: ""
-permalink: "/case-study/ipod/"
 header: no
+show_meta: false
+categories:
+  - case-study
+  - archetypes
+tags:
+  - apple
+  - ipod
+
 ---
 
 {% include_relative cs-ipod.md %}

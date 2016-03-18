@@ -1,11 +1,13 @@
 ---
 layout: page
 title: "Arduino"
-subheadline: "ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ"
-show_meta: false
-teaser: ""
-permalink: "/case-study/arduino/"
 header: no
+categories:
+  - case-study
+  - tools
+tags:
+  - arduino
+  - success
 ---
 
 {% include_relative cs-arduino.md %}

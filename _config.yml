@@ -26,9 +26,6 @@ collections:
   collection:
     output: true
     permalink: /collection/:path/
-  quotes:
-    output: true
-    permalink: /quotes/:path/
 
 # Title of your website
 title: "Ο Προγραμματισμός της Διάδρασης"

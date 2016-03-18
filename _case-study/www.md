@@ -1,11 +1,15 @@
 ---
 layout: page
 title: "World Wide Web"
-subheadline: "ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ"
 show_meta: false
-teaser: ""
-permalink: "/case-study/www/"
 header: no
+categories:
+  - case-study
+  - synthesis
+tags:
+  - WWW
+  - success
+  - Tim Berners Lee
 ---
 
 {% include_relative cs-www.md %}
