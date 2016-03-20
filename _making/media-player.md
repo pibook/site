@@ -1,3 +1,12 @@
+---
+layout: page
+title: "Media Player"
+header: no
+categories:
+  - making
+tags:
+  - media player
+---
 
 ## Αναπαραγωγή βίντεο
 

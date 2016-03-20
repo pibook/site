@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Photography"
+header: no
+categories:
+  - making
+tags:
+  - Photography
+---
+
 ## Φωτογραφία
 
 ### Ανάλυση σχετικών έργων

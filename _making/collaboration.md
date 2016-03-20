@@ -1,3 +1,12 @@
+---
+layout: page
+title: "Collaborative System"
+header: no
+categories:
+  - making
+tags:
+  - collaborative system
+---
 
 ## Συνεργατικό σύστημα
 

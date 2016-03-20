@@ -1,3 +1,14 @@
+---
+layout: page
+title: "Quantified Self"
+header: no
+categories:
+  - making
+tags:
+  - activity tracker
+  - Quantified Self
+---
+
 ## Μέτρηση Φυσικής Δραστηριότητας
 
 ### Ανάλυση σχετικών έργων
