@@ -1,22 +1,32 @@
+---
+layout: page
+title: "Synthesis"
+header: no
+categories:
+  - synthesis
+tags:
+  - video
+---
+
 # Παραδείγματα
 
 ## Παράδειγμα αναπαραγωγής βίντεο χρησιμοποιώντας το ποντίκι
 
-Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου. Το βίντεο χρησιμοποιεί για την έναρξη και την παύση του το σύστημα αναπαραγωγής της υπηρεσίας Youtube. 
+Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου. Το βίντεο χρησιμοποιεί για την έναρξη και την παύση του το σύστημα αναπαραγωγής της υπηρεσίας Youtube.
 
 <p data-height="350" data-theme-id="17517" data-slug-hash="yNWZwm" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/yNWZwm/'>video example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: Δημιουργείστε δικό σας σύστημα αναπαραγωγής με κουμπιά Start (εκκίνηση) και Pause (Διακοπή) τα οποία να εκτελούν τις αντίστοιχες λειτουργίες στο υπάρχον Βίντεο. 
+Άσκηση: Δημιουργείστε δικό σας σύστημα αναπαραγωγής με κουμπιά Start (εκκίνηση) και Pause (Διακοπή) τα οποία να εκτελούν τις αντίστοιχες λειτουργίες στο υπάρχον Βίντεο.
 
-## Παράδειγμα διαδραστικού παιχνιδιού 
+## Παράδειγμα διαδραστικού παιχνιδιού
 
 Μετακίνηση αντικειμένου μέσω πληκτρολογίου (html Canvas)
 
 <p data-height="350" data-theme-id="17517" data-slug-hash="dorEYW" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/dorEYW/'>html canvas game</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση 1: Τροποποιήστε το παράδειγμα έτσι ώστε όταν το αυτοκίνητο κινείται όπισθεν να έχει μικρότερη (τη μισή) ταχύτητα από το όταν κινείται έμπροσθεν. 
+Άσκηση 1: Τροποποιήστε το παράδειγμα έτσι ώστε όταν το αυτοκίνητο κινείται όπισθεν να έχει μικρότερη (τη μισή) ταχύτητα από το όταν κινείται έμπροσθεν.
 
 Άσκηση 2: Δημιουργείστε περιμετρικά όρια  έτσι ώστε το αυτοκίνητο να μη βγαίνει ποτέ έξω από την πίστα.
 
@@ -27,7 +37,7 @@
 <p data-height="350" data-theme-id="17517" data-slug-hash="yNmMLO" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/yNmMLO/'>GTA 5 CSS3 Parallax</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση 1: Τροποποιήστε το παράδειγμα αλλάζοντας τις υπάρχουσες εικόνες, δημιουργώντας τη δική σας θεματική σύνθεση. 
+Άσκηση 1: Τροποποιήστε το παράδειγμα αλλάζοντας τις υπάρχουσες εικόνες, δημιουργώντας τη δική σας θεματική σύνθεση.
 
 ## Παράδειγμα διαδραστικού γραφήματος No.1
 
@@ -51,7 +61,7 @@
 <p data-height="350" data-theme-id="17517" data-slug-hash="vOoeGE" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/vOoeGE/'>D3 chart 2</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: Τροποποιήστε τον κώδικα του παραδείγματος προσθέτοντας και οπτικοποιώντας στο ίδιο πλαίσιο περισσότερα από 2 σετ δεδομένων (datasets). 
+Άσκηση: Τροποποιήστε τον κώδικα του παραδείγματος προσθέτοντας και οπτικοποιώντας στο ίδιο πλαίσιο περισσότερα από 2 σετ δεδομένων (datasets).
 
 ## Παράδειγμα δημιουργίας φωτισμού
 

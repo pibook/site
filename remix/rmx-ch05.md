@@ -1,17 +1,27 @@
+---
+layout: page
+title: "Models"
+header: no
+categories:
+  - models
+tags:
+  - image processing
+---
+
 # Παραδείγματα
 
-## Παράδειγμα εφαρμογής φίλτρου σε εικόνα 
+## Παράδειγμα εφαρμογής φίλτρου σε εικόνα
 
-Παράδειγμα διαδραστικού κώδικα στον οποίο όταν εκτελείται από το χρήστη η λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα στο συγκεκριμένο παράδειγμα) εφαρμόζεται το φίλτρο του αποχρωματισμού της εικόνας. 
+Παράδειγμα διαδραστικού κώδικα στον οποίο όταν εκτελείται από το χρήστη η λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα στο συγκεκριμένο παράδειγμα) εφαρμόζεται το φίλτρο του αποχρωματισμού της εικόνας.
 
 <p data-height="350" data-theme-id="17517" data-slug-hash="VLJWMQ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/VLJWMQ/'>image filter 1</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών. Παραδείγματα φίλτρων βρίσκονται ως σχόλια στην ενότητα με τον CSS κώδικα του παραδείγματος.
 
-## Παράδειγμα εφαρμογής εφέ σε εικόνα 
+## Παράδειγμα εφαρμογής εφέ σε εικόνα
 
-Παράδειγμα διαδραστικού κώδικα στον οποίο όταν εκτελείται από το χρήστη η λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα στο συγκεκριμένο παράδειγμα) μεγενθύνεται η εικόνα (zoom) χωρίς να αλλάζουν οι διαστάσεις του πλαισίου . 
+Παράδειγμα διαδραστικού κώδικα στον οποίο όταν εκτελείται από το χρήστη η λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα στο συγκεκριμένο παράδειγμα) μεγενθύνεται η εικόνα (zoom) χωρίς να αλλάζουν οι διαστάσεις του πλαισίου .
 
 <p data-height="350" data-theme-id="17517" data-slug-hash="xwxrPb" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/xwxrPb/'>Background Image zoom</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
@@ -30,7 +40,7 @@ http://www.openprocessing.org/search/?q=digital+clock
 
 ## Παράδειγμα αριθμομηχανής
 
-Παράδειγμα οπτικής και λειτουργικής εξομοίωσης αριθμομηχανής. 
+Παράδειγμα οπτικής και λειτουργικής εξομοίωσης αριθμομηχανής.
 
 <p data-height="350" data-theme-id="17517" data-slug-hash="vOqewJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/vOqewJ/'>Apple's Calculator fork</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>

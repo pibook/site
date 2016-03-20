@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Archetypes"
+header: no
+categories:
+  - archetypes
+tags:
+  - mouse
+---
+
 # Παραδείγματα
 
 ## Παράδειγμα εισόδου μέσω της συσκευής Ποντίκι Νο.3
@@ -7,7 +17,7 @@
 <p data-height="350" data-theme-id="17517" data-slug-hash="ZGVrjJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/ZGVrjJ/'>ZGVrjJ</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: Αλλάξτε το χρώμα του αριθμού εξόδου, κάθε φορά που κινείται η μπάρα εισόδου. 
+Άσκηση: Αλλάξτε το χρώμα του αριθμού εξόδου, κάθε φορά που κινείται η μπάρα εισόδου.
 
 ## Παράδειγμα εισόδου μέσω της συσκευής Ποντίκι Νο.4
 
@@ -25,7 +35,7 @@
 <p data-height="350" data-theme-id="17517" data-slug-hash="dYyRJX" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/dYyRJX/'>JS fitness 3: Dev compliment generator</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: Τροποποιήστε το παράδειγμα δημιουργώντας ένα 2ο κουμπί που θα εκτελεί τη την ανάποδη λειτουργία από αυτή του κουμπιού "ANOTHER". Το νέο κουμπί πρέπει να εμφανίζει το μήνυμα που είχε εμφανιστεί προηγουμένως. 
+Άσκηση: Τροποποιήστε το παράδειγμα δημιουργώντας ένα 2ο κουμπί που θα εκτελεί τη την ανάποδη λειτουργία από αυτή του κουμπιού "ANOTHER". Το νέο κουμπί πρέπει να εμφανίζει το μήνυμα που είχε εμφανιστεί προηγουμένως.
 
 ## Παράδειγμα εισόδου μέσω της συσκευής Ποντίκι Νο.6
 

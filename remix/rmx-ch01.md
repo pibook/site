@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Definition"
+header: no
+categories:
+  - definition
+tags:
+  - button
+---
+
 # Διαδραστικά Παραδείγματα
 
 ## Παράδειγμα SVG εικόνας

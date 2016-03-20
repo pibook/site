@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Ubiquitous computing"
+header: no
+categories:
+  - forms
+tags:
+  - camera
+---
+
 # Παραδείγματα
 
 ## Παράδειγμα με είσοδο κάμερα No.1
