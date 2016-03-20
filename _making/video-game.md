@@ -1,12 +1,3 @@
----
-layout: page
-title: "Video Game"
-header: no
-categories:
-  - making
-tags:
-  - video game
----
 
 ## Εκπαιδευτικό βίντεο-παιχνίδι
 

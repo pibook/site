@@ -11,9 +11,9 @@
 # Collections
 
 collections:
-  biography:
+  making:
     output: true
-    permalink: /biography/:path/
+    permalink: /making/:path/
   quotes:
     output: true
     permalink: /quotes/:path/

@@ -1,12 +1,3 @@
----
-layout: page
-title: "Mobile Notes"
-header: no
-categories:
-  - making
-tags:
-  - mobile notes
----
 
 ## Κινητές σημειώσεις
 

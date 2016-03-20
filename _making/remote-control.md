@@ -1,13 +1,3 @@
----
-layout: page
-title: "Remote Control"
-header: no
-categories:
-  - making
-tags:
-  - tv remote
----
-
 ## Τηλεχειρισμός
 
 ### Ανάλυση σχετικών έργων
