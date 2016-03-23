@@ -20,6 +20,9 @@ collections:
   remix:
     output: true
     permalink: /remix/:path/
+  notes:
+    output: true
+    permalink: /notes/:path/
   case-study:
     output: true
     permalink: /case-study/:path/
