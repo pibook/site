@@ -23,5 +23,3 @@ header: no
 [Μοντέλα](/gallery/models/)
 
 [Σύνθεση](/gallery/synthesis/)
-
-{% include license.html %}
