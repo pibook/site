@@ -4,6 +4,7 @@ title: Button
 header: no
 categories:
   - definition
+  - easy
 tags:
   - button
 ---

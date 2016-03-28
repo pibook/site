@@ -4,6 +4,7 @@ title: Image zoom
 header: no
 categories:
   - models
+  - average
 tags:
   - image
   - zoom

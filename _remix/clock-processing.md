@@ -4,6 +4,7 @@ title: Clock
 header: no
 categories:
   - models
+  - easy
 tags:
   - processing
   - clock

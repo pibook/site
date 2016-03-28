@@ -4,6 +4,7 @@ title: Image processing
 header: no
 categories:
   - models
+  - easy
 tags:
   - image
   - filter
