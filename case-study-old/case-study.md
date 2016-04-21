@@ -20,4 +20,4 @@ header: no
 Σύνθεση: [World Wide Web](/case-study/www/), [Wikipedia](/case-study/wikipedia/)
 
 
-{% include contribute-case-study %}
+{% include contribute-content %}
