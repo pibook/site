@@ -8,3 +8,5 @@ show_meta: false
 ---
 
 {% include list-collection collection='making' %}
+
+{% include contribute-content %}
