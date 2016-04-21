@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+title: "Μοτίβα"
 header: no
 permalink: "/remix/"
 show_meta: false
