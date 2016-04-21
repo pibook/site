@@ -22,5 +22,3 @@ show_meta: false
 [Προγραμματισμός]()
 
 [Βιβλιογραφία]()
-
-{% include license.html %}
