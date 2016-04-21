@@ -14,5 +14,3 @@ tags:
 ---
 
 {% include_relative cs-star.md %}
-
-{% include license.html %}

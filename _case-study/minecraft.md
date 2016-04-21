@@ -13,5 +13,3 @@ categories:
 ---
 
 {% include_relative cs-minecraft.md %}
-
-{% include license.html %}

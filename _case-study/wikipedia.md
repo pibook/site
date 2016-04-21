@@ -13,5 +13,3 @@ tags:
 ---
 
 {% include_relative cs-wikipedia.md %}
-
-{% include license.html %}

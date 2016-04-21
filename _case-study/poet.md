@@ -13,5 +13,3 @@ tags:
 ---
 
 {% include_relative cs-poet.md %}
-
-{% include license.html %}

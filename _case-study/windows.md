@@ -11,5 +11,3 @@ tags:
 ---
 
 {% include_relative cs-windows.md %}
-
-{% include license.html %}

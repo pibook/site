@@ -11,5 +11,3 @@ tags:
 ---
 
 {% include_relative cs-arduino.md %}
-
-{% include license.html %}

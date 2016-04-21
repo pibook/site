@@ -9,9 +9,6 @@ categories:
 tags:
   - apple
   - ipod
-
 ---
 
 {% include_relative cs-ipod.md %}
-
-{% include license.html %}

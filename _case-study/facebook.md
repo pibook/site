@@ -12,5 +12,3 @@ tags:
 ---
 
 {% include_relative cs-facebook.md %}
-
-{% include license.html %}

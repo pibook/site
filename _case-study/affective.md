@@ -11,5 +11,3 @@ tags:
 ---
 
 {% include_relative cs-affective.md %}
-
-{% include license.html %}

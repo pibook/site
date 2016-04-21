@@ -13,5 +13,3 @@ tags:
 ---
 
 {% include_relative cs-mouse.md %}
-
-{% include license.html %}

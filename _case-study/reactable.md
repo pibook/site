@@ -14,5 +14,3 @@ tags:
 ---
 
 {% include_relative cs-reactable.md %}
-
-{% include license.html %}
