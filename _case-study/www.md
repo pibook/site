@@ -10,8 +10,7 @@ tags:
   - WWW
   - success
   - Tim Berners Lee
+author: epidrome
 ---
 
 {% include_relative cs-www.md %}
-
-{% include license.html %}
