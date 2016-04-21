@@ -2,7 +2,7 @@
 layout: page
 title: "World Wide Web"
 show_meta: false
-header: no
+header: yes
 categories:
   - case-study
   - synthesis
