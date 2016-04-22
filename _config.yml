@@ -42,7 +42,7 @@ slogan: "Από τον Επιτραπέζιο στον Κινητό και Δι�
 description: "Ο Προγραμματισμός της Διάδρασης είναι ένα βιβλίο που είναι διαθέσιμο για αγορά σε πολλές μορφές ηλεκτρονικού και φυσικού βιβλίου. Επίσης, ένα σημαντικό τμήμα του περιεχομένου του καθώς και συμπληρωματικό υλικό για την πρακτική εφαρμογή στην εκπαίδευση διανέμεται ελεύθερα στο δίκτυο."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://www.epidro.me">epidrome</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created with &hearts; by <a href="http://www.epidro.me">epidrome</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p><p><b>ISBN:</b> 978-618-82423-4-0 &middot; <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Άδεια Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a></p>'
 
 # Main author of the website
 # See > authors.yml
