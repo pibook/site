@@ -25,7 +25,7 @@
     url: "/evaluation/"
 
 - title: "ΜΕΛΕΤΗ"
-  url: "/study/"
+  url: ""
   side: left
   dropdown:
   - title: "SCREENCASTS"
@@ -40,7 +40,7 @@
     url: "/bibliography/"
 
 - title: "ΔΗΜΙΟΥΡΓΙΑ"
-  url: "/create/"
+  url: ""
   side: left
   dropdown:
   - title: "ΜΟΤΙΒΑ"
