@@ -2,7 +2,8 @@
 layout: page
 show_meta: false
 permalink: "/required/"
-header: no
+header:
+    image_fullwidth: "header-reactable.jpg"
 ---
 
 ## Προαπαιτούμενες γνώσεις, υλικό, και λογισμικό

@@ -2,7 +2,8 @@
 layout: page
 show_meta: false
 permalink: "/syllabus/"
-header: no
+header:
+    image_fullwidth: "header-reactable.jpg"
 ---
 
 # Εφαρμογή στην εκπαίδευση

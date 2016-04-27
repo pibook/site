@@ -2,7 +2,8 @@
 layout: page
 show_meta: false
 permalink: "/approach/"
-header: no
+header:
+    image_fullwidth: "header-reactable.jpg"
 ---
 
 # Διδακτική προσέγγιση

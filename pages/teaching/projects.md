@@ -2,7 +2,8 @@
 layout: page
 show_meta: false
 permalink: "/projects/"
-header: no
+header:
+    image_fullwidth: "header-reactable.jpg"
 ---
 
 ## Δραστηριότητες και εργαλεία υλικού και λογισμικού

@@ -2,7 +2,8 @@
 layout: page
 show_meta: false
 permalink: "/evaluation/"
-header: no
+header:
+    image_fullwidth: "header-reactable.jpg"
 ---
 
 ## Αξιολόγηση και χαρτοφυλάκιο έργων
