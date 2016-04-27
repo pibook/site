@@ -1,8 +1,9 @@
 ---
 layout: page-fullwidth
-header: no
 permalink: "/notes/"
 show_meta: false
+header:
+    image_fullwidth: "header-xanadu.jpg"
 ---
 
 {% include list-collection collection='notes' %}

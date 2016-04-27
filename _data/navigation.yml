@@ -58,5 +58,7 @@
     url: "/books-related/"
   - title: "ΣΥΜΠΛΗΡΩΜΑΤΙΚΑ"
     url: "/books-more/"
+  - title: "ΣΗΜΕΙΩΣΕΙΣ"
+    url: "/notes/"
   - title: "ΒΙΒΛΙΟΓΡΑΦΙΑ"
     url: "/bibliography/"
