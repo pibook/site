@@ -5,7 +5,8 @@ subheadline: ""
 show_meta: false
 teaser: ""
 permalink: "/bibliography/"
-header: no
+header:
+    image_fullwidth: "header8.jpg"
 ---
 
 [Εισαγωγή](/bibliography/intro/)
