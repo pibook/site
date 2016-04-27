@@ -6,7 +6,7 @@ show_meta: false
 teaser: ""
 permalink: "/coupons/"
 header:
-    image_fullwidth: "header-book.jpg"
+    image_fullwidth: "header8.jpg"
 ---
 
 Το βιβλίο είναι διαθέσιμο σε προνομιακή τιμή με την χρήση των παρακάτω κουπονιών:

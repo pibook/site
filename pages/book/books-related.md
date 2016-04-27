@@ -2,7 +2,8 @@
 layout: page
 show_meta: false
 permalink: "/books-related/"
-header: no
+header:
+    image_fullwidth: "header8.jpg"
 ---
 
 ## Σχετικά βιβλία

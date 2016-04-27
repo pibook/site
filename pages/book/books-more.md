@@ -2,7 +2,8 @@
 layout: page
 show_meta: false
 permalink: "/books-more/"
-header: no
+header:
+    image_fullwidth: "header8.jpg"
 ---
 
 # Συμπληρωματικά βιβλία

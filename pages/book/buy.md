@@ -5,7 +5,8 @@ subheadline: ""
 show_meta: false
 teaser: ""
 permalink: "/buy/"
-header: no
+header:
+    image_fullwidth: "header8.jpg"
 ---
 
 Το βιβλίο είναι διαθέσιμο για αγορά στις παρακάτω μορφές με τις αντίστοιχες ιδιότητες για να διαλέξετε αυτή που θέλετε:
