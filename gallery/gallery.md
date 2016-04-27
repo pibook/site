@@ -5,7 +5,8 @@ subheadline: ""
 show_meta: false
 teaser: ""
 permalink: "/gallery/"
-header: no
+header:
+    image_fullwidth: "header5.jpg"
 ---
 
 [Πρόλογος](/gallery/preface/)
