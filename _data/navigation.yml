@@ -19,6 +19,8 @@
     url: "/approach/"
   - title: "ΠΡΟΓΡΑΜΜΑ"
     url: "/syllabus/"
+  - title: "ΔΙΑΦΑΝΕΙΕΣ"
+    url: "/slides/"
   - title: "ΕΡΓΑΣΙΕΣ"
     url: "/projects/"
   - title: "ΑΞΙΟΛΟΓΗΣΗ"
@@ -30,8 +32,6 @@
   dropdown:
   - title: "SCREENCASTS"
     url: "/screencasts/"
-  - title: "ΔΙΑΦΑΝΕΙΕΣ"
-    url: "/slides/"
   - title: "ΕΙΚΟΝΕΣ"
     url: "/gallery/"
   - title: "ΠΕΡΙΠΤΩΣΕΙΣ"
