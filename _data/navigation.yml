@@ -8,6 +8,8 @@
     url: "/audience/"
   - title: "ΟΦΕΛΗ"
     url: "/benefit/"
+  - title: "ΕΝΗΜΕΡΩΣΕΙΣ"
+    url: "/blog/archive/"
 
 - title: ΔΙΔΑΚΤΙΚΗ
   url: ""
@@ -36,8 +38,6 @@
     url: "/gallery/"
   - title: "ΠΕΡΙΠΤΩΣΕΙΣ"
     url: "/case-study/"
-  - title: "ΒΙΒΛΙΟΓΡΑΦΙΑ"
-    url: "/bibliography/"
 
 - title: "ΔΗΜΙΟΥΡΓΙΑ"
   url: ""
@@ -58,5 +58,5 @@
     url: "/books-related/"
   - title: "ΣΥΜΠΛΗΡΩΜΑΤΙΚΑ"
     url: "/books-more/"
-  - title: "ΕΝΗΜΕΡΩΣΕΙΣ"
-    url: "/blog/archive/"
+  - title: "ΒΙΒΛΙΟΓΡΑΦΙΑ"
+    url: "/bibliography/"
