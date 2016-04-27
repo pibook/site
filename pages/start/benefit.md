@@ -2,7 +2,8 @@
 layout: page
 show_meta: false
 permalink: "/benefit/"
-header: no
+header:
+    image_fullwidth: "header7.jpg"
 ---
 
 ## Η αξία του προγραμματισμού της διάδρασης

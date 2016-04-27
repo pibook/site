@@ -2,7 +2,8 @@
 layout: page
 show_meta: false
 permalink: "/audience/"
-header: no
+header:
+    image_fullwidth: "header7.jpg"
 ---
 
 ## Κοινό
