@@ -5,7 +5,7 @@ teaser: "Μπορείτε να προσθέσετε περισσότερες κ�
 permalink: "/making/"
 show_meta: false
 header:
-    image_fullwidth: "header5.jpg"
+    image_fullwidth: "header2.jpg"
 ---
 
 {% include list-collection collection='making' %}
