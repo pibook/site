@@ -7,8 +7,8 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 epidrome: # replace this with your info
   name: "Konstantinos Chorianopoulos"
-  siterole: "webmaster, developer, copywriter, designer"
-  uri: http://www.epidro.me/
+  siterole: "maker, scholar, mentor"
+  uri: "http://www.epidro.me/"
   email:
   twitter: "@ep1dr0me"
 # you can add more authors here
