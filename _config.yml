@@ -23,6 +23,9 @@ collections:
   notes:
     output: true
     permalink: /notes/:path/
+  bibliography:
+    output: true
+    permalink: /bibliography/:path/
   case-study:
     output: true
     permalink: /case-study/:path/
