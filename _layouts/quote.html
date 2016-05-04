@@ -30,9 +30,7 @@ format: quote
 			</p>
 			{% endif %}
 
-			{% for quote in site.quotes %}
-				<blockquote>&ldquo;{{ quote.text }}&rdquo; <cite>{{ quote.person }}</cite></blockquote>
-			{% endfor %}
+				<blockquote>&ldquo;{{ page.text }}&rdquo; <cite>{{ page.person }}</cite></blockquote>
 
 			{{ content }}
 		</article>
