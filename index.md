@@ -7,7 +7,7 @@ header:
 
 {% comment %}
 *
-* Show an inspirational quote, chosen randomly from the quotes collection
+* Show an inspirational quote, chosen randomly from the quotes collection. it is refreshed only when the site rebuilds, for a more dynamic refresh do a client-side javascript implementation.
 *
 {% endcomment %}
 
