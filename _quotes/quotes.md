@@ -9,4 +9,4 @@ show_meta: false
 
 {% assign random = site.time | date: "%s%N" | modulo: site.quotes.size %}
 
-<blockquote>&ldquo;{{ site.quotes[8].text }}&rdquo; <cite>{{ site.quotes[8].person }}</cite></blockquote>
+<blockquote>&ldquo;{{ site.quotes[random].text }}&rdquo; <cite>{{ site.quotes[random].person }}</cite></blockquote>

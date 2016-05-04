@@ -4,7 +4,6 @@ text: 'Ο προγραμματισμός είναι ένας τρόπος σκέ
 person: 'Bret Victor'
 layout: quote
 header: no
-permalink: "/victor-programming/"
 show_meta: false
 categories:
   - quotes

@@ -1,6 +1,8 @@
 ---
 title: buxton-method
-layout: page-fullwidth
+text: 'Κάνοντας σωστά τη σωστή σχεδίαση.'
+person: Bill Buxton
+layout: quote
 header: no
 show_meta: false
 categories:
@@ -9,6 +11,3 @@ tags:
   - method
   - Bill Buxton
 ---
-
-> Κάνοντας σωστά τη σωστή σχεδίαση.
-- Bill Buxton
