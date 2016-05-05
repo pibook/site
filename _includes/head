@@ -76,7 +76,7 @@
 		<link rel="stylesheet" href="{{ url }}/assets/mediaelement_js/mediaelementplayer.min.css">
 	{% endif %}
 
-	{% include _favicon.html %}
+	{% include favicon %}
 
 	{% unless page.style == NULL %}
 	<style type="text/css">{{ page.style }}</style>
