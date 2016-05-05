@@ -1,8 +1,8 @@
 
-#- name: Twitter
-#  url: http://twitter.com/ep1dr0me
-#  class: icon-twitter
-#  title: Twitter
+- name: Twitter
+  url: http://twitter.com/ep1dr0me
+  class: icon-twitter
+  title: Twitter
 
 - name: GitHub
   url: http://github.com/pibook/pibookgr
@@ -10,7 +10,7 @@
   title: GitHub
 
 - name: Facebook
-  url: http://www.facebook.com/pibookgr
+  url: http://www.facebook.com/ep1dr0me
   class: icon-facebook
   title: Facebook
 
