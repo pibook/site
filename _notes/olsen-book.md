@@ -1,5 +1,5 @@
 ---
-title: olsen
+title: olsen-book
 layout: page-fullwidth
 header: no
 show_meta: false
