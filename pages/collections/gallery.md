@@ -7,4 +7,4 @@ header:
     image_fullwidth: "header5.jpg"
 ---
 
-{% include list-collection collection='gallery' %}
+{% include gallery-collection collection='gallery' %}
