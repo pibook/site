@@ -11,7 +11,7 @@
 # Collections
 
 collections:
-  gallery:
+  gal:
     output: true
     permalink: /gal/:path/
   making:
