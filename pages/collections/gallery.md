@@ -8,7 +8,7 @@ header:
 ---
 
 <ul class="photo-gallery">
-  {% for image in site.gal %}
+  {% for image in site.gallery %}
     <li><img src="{{ image.image_url }}" alt="{{ image.title}}"/></li>
   {% endfor %}
 </ul>
