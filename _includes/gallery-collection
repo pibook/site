@@ -1,0 +1,40 @@
+{% comment %}
+*   needs update for gallery as collection
+*   This include lets you easily embed a gallery into your post.
+*   To use the gallery include you...
+*
+*   1. ...need two images: a thumbnail and a big image.
+*   2. Name the thumbnail gallery-image-thumb.jpg and...
+*   3. ...name the big gallery-image.jpg
+*   4. Define the big version in frontmatter,
+*
+*   gallery:
+*       - image_url: gallery-image.jpg
+*
+*   5. Give your image a caption – works without captions, too.
+*
+*   gallery:
+*       - image_url: gallery-image.jpg
+*          caption: Starting Page with huge One Logo
+*
+*   6. Add the include whereever you want in your content like this:
+*
+*   {% include gallery %}
+*
+*   Check out the example page › http://phlow.github.io/feeling-responsive/design/gallery/
+*
+{% endcomment %}
+<div>
+  <ul class="photo-gallery">
+    {% for image in site.gallery %}
+      <li><img src="{{ image.image_url }}" alt="{{ image.title}}"/></li>
+    {% endfor %}
+  </ul>
+</div>
+
+Θέλετε να στείλετε μια νέα φωτογραφία?
+
+* Κάντε Fork το site στο GitHub
+* Ανοίξτε το αρχείο με τις φωτογραφίες and συμπληρώστε τα σχετικά πεδία YAML (μονοπάτι της φωτογραφίας, λεζάντα)
+* Δημιουργήστε μια μικρή έκδοση της εικόνας με πλάτος 160 και βάλτε την μαζί με την κανονική έκδοση στον αντίστοιχο φάκελο.
+* Δοκιμάστε ότι δουλεύει και μετά κάντε ένα pull request.
