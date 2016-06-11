@@ -11,6 +11,9 @@
 # Collections
 
 collections:
+  gallery:
+    output: true
+    permalink: /gallery/:path/
   making:
     output: true
     permalink: /making/:path/
@@ -26,6 +29,9 @@ collections:
   bibliography:
     output: true
     permalink: /bibliography/:path/
+  biography:
+    output: false
+    permalink: /biography/:path/
   case-study:
     output: true
     permalink: /case-study/:path/
