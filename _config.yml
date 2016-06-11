@@ -13,7 +13,7 @@
 collections:
   gallery:
     output: true
-    permalink: /gal/:path/
+    permalink: /gallery/:path/
   making:
     output: true
     permalink: /making/:path/
