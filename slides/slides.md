@@ -5,7 +5,8 @@ subheadline: ""
 show_meta: false
 teaser: ""
 permalink: "/slides/"
-header: no
+header:
+    image_fullwidth: "header-reactable.jpg"
 ---
 
 [Πρόλογος](/slides/preface/)
