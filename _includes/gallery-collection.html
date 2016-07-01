@@ -27,7 +27,7 @@
 <div>
   <ul class="photo-gallery">
     {% for image in site.gallery %}
-      <li><img src="{{ image.image_url }}" alt="{{ image.title}}"/></li>
+      <li><img src="{{ image.image_url }}" alt="{{ image.title }}"/><br><caption>{{ image.caption }}</caption></li>
     {% endfor %}
   </ul>
 </div>
