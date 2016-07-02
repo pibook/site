@@ -20,6 +20,16 @@ format: blog-index
     <div class="medium-4 columns">
         <a href="{{ page.widget-1.url }}">{% if page.widget-1.image %}<img src="{{ site.urlimg }}/{{ page.widget-1.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-1.video %}{{ page.widget-1.video }}{% endif %}
         <h2 class="font-size-h3 t10">{{ page.widget-1.title }}</h2>
+        {% comment %}
+        *
+        * Show an inspirational quote, chosen randomly from the quotes collection. it is refreshed only when the site rebuilds, for a more dynamic refresh do a client-side javascript implementation.
+        *
+        {% endcomment %}
+
+        {% assign random = site.time | date: "%s%N" | modulo: site.quotes.size %}
+
+        <blockquote>&ldquo;{{ site.quotes[random].text }}&rdquo; <cite>{{ site.quotes[random].person }}</cite></blockquote>
+
         <p>{{ page.widget-1.text }}</p></a>
     </div><!-- /.medium-4.columns -->
     {% endif %}
