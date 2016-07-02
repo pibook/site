@@ -9,7 +9,7 @@ widget-1:
 widget-2:
    title: 'Αγορά'
    url: '/buy/'
-   text: 'Αγορά βιβλίου'
+   text: 'Αγορά βιβλίου σε πολλές διαφορετικές φυσικές και ηλεκτρονικές μορφές'
 widget-3:
    title: 'Συμμετοχή'
    url: 'http://proof.pibook.gr'
