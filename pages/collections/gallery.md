@@ -10,13 +10,13 @@ header:
 
 {% assign random = site.time | date: "%s%N" | modulo: site.gallery.size %}
 
-{{ site.gallery[random].image_url }} {{ site.gallery[random].caption }}
+{{ site.gallery[random].image_url }}
 
 {% capture url %}{{ site.gallery[random].image_url }}{% endcapture %}
 {% assign split_url = url | split: '.' %}
 {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
 
-<a href="{{ site.urlimg }}{{ site.gallery[random].image_url }}"><img src="{{ site.urlimg }}{{ thumb_url }}"></a>
+<a href="{{ site.urlimg }}{{ site.gallery[random].image_url }}"><img src="{{ site.urlimg }}{{ thumb_url }}">{{ site.gallery[random].caption }}</a>
 
 {% comment %}
 *
