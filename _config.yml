@@ -11,9 +11,6 @@
 # Collections
 
 collections:
-  gallery:
-    output: true
-    permalink: /gallery/:path/
   making:
     output: true
     permalink: /making/:path/

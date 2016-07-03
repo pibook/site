@@ -18,4 +18,8 @@ header:
 
 <img src="{{ site.urlimg }}{{ thumb_url }}">
 
-{% include gallery-collection.html collection='gallery' %}
+{% comment %}
+*
+* {% include gallery-collection.html collection='gallery' %}
+*
+{% endcomment %}
