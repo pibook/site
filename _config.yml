@@ -32,9 +32,9 @@ collections:
   case-study:
     output: true
     permalink: /case-study/:path/
-  collection:
+  gallery:
     output: true
-    permalink: /collection/:path/
+    permalink: /gallery/:path/
 
 # Title of your website
 title: "Ο Προγραμματισμός της Διάδρασης"
