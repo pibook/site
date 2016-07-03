@@ -47,8 +47,6 @@ layout: default
 
         {% assign random = site.time | date: "%s%N" | modulo: site.gallery.size %}
 
-        {{ site.gallery[random].image_url }}
-
         {% capture url %}{{ site.gallery[random].image_url }}{% endcapture %}
         {% assign split_url = url | split: '.' %}
         {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
