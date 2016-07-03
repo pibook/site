@@ -6,12 +6,11 @@ header:
 widget-1:
    title: 'Παραθέσεις'
    url: '/quotes/'
-widget-2:
+widget-3:
    title: 'Αγορά'
    url: '/buy/'
    text: 'Αγοράστε το βιβλίο σε μιά από τις πολλές διαφορετικές φυσικές και ηλεκτρονικές μορφές'
-widget-3:
-   title: 'Συμμετοχή'
-   url: 'http://proof.pibook.gr'
-   text: 'Κάντε σχόλια και βελτιώσεις στο περιεχόμενο του βιβλίου'
+widget-2:
+   title: 'Εικόνες'
+   url: 'gallery'
 ---
