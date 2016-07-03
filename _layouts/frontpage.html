@@ -28,7 +28,7 @@ format: blog-index
 
         {% assign random = site.time | date: "%s%N" | modulo: site.quotes.size %}
 
-        <blockquote>&ldquo;{{ site.quotes[random].text }}&rdquo; {{ site.quotes[random].person }}</blockquote>
+        <blockquote>{{ site.quotes[random].text }}, {{ site.quotes[random].person }}</blockquote>
 
         <p>{{ page.widget-1.text }}</p></a>
     </div><!-- /.medium-4.columns -->
