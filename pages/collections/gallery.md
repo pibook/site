@@ -18,7 +18,7 @@ header:
 
 <a href="{{ site.urlimg }}{{ site.gallery[random].image_url }}"><img src="{{ site.urlimg }}{{ thumb_url }}"></a>
 
-<p><caption> {{ site.gallery[random].caption }} </caption></p>
+<p><small> {{ site.gallery[random].caption }} </small></p>
 
 {% comment %}
 *
