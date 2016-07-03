@@ -16,7 +16,9 @@ header:
 {% assign split_url = url | split: '.' %}
 {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
 
-<a href="{{ site.urlimg }}{{ site.gallery[random].image_url }}"><img src="{{ site.urlimg }}{{ thumb_url }}"></a><p><caption>{{ site.gallery[random].caption }}</caption></p>
+<a href="{{ site.urlimg }}{{ site.gallery[random].image_url }}"><img src="{{ site.urlimg }}{{ thumb_url }}"></a>
+
+<p><caption> {{ site.gallery[random].caption }} </caption></p>
 
 {% comment %}
 *
