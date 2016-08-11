@@ -8,6 +8,8 @@
     url: "/audience/"
   - title: "ΟΦΕΛΗ"
     url: "/benefit/"
+  - title: "ΟΡΓΑΝΩΣΗ"
+    url: "/structure/"
   - title: "ΕΝΗΜΕΡΩΣΕΙΣ"
     url: "/blog/archive/"
 
