@@ -6,11 +6,11 @@ header:
 widget-1:
    title: 'Παραθέσεις'
    url: '/quotes/'
+ widget-2:
+    title: 'Εικόνες'
+    url: 'gallery'
 widget-3:
    title: 'Αγορά'
    url: '/buy/'
    text: 'Αγοράστε το βιβλίο σε μιά από τις πολλές διαφορετικές φυσικές και ηλεκτρονικές μορφές'
-widget-2:
-   title: 'Εικόνες'
-   url: 'gallery'
 ---
