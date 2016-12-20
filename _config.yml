@@ -118,31 +118,17 @@ exclude:
 
 defaults:
   - scope:
-      path: "" 				# an empty string here means all files in the project
-      type: "pages"
+      path: ""
+      type: gallery
     values:
-      show_meta: true 	# Show metadata beneath all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: "Konstantinos Chorianopoulos"
+      layout: image
+      header: no
   - scope:
       path: ""
-      type: "posts"
+      type: quotes
     values:
-      show_meta: true   # Show metadata beneath all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: "Konstantinos Chorianopoulos"
-  - scope:
-      path: ""
-      type: "gallery"
-    values:
-      layout: "image"
-  - scope:
-      path: ""
-      type: "quotes"
-    values:
-      layout: "quote"
+      layout: quote
+      header: no
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
