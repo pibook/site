@@ -117,8 +117,7 @@ exclude:
 # Default Settings
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" 				# an empty string here means all files in the project
       type: "pages"
     values:
@@ -126,8 +125,7 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "Konstantinos Chorianopoulos"
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
@@ -135,16 +133,16 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "Konstantinos Chorianopoulos"
-  -
-    scope:
+  - scope:
       path: ""
       type: "gallery"
     values:
-      show_meta: true   # Show metadata beneath all posts
-      # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
-      layout: images
-
+      layout: "image"
+  - scope:
+      path: ""
+      type: "quotes"
+    values:
+      layout: "quote"
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
