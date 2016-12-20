@@ -24,13 +24,6 @@
 *   Check out the example page › http://phlow.github.io/feeling-responsive/design/gallery/
 *
 {% endcomment %}
-<div>
-  <ul class="photo-gallery">
-    {% for image in site.gallery %}
-      <li><img src="{{ image.image_thumb }}" alt="{{ image.title }}"/><br><caption>{{ image.caption }}</caption></li>
-    {% endfor %}
-  </ul>
-</div>
 
 <div>
 	<ul class="clearing-thumbs small-block-grid-4" data-clearing>

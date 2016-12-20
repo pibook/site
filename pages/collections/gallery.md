@@ -7,7 +7,14 @@ header:
     image_fullwidth: "header5.jpg"
 ---
 
-{% include list-collection collection='gallery' %}
+{% comment %}
+*
+
+{% include gallery-collection.html %}
+
+*
+{% endcomment %}
+
 
 {% assign random = site.time | date: "%s%N" | modulo: site.gallery.size %}
 
@@ -20,9 +27,3 @@ header:
 <a href="/gallery/"><img src="{{ site.urlimg }}{{ thumb_url }}"></a>
 
 <br><small> {{ site.gallery[random].caption }} </small>
-
-{% comment %}
-*
-* {% include gallery-collection.html collection='gallery' %}
-*
-{% endcomment %}
