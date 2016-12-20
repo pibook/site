@@ -135,7 +135,15 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: "Konstantinos Chorianopoulos"
-
+  -
+    scope:
+      path: ""
+      type: "gallery"
+    values:
+      show_meta: true   # Show metadata beneath all posts
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      comments: false
+      layout: image
 
 
 #       _   __            _             __  _
