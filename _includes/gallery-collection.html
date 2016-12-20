@@ -32,6 +32,17 @@
   </ul>
 </div>
 
+<div>
+	<ul class="clearing-thumbs small-block-grid-4" data-clearing>
+		{% for image in site.gallery %}
+		{% capture url %}{{ image.image_url }}{% endcapture %}
+		{% assign split_url = url | split: '.' %}
+		{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
+		<li><a href="{{ site.urlimg }}{{ image.image_url }}"><img {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} src="{{ site.urlimg }}{{ thumb_url }}" alt=""></a></li>
+		{% endfor %}
+	</ul>
+</div>
+
 Θέλετε να στείλετε μια νέα φωτογραφία?
 
 * Κάντε Fork το site στο GitHub
