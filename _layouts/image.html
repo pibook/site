@@ -6,9 +6,12 @@ format: image
 <div class="row t30">
 	<div class="medium-12 columns">
 		<article>
+			<header>
+				{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+			</header>
 
 			<img src="{{ site.urlimg }}{{ page.image_url }}" alt="page.title">
-			<br><small> {{ page.caption }} </small>
+			<br>{{ page.caption }}
 
 			{{ content }}
 
