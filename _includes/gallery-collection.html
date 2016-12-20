@@ -31,7 +31,7 @@
 		{% capture url %}{{ image.image_url }}{% endcapture %}
 		{% assign split_url = url | split: '.' %}
 		{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
-		<li><a href="{{ site.urlimg }}{{ image.image_url }}"><img {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} src="{{ site.urlimg }}{{ thumb_url }}" alt=""></a></li>
+		<li><a href="{{ site.urlimg }}{{ image.image_url }}"><img {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} src="{{ site.urlimg }}{{ thumb_url }}" alt=""></a><br><small> {{ image.caption }} </small></li>
 		{% endfor %}
 	</ul>
 </div>
@@ -39,6 +39,7 @@
 Θέλετε να στείλετε μια νέα φωτογραφία?
 
 * Κάντε Fork το site στο GitHub
-* Ανοίξτε το αρχείο με τις φωτογραφίες and συμπληρώστε τα σχετικά πεδία YAML (μονοπάτι της φωτογραφίας, λεζάντα)
+* Δημιουργήστε ένα νέο κλαδί
+* Ανοίξτε το αρχείο με τις φωτογραφίες και συμπληρώστε τα σχετικά πεδία YAML (μονοπάτι της φωτογραφίας, λεζάντα)
 * Δημιουργήστε μια μικρή έκδοση της εικόνας με πλάτος 160 και βάλτε την μαζί με την κανονική έκδοση στον αντίστοιχο φάκελο.
 * Δοκιμάστε ότι δουλεύει και μετά κάντε ένα pull request.
