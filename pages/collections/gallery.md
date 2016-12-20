@@ -7,14 +7,8 @@ header:
     image_fullwidth: "header5.jpg"
 ---
 
-{% comment %}
-*
 
 {% include gallery-collection.html %}
-
-*
-{% endcomment %}
-
 
 {% assign random = site.time | date: "%s%N" | modulo: site.gallery.size %}
 
