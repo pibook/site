@@ -36,6 +36,8 @@
   dropdown:
   - title: "SCREENCASTS"
     url: "/screencasts/"
+  - title: "ΠΑΡΑΘΕΣΕΙΣ"
+    url: "/quotes/"
   - title: "ΕΙΚΟΝΕΣ"
     url: "/gallery/"
   - title: "ΠΕΡΙΠΤΩΣΕΙΣ"
