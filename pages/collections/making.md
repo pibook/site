@@ -4,8 +4,7 @@ title: "Κατασκευές"
 teaser: "Μπορείτε να προσθέσετε περισσότερες κατασκευές σύμφωνα με τις οδηγίες στο τέλος της σελίδας"
 permalink: "/making/"
 show_meta: false
-header:
-    image_fullwidth: "header2.jpg"
+header: no
 ---
 
 {% include list-collection collection='making' %}

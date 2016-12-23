@@ -5,8 +5,7 @@ subheadline: ""
 show_meta: false
 teaser: ""
 permalink: "/screencasts/"
-header:
-    image_fullwidth: "header5.jpg"
+header: no
 ---
 
 Ορισμός: [Screencast A](https://www.youtube.com/watch?v=H3ZAjgOi61w), [Screencast B](https://www.youtube.com/watch?v=VbmJnAo5rWQ)
