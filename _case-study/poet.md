@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "The Design of Everyday Things"
+image_url: ch02/mapping-principle.jpg
+caption: "POET"
 show_meta: false
 header: no
 show_meta: false

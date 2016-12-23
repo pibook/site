@@ -10,8 +10,6 @@ widget-2:
     title: Εικόνες
     url: /gallery/
 widget-3:
-   title: Αγορά
-   url: /buy/
-   text: Αγοράστε το βιβλίο σε μια από τις πολλές διαφορετικές φυσικές και ηλεκτρονικές μορφές
-   image: 'print-ebook.jpg'
+   title: Μελέτες περίπτωσης
+   url: /case-study/
 ---

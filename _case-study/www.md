@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "World Wide Web"
+image_url: ch06/www.png
+caption: "WWW"
 show_meta: false
 header: no
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Mouse"
+image_url: ch03/mouse-test-software.png
+caption: "Mouse"
 show_meta: false
 header: no
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Minecraft"
+image_url: ch01/learntomod.jpg
+caption: "Minecraft"
 show_meta: false
 header: no
 tags:

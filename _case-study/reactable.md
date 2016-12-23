@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Reactable"
+image_url: ch04/reactivision-simulator.png
+caption: "reactivision-simulator"
 show_meta: false
 header: no
 show_meta: false
