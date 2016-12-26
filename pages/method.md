@@ -5,8 +5,10 @@ permalink: "/method/"
 header: no
 ---
 
+# Μέθοδος
+
 <div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="medium-8 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
 
 **Υποενότητες**
@@ -20,8 +22,6 @@ header: no
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-
-# Μέθοδος
 
 {% include_relative need.md %}
 
