@@ -1,9 +1,13 @@
 - menu_name: "ΜΕΛΕΤΗ"
 
+- name: "Μοτίβα"
+  url: "/remix/"
+
+- name: "Κατασκευές"
+  url: "/making/"
+
 - name: "Βιβλιογραφία"
   url: "/bibliography/"
 
 - name: "Ευχαριστίες"
   url: "/credits/"
-  class: "rss-link"
-  title: "Images by Unsplash"

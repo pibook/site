@@ -1,19 +1,15 @@
-- menu_name: "Διδακτική"
+- menu_name: "ΔΙΔΑΚΤΙΚΗ"
 
-- name: "required"
-  url: "/required/"
+- name: "Διαφάνειες"
+  url: "/slides/"
   class: "services-contact"
   title: "Προαπαιτούμενα"
 
-- name: "required"
-  url: "/required/"
-  class: "services-contact"
-  title: "Προαπαιτούμενα"
+- name: "Screencasts"
+  url: "/screencasts/"
 
-- name: "required"
-  url: "/required/"
-  class: "services-contact"
-  title: "Προαπαιτούμενα"
+- name: "Μέθοδος"
+  url: "/method/"
 
 - name: "required"
   url: "/required/"
