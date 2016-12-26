@@ -6,7 +6,7 @@ permalink: "/method/"
 header: no
 ---
 <div class="row">
-<div class="medium-6 medium-push-8 columns" markdown="1">
+<div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
 **Υποενότητες**
 {: #toc }
