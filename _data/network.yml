@@ -1,16 +1,9 @@
-- menu_name: "ΕΥΧΑΡΙΣΤΙΕΣ"
+- menu_name: "ΜΕΛΕΤΗ"
 
-- name: "Github Pages"
-  url: "http://pages.github.com/"
-  class: "sitemap-link"
-  title: "Github Pages"
+- name: "Βιβλιογραφία"
+  url: "/bibliography/"
 
-- name: "Feeling Responsive Theme"
-  url: "http://phlow.github.io/feeling-responsive/"
-  class: "network-entypo"
-  title: "Feeling Responsive Theme"
-
-- name: "Περισσότερες ευχαριστίες"
+- name: "Ευχαριστίες"
   url: "/credits/"
   class: "rss-link"
   title: "Images by Unsplash"

@@ -1,68 +1,15 @@
 - title: ΑΡΧΙΚΗ
   url: "/"
   side: left
-  dropdown:
-  - title: "ΑΝΑΓΚΗ"
-    url: "/need/"
-  - title: "ΚΟΙΝΟ"
-    url: "/audience/"
-  - title: "ΟΦΕΛΗ"
-    url: "/benefit/"
-  - title: "ΟΡΓΑΝΩΣΗ"
-    url: "/structure/"
-  - title: "ΕΝΗΜΕΡΩΣΕΙΣ"
-    url: "/blog/archive/"
 
-- title: ΔΙΔΑΚΤΙΚΗ
-  url: ""
+- title: ΠΑΡΑΘΕΣΕΙΣ
+  url: "/quotes/"
   side: left
-  dropdown:
-  - title: "ΠΡΟΑΠΑΙΤΟΥΜΕΝΑ"
-    url: "/required/"
-  - title: "ΠΡΟΣΕΓΓΙΣΗ"
-    url: "/approach/"
-  - title: "ΠΡΟΓΡΑΜΜΑ"
-    url: "/syllabus/"
-  - title: "ΔΙΑΦΑΝΕΙΕΣ"
-    url: "/slides/"
-  - title: "ΕΡΓΑΣΙΕΣ"
-    url: "/projects/"
-  - title: "ΑΞΙΟΛΟΓΗΣΗ"
-    url: "/evaluation/"
 
-- title: "ΜΕΛΕΤΗ"
-  url: ""
+- title: "ΕΙΚΟΝΕΣ"
+  url: "/gallery/"
   side: left
-  dropdown:
-  - title: "SCREENCASTS"
-    url: "/screencasts/"
-  - title: "ΠΑΡΑΘΕΣΕΙΣ"
-    url: "/quotes/"
-  - title: "ΕΙΚΟΝΕΣ"
-    url: "/gallery/"
-  - title: "ΠΕΡΙΠΤΩΣΕΙΣ"
-    url: "/case-study/"
 
-- title: "ΔΗΜΙΟΥΡΓΙΑ"
-  url: ""
+- title: "ΠΕΡΙΠΤΩΣΕΙΣ"
+  url: "/case-study/"
   side: left
-  dropdown:
-  - title: "ΜΟΤΙΒΑ"
-    url: "/remix/"
-  - title: "ΚΑΤΑΣΚΕΥΕΣ"
-    url: "/making/"
-
-- title: ΒΙΒΛΙΟ
-  url: ""
-  side: left
-  dropdown:
-  - title: "ΑΓΟΡΑ"
-    url: "/buy/"
-  - title: "ΣΧΕΤΙΚΑ"
-    url: "/books-related/"
-  - title: "ΣΥΜΠΛΗΡΩΜΑΤΙΚΑ"
-    url: "/books-more/"
-  - title: "ΣΗΜΕΙΩΣΕΙΣ"
-    url: "/notes/"
-  - title: "ΒΙΒΛΙΟΓΡΑΦΙΑ"
-    url: "/bibliography/"
