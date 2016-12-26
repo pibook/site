@@ -23,6 +23,14 @@ header: no
 
 # Μέθοδος
 
+{% include_relative need.md %}
+
+{% include_relative audience.md %}
+
+{% include_relative benefit.md %}
+
+{% include_relative structure.md %}
+
 {% include_relative required.md %}
 
 {% include_relative approach.md %}
