@@ -14,10 +14,10 @@
   url: "/case-study/"
   side: left
 
-- name: "ΜΟΤΙΒΑ"
+- title: "ΜΟΤΙΒΑ"
   url: "/remix/"
   side: left
 
-- name: "ΚΑΤΑΣΚΕΥΕΣ"
+- title: "ΚΑΤΑΣΚΕΥΕΣ"
   url: "/making/"
   side: left
