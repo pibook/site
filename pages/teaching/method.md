@@ -27,6 +27,8 @@ header: no
 
 {% include_relative approach.md %}
 
+{% include_relative pedagogy.md %}
+
 {% include_relative syllabus.md %}
 
 {% include_relative projects.md %}
