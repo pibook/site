@@ -2,21 +2,9 @@
 
 - name: "Διαφάνειες"
   url: "/slides/"
-  class: "services-contact"
-  title: "Προαπαιτούμενα"
 
 - name: "Screencasts"
   url: "/screencasts/"
 
 - name: "Μέθοδος"
   url: "/method/"
-
-- name: "required"
-  url: "/required/"
-  class: "services-contact"
-  title: "Προαπαιτούμενα"
-
-- name: "required"
-  url: "/required/"
-  class: "services-contact"
-  title: "Προαπαιτούμενα"

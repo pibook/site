@@ -1,10 +1,10 @@
-- menu_name: "ΜΕΛΕΤΗ"
+- menu_name: "ΒΙΒΛΙΟ"
 
-- name: "Μοτίβα"
-  url: "/remix/"
+- name: "Διορθώσεις"
+  url: "http:/proof.pibook.gr/"
 
-- name: "Κατασκευές"
-  url: "/making/"
+- name: "Σημειώσεις"
+  url: "/notes/"
 
 - name: "Βιβλιογραφία"
   url: "/bibliography/"

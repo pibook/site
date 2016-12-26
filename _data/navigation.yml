@@ -13,3 +13,11 @@
 - title: "ΠΕΡΙΠΤΩΣΕΙΣ"
   url: "/case-study/"
   side: left
+
+- name: "ΜΟΤΙΒΑ"
+  url: "/remix/"
+  side: left
+
+- name: "ΚΑΤΑΣΚΕΥΕΣ"
+  url: "/making/"
+  side: left
