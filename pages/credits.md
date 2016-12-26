@@ -5,8 +5,7 @@ show_meta: false
 subheadline: ""
 teaser: ""
 permalink: "/credits/"
-header:
-    image_fullwidth: "contact.jpg"
+header: no
 ---
 
 Στο βιβλίο και στην ιστοσελίδα έχουν συμβάλει οι παρακάτω συντελεστές:
