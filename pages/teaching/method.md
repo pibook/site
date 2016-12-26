@@ -5,23 +5,33 @@ permalink: "/method/"
 header: no
 ---
 
-# Μέθοδος
-
 <div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-Inhalt
-{: #toc }
-*  TOC
-{:toc}
-</div>
-</div><!-- /.medium-4.columns -->
+  <div class="medium-4 medium-push-8 columns" markdown="1">
+    <div class="panel radius" markdown="1">
+
+      Μέθοδος
+      {: #toc }
+      *  TOC
+      {:toc}
+
+    </div>
+  </div><!-- /.medium-4.columns -->
 
 
 
-<div class="medium-8 medium-pull-4 columns" markdown="1">
+  <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-{% include_relative required.md %}
+    # Μέθοδος
 
-</div><!-- /.medium-8.columns -->
+    {% include_relative required.md %}
+
+    {% include_relative approach.md %}
+
+    {% include_relative syllabus.md %}
+
+    {% include_relative projects.md %}
+
+    {% include_relative evaluation.md %}
+
+  </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
