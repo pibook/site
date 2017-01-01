@@ -13,7 +13,13 @@ tags:
   - WWW
   - success
   - Tim Berners Lee
-author: epidrome
+gallery:
+  - image_url: www.png
+    caption: "WWW"
+  - image_url: xanadu.jpg
+    caption: "xanadu"
 ---
 
 {% include_relative cs-www.md %}
+
+{% include gallery %}

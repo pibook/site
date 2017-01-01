@@ -12,6 +12,15 @@ categories:
 tags:
   - Microsoft windows
   - success
+gallery:
+  - image_url: windows1.jpg
+    caption: "Windows 1"
+  - image_url: windows95.jpg
+    caption: "Windows 95"
+  - image_url: windows8.png
+    caption: "Windows 8"
 ---
 
 {% include_relative cs-windows.md %}
+
+{% include gallery %}
