@@ -13,6 +13,13 @@ tags:
 categories:
     - case-study
     - definition
+gallery:
+  - image_url: minecraft.png
+    caption: "Minecraft"
+  - image_url: learntomod.jpg
+    caption: "Learntomod enables the modification of Minecraft through an accessible blocks-based programming language"
 ---
 
 {% include_relative cs-minecraft.md %}
+
+{% include gallery caption="Minecraft gallery." %}
