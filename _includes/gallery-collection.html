@@ -17,11 +17,6 @@
 *       - image_url: gallery-image.jpg
 *          caption: Starting Page with huge One Logo
 *
-*   6. Add the include whereever you want in your content like this:
-*
-*   {% include gallery %}
-*
-*   Check out the example page › http://phlow.github.io/feeling-responsive/design/gallery/
 *
 {% endcomment %}
 
@@ -31,7 +26,9 @@
 		{% capture url %}{{ image.image_url }}{% endcapture %}
 		{% assign split_url = url | split: '.' %}
 		{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
-		<li><a href="{{ site.urlimg }}{{ image.image_url }}"><img {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} src="{{ site.urlimg }}{{ thumb_url }}" alt=""></a><br><small> <a href="/gallery/{{ image.chapter }}/{{ image.title }}/">{{ image.caption }}</a> </small></li>
+		<li><a href="{{ site.urlimg }}{{ image.image_url }}"><img {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} src="{{ site.urlimg }}{{ thumb_url }}" alt=""></a>
+		<br>
+		<small> <a href="/gallery/{{ image.title }}/">{{ image.caption }}</a> </small></li>
 		{% endfor %}
 	</ul>
 </div>
