@@ -6,7 +6,7 @@
 
 ![First Macintosh Mouse. Courtesy of Wikipedia.org License: Creative Commons Attribution ShareAlike 3.0 Link:https://en.wikipedia.org/wiki/Apple_Mouse#/media/File:Apple_Macintosh_Plus_mouse.jpg](/images/apple-mouse.jpg)
 
-![Illustration of a taxonomy for input devices. Courtesy of pibook.gr Licence: Attribution-NonCommercial-ShareAlike 2.0](/images/input-device-taxonomy.png)
+![Illustration of a taxonomy for input devices. Courtesy of pibook.gr License: Attribution-NonCommercial-ShareAlike 2.0](/images/input-device-taxonomy.png)
 
 ![Sensory Homunculus draw. Author: Btarski , Wikipedia. Licensing: Creative Commons Attribution ShareAlike 3.0 ](/images/Sensory_Homunculus.png)
 

@@ -4,7 +4,7 @@
 
 ![Screenshot of The Blaster Learning System. Copyright by Knowledge Adventure. Courtesy of http://gamefabrique.com/ Link: http://gamefabrique.com/storage/screenshots/genesis/math-blaster-episode-1-02.png](/images/math-blaster.png)
 
-![Illustration of the history of desktop interaction. Courtesy of pibook.gr Licence: Attribution-NonCommercial-ShareAlike 2.0](/images/desktop-interaction-history-future.png)
+![Illustration of the history of desktop interaction. Courtesy of pibook.gr License: Attribution-NonCommercial-ShareAlike 2.0](/images/desktop-interaction-history-future.png)
 
 ![Screenshot of Balsamiq Mockups. Copyright by Balsamiq. Image: "iPhone POI editor - screen 4" by Martijn van Exel. Via flickr.com. License: Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0) Link: https://flic.kr/p/6HHDTq ](/images/ui-sketch.png)
 
