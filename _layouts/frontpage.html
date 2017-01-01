@@ -43,13 +43,10 @@ layout: default
         {% assign split_url = url | split: '.' %}
         {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
 
-        <a href="{{ site.gallery[random].url }}">
+        <a href="{{ site.gallery[random].url }}"><img src="{{ site.urlimg }}{{ thumb_url }}" height="182" alt=""></a>
 
-          <img src="{{ site.urlimg }}{{ thumb_url }}" height="182" alt="">
+        <br><small> {{ site.gallery[random].caption }} </small>
 
-          <br><small> {{ site.gallery[random].caption }} </small>
-
-        </a>
 
         <p>{{ page.widget-2.text }}</p>
     </div><!-- /.medium-4.columns -->
@@ -73,13 +70,9 @@ layout: default
           {% assign split_url = url | split: '.' %}
           {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
 
-          <a href="{{ site.case-study[random].url }}">
+          <a href="{{ site.case-study[random].url }}"><img src="{{ site.urlimg }}{{ thumb_url }}" height="182" alt=""></a>
 
-            <img src="{{ site.urlimg }}{{ thumb_url }}" height="182" alt="">
-
-            <br><small> {{ site.case-study[random].caption }} </small>
-
-          </a>
+          <br><small> {{ site.case-study[random].caption }} </small>
 
         <p>{{ page.widget-3.text }}</p>
     </div><!-- /.medium-4.columns -->
