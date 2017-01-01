@@ -43,9 +43,13 @@ layout: default
         {% assign split_url = url | split: '.' %}
         {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
 
-        <img src="{{ site.urlimg }}{{ thumb_url }}" height="182" alt="">
+        <a href="/case-study/{{ site.gallery[random].url }}/">
 
-        <br><small> {{ site.gallery[random].caption }} </small>
+          <img src="{{ site.urlimg }}{{ thumb_url }}" height="182" alt="">
+
+          <br><small> {{ site.gallery[random].caption }} </small>
+
+        </a>
 
         <p>{{ page.widget-2.text }}</p>
     </div><!-- /.medium-4.columns -->
@@ -69,7 +73,7 @@ layout: default
           {% assign split_url = url | split: '.' %}
           {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
 
-          <a href="/case-study/{{ site.case-study[random].title }}/">
+          <a href="/case-study/{{ site.case-study[random].url }}/">
 
             <img src="{{ site.urlimg }}{{ thumb_url }}" height="182" alt="">
 
