@@ -12,6 +12,11 @@ categories:
 tags:
   - donald norman
   - success
+gallery:
+  - image_url: mapping-principle.jpg
+    caption: "mapping-principle"
 ---
 
 {% include_relative cs-poet.md %}
+
+{% include gallery %}

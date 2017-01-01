@@ -12,7 +12,13 @@ categories:
 tags:
   - mouse
   - douglas engelbart
-
+gallery:
+  - image_url: input-comparison.png
+    caption: "input comparison"
+  - image_url: mouse-test-software.png
+    caption: "mouse test software"
 ---
 
 {% include_relative cs-mouse.md %}
+
+{% include gallery %}

@@ -11,6 +11,11 @@ categories:
   - models
 tags:
   - affective usability
+gallery:
+  - image_url: atm-affective.png
+    caption: "atm-affective"
 ---
 
 {% include_relative cs-affective.md %}
+
+{% include gallery %}

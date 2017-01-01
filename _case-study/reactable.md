@@ -12,7 +12,15 @@ categories:
 tags:
   - reactable
   - success
-
+gallery:
+  - image_url:  Reactable.jpg
+    caption: "Reactable"
+  - image_url: reactivision-simulator.png
+    caption: "ReacTIVision Simulator"
+  - image_url: reactable-fountain.jpg
+    caption: "reactable fountain.jpg"
 ---
 
 {% include_relative cs-reactable.md %}
+
+{% include gallery %}

@@ -12,6 +12,15 @@ categories:
 tags:
   - apple
   - ipod
+gallery:
+  - image_url: ipod_1g.png
+    caption: "ipod_1g"
+  - image_url: ipod_touch_2g.png
+    caption: "ipod_touch_2g"
+  - image_url: itunes3.png
+    caption: "itunes3"
 ---
 
 {% include_relative cs-ipod.md %}
+
+{% include gallery %}

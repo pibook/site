@@ -12,6 +12,13 @@ categories:
 tags:
   - facebok
   - success
+gallery:
+  - image_url: facebook1.jpg
+    caption: "Facebook 1"
+  - image_url: facebook2.jpg
+    caption: "facebook2"
 ---
 
 {% include_relative cs-facebook.md %}
+
+{% include gallery %}

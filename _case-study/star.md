@@ -23,4 +23,4 @@ gallery:
 
 {% include_relative cs-star.md %}
 
-{% include gallery caption="Xerox Star gallery." %}
+{% include gallery %}

@@ -12,7 +12,13 @@ categories:
 tags:
   - wikipedia
   - success
-
+gallery:
+  - image_url: wikipedia-growth.png
+    caption: "wikipedia growth"
+  - image_url: wikipedia-edit.png
+    caption: "Wikipedia edit"
 ---
 
 {% include_relative cs-wikipedia.md %}
+
+{% include gallery %}

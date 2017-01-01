@@ -12,6 +12,13 @@ categories:
 tags:
   - arduino
   - success
+gallery:
+  - image_url: arduino_uno.jpg
+    caption: "arduino_uno"
+  - image_url: arduino-shield.jpg
+    caption: "arduino-shield"
 ---
 
 {% include_relative cs-arduino.md %}
+
+{% include gallery %}
