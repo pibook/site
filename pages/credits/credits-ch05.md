@@ -15,7 +15,7 @@
 
 ![Screenshot from video "Nokia Lumia 920 - Panorama". Uploaded on Nov 30, 2012. Courtesy of youtube.com. License: Standard YouTube License. Link:https://www.youtube.com/watch?v=b2E2dCpQFHw](/images/panorama.jpg)
 
-![Screenshot from video "Myron Krueger - Videoplace, Responsive Environment, 1972-1990s". Uploaded on Apr 7, 2008. License: Standard YouTube License. Retrieved from https://www.youtube.com/watch?v=dmmxVA5xhuo](myron-kruger.png)
+![Screenshot from video "Myron Krueger - Videoplace, Responsive Environment, 1972-1990s". Uploaded on Apr 7, 2008. License: Standard YouTube License. Retrieved from https://www.youtube.com/watch?v=dmmxVA5xhuo](/images/myron-kruger.png)
 
 ![Screenshot of the First page of the Exec PC BBS. Courtesy of Wikipedia.org. Uploaded by Another n00b as Image:Exec_pc_bbs.PNG. Copyright by ExecPC. Link:https://en.wikipedia.org/wiki/File:Exec_pc_bbs.PNG](/images/bbs.png)
 

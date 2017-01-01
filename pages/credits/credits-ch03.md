@@ -1,12 +1,12 @@
 # IMAGE CREDITS ch03
 
-![Star's bitmapped display.Jeff Johnson and Teresa L. Roberts, U S WEST Advanced Technologies, William Verplank, IDTwo, David C. Smith, Cognition, Inc., Charles Irby and Marian Beard, Metaphor Computer Systems, Kevin Mackey, Xerox Corporation. Courtesy of digibarn.com. Creative Commons Attribution-Noncommercial 3.0 License.](/images/xerox-star.png)
+![Star's bitmapped display.Jeff Johnson and Teresa L. Roberts, U S WEST Advanced Technologies, William Verplank, IDTwo, David C. Smith, Cognition, Inc., Charles Irby and Marian Beard, Metaphor Computer Systems, Kevin Mackey, Xerox Corporation. Courtesy of digibarn.com. Creative Commons Attribution-Noncommercial 3.0 License.](/images/xerox-star.jpg)
 
 ![The first prototype computer mouse, developed by Bill English and famously used by Douglas Engelbart in "The Mother of All Demos", a demonstration of the oN-Line System in 1968. Courtesy of apple2history.org. Uploaded by Michael Hicks as File:Douglas Engelbart's prototype mouse, angled - Computer History Museum.jpg License:Creative Commons Attribution 2.0 Generic](/images/engelbart-mouse.jpg)
 
 ![First Macintosh Mouse. Courtesy of Wikipedia.org License: Creative Commons Attribution ShareAlike 3.0 Link:https://en.wikipedia.org/wiki/Apple_Mouse#/media/File:Apple_Macintosh_Plus_mouse.jpg](/images/apple-mouse.jpg)
 
-![Illustration of a taxonomy for input devices. Courtesy of pibook.gr Licence: Attribution-NonCommercial-ShareAlike 2.0](/images/input-device-taxonomy.jpg)
+![Illustration of a taxonomy for input devices. Courtesy of pibook.gr Licence: Attribution-NonCommercial-ShareAlike 2.0](/images/input-device-taxonomy.png)
 
 ![Sensory Homunculus draw. Author: Btarski , Wikipedia. Licensing: Creative Commons Attribution ShareAlike 3.0 ](/images/Sensory_Homunculus.png)
 
@@ -16,7 +16,7 @@
 
 ![Ivan Sutherland. Sketchpad System. 1965. Javier Burón account , Flickr. Creative Commons Attribution.](/images/sketchpad.png)
 
-![MakeyMakey is an invention kit. It is a USB device that replaces keys on your keyboard. Author : MARC FAULDER.](/images/makey_makey_front.jpg)
+![MakeyMakey is an invention kit. It is a USB device that replaces keys on your keyboard. Author : MARC FAULDER.](/images/makey_makey_front.png)
 
 ![Raspberrypi and minecraft.Link:http://www.raspberrypi-spy.co.uk/wp-content/uploads/2015/06/digimakers_04-1024x683.jpg ](/images/Minecraft-Pi.jpg)
 
@@ -28,7 +28,7 @@
 
 ![Screenshot of mouse test software.](/images/mouse-test-software.png)
 
-![Illustration of fitts comparison. Courtesy of pibook.gr](/images/fitts-comparison.jpg)
+![Illustration of fitts comparison. Courtesy of pibook.gr](/images/fitts-comparison.png)
 
 ![IPod 1G. Courtesy of commons.wikimedia.org. Creative Commons Attribution ShareAlike 3.0.](/images/Ipod_1G.png)
 

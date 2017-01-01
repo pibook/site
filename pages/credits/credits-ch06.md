@@ -5,7 +5,7 @@
 
 ![Aspen virtual reality mapping environment. Courtesy of Computer history museum http://www.computerhistory.org/terms/](/images/aspen-movie-map.jpg)
 
-![An example of a screen implemented in HyperCard. Courtesy of Jakob Nielsen / www.nngroup.com. Link: http://www.nngroup.com/faqs#reprint_image ](/images/hypercard-screen.png)
+![An example of a screen implemented in HyperCard. Courtesy of Jakob Nielsen / www.nngroup.com. Link: http://www.nngroup.com/faqs#reprint_image ](/images/hypercard-screen.gif)
 
 ![User experience elements. Link: http://jesusgilhernandez.com/2013/03/29/the-elements-of-user-experience/](/images/elements.jpg)
 
@@ -19,9 +19,9 @@
 
 ![Illustration of multimodal interaction. Courtesy of www.pibook.gr.](/images/multimodal.png)
 
-![Illustration of a CSCW Matrix. Courtesy of www.pibook.gr. Creative Commons Attribution.](/images/time-space-cscw.jpg)
+![Illustration of a CSCW Matrix. Courtesy of www.pibook.gr. Creative Commons Attribution.](/images/time-space-cscw.gif)
 
-![Illustration of popularity rank. Courtesy of www.pibook.gr.](/images/long-tail.jpg)
+![Illustration of popularity rank. Courtesy of www.pibook.gr.](/images/long-tail.gif)
 
 ![Screenshot of winamp application. Courtesy of daliulian.net. Copyright winamp.](/images/winamp.jpg)
 
