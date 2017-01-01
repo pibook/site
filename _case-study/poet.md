@@ -4,7 +4,7 @@ header: no
 show_meta: true
 author: epidrome
 title: "The Design of Everyday Things"
-image_url: ch02/mapping-principle.jpg
+image_url: mapping-principle.jpg
 caption: "Η κατανόηση και η χρήση μιας συσκευής διέπεται από μερικές βασικές και διαχρονικές αξίες που είναι οι ίδιες ανεξάρτητα από το είδος και την πολυπλοκότητα που μπορεί να έχει η διάδραση ανθρώπου υπολογιστή."
 categories:
   - case-study
