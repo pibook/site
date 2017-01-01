@@ -2,5 +2,6 @@
 image_url: /IPod_touch_2G.png
 caption: Το iPod touch είναι μια μάλλον ατυχής ονομασία για μια συσκευή που πλησιάζει ένα πλήρες iPhone αφού διαθέτει πολυαπτική διεπαφή, ασύρματη σύνδεση στο δίκτυο και δυνατότητα λήψης (download) νέων εφαρμογών. Του λείπει μόνο η δυνατότητα τηλεφωνικών κλήσεων.
 title: IPod_touch_2G
-chapter: archetypes
+categories:
+  - archetypes
 ---
