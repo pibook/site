@@ -12,7 +12,7 @@
 
 ![Screenshot of Visual Basic Form Design.This image is a copyrighted screen shot of a commercially-released computer software product of Microsoft Corporation. "Used with permission from Microsoft." (https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/default.aspx )](/images/visual-basic-form-designer.png)
 
-![Screenshot of computer programming software called Scratch. Open Source app https://scratch.mit.edu/ , Creative Commons Attribution-ShareAlike 2.0 license.](/images/MIT-Scratch.png)
+![Screenshot of computer programming software called Scratch. Open Source app https://scratch.mit.edu/ , Creative Commons Attribution-ShareAlike 2.0 license.](/images/mit-scratch.png)
 
 ![Screenshot of a visual abstraction of sin algorithm. Author : Karolos Talvis. Courtesy of pibook.gr](/images/symbolic-abstraction.png)
 
@@ -28,7 +28,7 @@
 
 ![Pebble was prototyped using Arduino. Image: Courtesy of Priya Kuber. Creative Commons Attribution ShareAlike 3.0.](/images/pebble-hifi.png)
 
-![Example of a tangible user interface. Image via Wikipedia.org. Creative Commons Attribution ShareAlike 3.0.](/images/Reactable.jpg)
+![Example of a tangible user interface. Image via Wikipedia.org. Creative Commons Attribution ShareAlike 3.0.](/images/reactable.jpg)
 
 ![TUIO_simulator example. Image: Courtesy of reactivision.sourceforge.net.General Public License.](/images/reactivision-simulator.png)
 

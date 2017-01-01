@@ -2,7 +2,7 @@
 
 ![Illustration of a human-centered design itinerary process for interactive systems.Courtesy of pibook.gr Licence: Attribution-NonCommercial-ShareAlike 2.0](/images/human-centered-design.jpg)
 
-![Illustration of a tool designed to be used by a person. Image: HandAxe.jpg Courtesy of www.bgs.ac.uk for non-commercial use of BGS copyright material. Copyright: the Natural Environment Research Council (NERC).](/images/Tool-need.jpg)
+![Illustration of a tool designed to be used by a person. Image: HandAxe.jpg Courtesy of www.bgs.ac.uk for non-commercial use of BGS copyright material. Copyright: the Natural Environment Research Council (NERC).](/images/tool-need.jpg)
 
 ![Illustration of User-centered history. Based on “Rough History Of User Centered Design Disciplines”. Courtesy of www.slideshare.net/Jonne Valola. Published on Oct 08, 2009.](/images/user-centered-history.jpg)
 

@@ -2,7 +2,7 @@
 
 ![Star's bitmapped display.Jeff Johnson and Teresa L. Roberts, U S WEST Advanced Technologies, William Verplank, IDTwo, David C. Smith, Cognition, Inc., Charles Irby and Marian Beard, Metaphor Computer Systems, Kevin Mackey, Xerox Corporation. Courtesy of digibarn.com. Creative Commons Attribution-Noncommercial 3.0 License.](/images/xerox-star.png)
 
-![The first prototype computer mouse, developed by Bill English and famously used by Douglas Engelbart in "The Mother of All Demos", a demonstration of the oN-Line System in 1968. Courtesy of apple2history.org. Uploaded by Michael Hicks as File:Douglas Engelbart's prototype mouse, angled - Computer History Museum.jpg License:Creative Commons Attribution 2.0 Generic](/images/Engelbart-mouse.jpg)
+![The first prototype computer mouse, developed by Bill English and famously used by Douglas Engelbart in "The Mother of All Demos", a demonstration of the oN-Line System in 1968. Courtesy of apple2history.org. Uploaded by Michael Hicks as File:Douglas Engelbart's prototype mouse, angled - Computer History Museum.jpg License:Creative Commons Attribution 2.0 Generic](/images/engelbart-mouse.jpg)
 
 ![First Macintosh Mouse. Courtesy of Wikipedia.org License: Creative Commons Attribution ShareAlike 3.0 Link:https://en.wikipedia.org/wiki/Apple_Mouse#/media/File:Apple_Macintosh_Plus_mouse.jpg](/images/apple-mouse.jpg)
 
