@@ -33,10 +33,10 @@ collections:
     output: false
     permalink: /biography/:path/
   case-study:
-    output: false
+    output: true
     permalink: /case-study/:path/
   gallery:
-    output: false
+    output: true
     permalink: /gallery/:path/
 
 # Title of your website
