@@ -19,6 +19,9 @@
 *
 {% endcomment %}
 
+{% capture collection %}{{ include.param }}{% endcapture %}
+{{ collection }}
+
 <div>
 	<ul class="small-block-grid-4">
 		{% for image in site.gallery %}
