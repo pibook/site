@@ -20,7 +20,7 @@
 {% endcomment %}
 
 <div>
-	<ul class="clearing-thumbs small-block-grid-4" data-clearing>
+	<ul class="small-block-grid-4">
 		{% for image in site.gallery %}
 		{% capture url %}{{ image.image_url }}{% endcapture %}
 		{% assign split_url = url | split: '.' %}
