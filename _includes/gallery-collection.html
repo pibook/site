@@ -20,13 +20,11 @@
 {% endcomment %}
 
 {% capture param %}{{ include.param }}{% endcapture %}
-{{ param }}
 {% assign mycollection = site.collections | where:'label',param | first %}
-{{ mycollection.label }}
 
 <div>
 	<ul class="small-block-grid-4">
-		{% for image in site.gallery %}
+		{% for image in mycollection.docs %}
 			{% capture url %}{{ image.image_url }}{% endcapture %}
 			{% assign split_url = url | split: '.' %}
 			{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
