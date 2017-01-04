@@ -21,17 +21,19 @@
 
 {% capture param %}{{ include.param }}{% endcapture %}
 {{ param }}
-{% assign mycollection = site.collections | where:'label',param %}
+{% assign mycollection = site.collections | where:'label',param | first %}
 
 <div>
 	<ul class="small-block-grid-4">
 		{% for image in mycollection %}
-		{% capture url %}{{ image.image_url }}{% endcapture %}
-		{% assign split_url = url | split: '.' %}
-		{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
-		<li><a href="{{ site.urlimg }}{{ image.image_url }}"><img {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} src="{{ site.urlimg }}{{ thumb_url }}" alt=""></a>
-		<br>
-		<small> <a href="{{ image.url }}">{{ image.caption }}</a> </small></li>
+			{% capture url %}{{ image.image_url }}{% endcapture %}
+			{% assign split_url = url | split: '.' %}
+			{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
+				<li>
+					<a href="{{ site.urlimg }}{{ image.image_url }}"><img {% if image.caption %}data-caption="{{ image.caption }}"{% endif %} src="{{ site.urlimg }}{{ thumb_url }}" alt=""></a>
+					<br>
+					<small> <a href="{{ image.url }}">{{ image.caption }}</a> </small>
+				</li>
 		{% endfor %}
 	</ul>
 </div>

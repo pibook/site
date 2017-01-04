@@ -8,6 +8,6 @@ header: no
 ---
 
 
-{% include gallery-collection.html param="gallery" %}
+{% include gallery-collection.html param='gallery' %}
 
 {% include contribute-content %}
