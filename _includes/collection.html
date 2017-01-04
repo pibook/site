@@ -10,7 +10,7 @@
 *   gallery:
 *       - image_url: gallery-image.jpg
 *
-*   5. Give your image a caption – works without captions, too.
+*   5. Give your image a caption
 *
 *   gallery:
 *       - image_url: gallery-image.jpg
@@ -24,14 +24,14 @@
 
 <div>
 	<ul class="small-block-grid-4">
-		{% for doc in mycollection.docs %}
-			{% capture url %}{{ doc.image_url }}{% endcapture %}
+		{% for item in mycollection.docs %}
+			{% capture url %}{{ item.image_url }}{% endcapture %}
 			{% assign split_url = url | split: '.' %}
 			{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
 				<li>
-					<a href="{{ doc.url }}"><img src="{{ site.urlimg }}{{ thumb_url }}" alt=""></a>
+					<a href="{{ item.url }}"><img src="{{ site.urlimg }}{{ thumb_url }}" alt=""></a>
 					<br>
-					<small> {{ doc.caption }} </small>
+					<small> {{ item.caption }} </small>
 				</li>
 		{% endfor %}
 	</ul>
