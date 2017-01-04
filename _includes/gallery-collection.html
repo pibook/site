@@ -22,6 +22,7 @@
 {% capture param %}{{ include.param }}{% endcapture %}
 {{ param }}
 {% assign mycollection = site.collections | where:'label',param | first %}
+{{ mycollection.label }}
 
 <div>
 	<ul class="small-block-grid-4">
