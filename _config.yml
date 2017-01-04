@@ -30,7 +30,7 @@ collections:
     output: true
     permalink: /bibliography/:path/
   biography:
-    output: false
+    output: true
     permalink: /biography/:path/
   case-study:
     output: true
