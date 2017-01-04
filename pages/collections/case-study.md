@@ -7,6 +7,6 @@ show_meta: false
 header: no
 ---
 
-{% include list-collection collection='case-study' %}
+{% include collection.html param='case-study' %}
 
 {% include contribute-content %}
