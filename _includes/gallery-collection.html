@@ -26,7 +26,7 @@
 
 <div>
 	<ul class="small-block-grid-4">
-		{% for image in mycollection %}
+		{% for image in site.gallery %}
 			{% capture url %}{{ image.image_url }}{% endcapture %}
 			{% assign split_url = url | split: '.' %}
 			{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
