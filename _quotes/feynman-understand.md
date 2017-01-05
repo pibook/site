@@ -1,6 +1,6 @@
 ---
 title: faynman-understand
-text: 'Μπορώ να κατανοήσω μόνο αυτό που μπορώ να φτιάξω'
+caption: 'Μπορώ να κατανοήσω μόνο αυτό που μπορώ να φτιάξω'
 person: Ρίτσαρντ Φευνμαν
 layout: quote
 header: no

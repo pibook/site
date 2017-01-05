@@ -25,14 +25,20 @@
 <div>
 	<ul class="small-block-grid-4">
 		{% for item in mycollection.docs %}
-			{% capture url %}{{ item.image_url }}{% endcapture %}
-			{% assign split_url = url | split: '.' %}
-			{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
-				<li>
+			<li>
+				{% if item.image_url %}
+					{% capture url %}{{ item.image_url }}{% endcapture %}
+					{% assign split_url = url | split: '.' %}
+					{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
 					<a href="{{ item.url }}"><img src="{{ site.urlimg }}{{ thumb_url }}" alt=""></a>
 					<br>
+				{% endif %}
+				{% if mycollection.label == 'quotes' %}
+					<a href="{{ item.url }}"><small> {{ item.caption }} </small></a>
+				{% else %}
 					<small> {{ item.caption }} </small>
-				</li>
+				{% endif %}
+			</li>
 		{% endfor %}
 	</ul>
 </div>

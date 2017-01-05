@@ -131,6 +131,13 @@ defaults:
       layout: quote
       header: no
       show_meta: true
+  - scope:
+      path: ""
+      type: case-study
+    values:
+      layout: page
+      header: no
+      show_meta: true
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____

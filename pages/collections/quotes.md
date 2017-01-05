@@ -4,7 +4,6 @@ header: no
 permalink: "/quotes/"
 show_meta: false
 ---
-
-{% include list-collection collection='quotes' %}
+{% include collection.html param='quotes' %}
 
 {% include contribute-content %}

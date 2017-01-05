@@ -1,6 +1,6 @@
 ---
 title: buxton-method
-text: 'Κάνοντας σωστά τη σωστή σχεδίαση.'
+caption: 'Κάνοντας σωστά τη σωστή σχεδίαση.'
 person: Bill Buxton
 layout: quote
 header: no
