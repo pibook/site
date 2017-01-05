@@ -34,7 +34,8 @@
 					<br>
 				{% endif %}
 				{% if mycollection.label == 'quotes' %}
-					<a href="{{ item.url }}"><small> {{ item.caption }} </small></a>
+					<a href="{{ item.url }}">{{ item.title }}</a>
+					<blockquote> {{ item.caption }} </blockquote>
 				{% else %}
 					<small> {{ item.caption }} </small>
 				{% endif %}
