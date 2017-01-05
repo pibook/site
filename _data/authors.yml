@@ -5,7 +5,7 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-epidrome: # replace this with your info
+epidrome:
   name: "Konstantinos Chorianopoulos"
   siterole: "maker, scholar, mentor"
   uri: "http://www.epidro.me/"
