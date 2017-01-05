@@ -1,7 +1,4 @@
 ---
-layout: page
-header: no
-show_meta: true
 author: epidrome
 title: "Xerox Star"
 image_url: xerox-star.jpg

@@ -1,7 +1,4 @@
 ---
-layout: page
-header: no
-show_meta: true
 author: epidrome
 title: "Apple iPod"
 image_url: ipod_1g.png

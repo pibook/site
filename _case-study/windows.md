@@ -1,7 +1,4 @@
 ---
-layout: page
-header: no
-show_meta: true
 author: epidrome
 title: "Microsoft Windows"
 image_url: windows1.jpg

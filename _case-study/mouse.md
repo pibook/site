@@ -1,7 +1,4 @@
 ---
-layout: page
-header: no
-show_meta: true
 author: epidrome
 title: "Mouse"
 image_url: mouse-test-software.png

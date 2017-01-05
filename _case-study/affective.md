@@ -1,6 +1,4 @@
 ---
-header: no
-show_meta: true
 author: epidrome
 title: "Affective usability"
 image_url: atm-affective.png

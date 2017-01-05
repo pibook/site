@@ -1,7 +1,4 @@
 ---
-layout: page
-header: no
-show_meta: true
 author: epidrome
 title: "Facebook"
 image_url: facebook1.jpg
