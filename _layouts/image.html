@@ -28,7 +28,7 @@ format: image
 
 			<img src="{{ site.urlimg }}{{ page.image_url }}" alt="page.title">
 			{% if page.license_url && page.license_text %}
-					<small><a href="{{ page.license_url }}">{{ page.license_text }}</a></small>
+					<p class="text-right caption"><small><a href="{{ page.license_url }}">{{ page.license_text }}</a></small></p>
 			{% endif %}
 			<br>{{ page.caption }}
 
