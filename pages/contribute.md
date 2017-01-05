@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ΣΥΜΜΕΤΟΧΗ"
+title: Συμμετοχή
 subheadline: ""
 show_meta: false
 teaser: ""
