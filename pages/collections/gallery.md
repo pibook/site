@@ -1,7 +1,7 @@
 ---
 title: Συλλογή Εικόνων
 layout: page-fullwidth
-teaser: Μπορείτε να προσθέσετε περισσότερες εικόνες σύμφωνα με τις οδηγίες στο τέλος της σελίδας
+teaser: '<a href="/contribute/">Μπορείτε να προσθέσετε περισσότερες εικόνες σύμφωνα με τις οδηγίες στο τέλος της σελίδας</a>'
 permalink: /gallery/
 show_meta: false
 header: no
