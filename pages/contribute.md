@@ -8,10 +8,10 @@ permalink: "/contribute/"
 header: no
 ---
 
-Το βιβλίο είναι αποθηκευμένο στο σύστημα του [github](http://www.github.com). Ο καλύτερος τρόπος για να βελτιώσετε το βιβλίο είναι να [δημιουργήσετε ένα νέο αντίγραφο](https://guides.github.com/activities/forking/), να κάνετε τις [αλλαγές και διορθώσεις](https://guides.github.com/introduction/flow/) που θέλετε, και να κάνετε ένα [αίτημα ενσωμάτωσης](https://guides.github.com/activities/hello-world/#pr).
+[Τα πηγαία αρχεία για το website είναι ελεύθερα διαθέσιμα.](https://github.com/pibook/pibookgr). Ο καλύτερος τρόπος για να το βελτιώσετε είναι να [δημιουργήσετε ένα νέο αντίγραφο](https://guides.github.com/activities/forking/), να κάνετε τις [προσθήκες, αλλαγές, και διορθώσεις σε διακριτά κλαδιά](https://guides.github.com/introduction/flow/), και να κάνετε ένα [αίτημα ενσωμάτωσης](https://guides.github.com/activities/hello-world/#pr).
 
-[Τα πηγαία αρχεία για το βιβλίο και για το website είναι ελεύθερα διαθέσιμα.](https://github.com/pibook/pibookgr)
+{% include contribute-content.html %}
 
-Αν βρείτε ένα λάθος, αν έχετε διαφορετική γνώμη, ή αν θέλετε να προσθέτε νέο υλικό μπορείτε να το κάνετε ελεύθερα στην παραπάνω περιοχή αρκεί να σεβαστείτε την άδεια χρήσης.
+Αν βρείτε ένα λάθος, αν έχετε διαφορετική γνώμη, ή αν θέλετε να προσθέτε νέο υλικό μπορείτε να το κάνετε ελεύθερα σύμφωνα με τις παραπάνω οδηγίες αρκεί να σεβαστείτε την παρακάτω άδεια χρήσης.
 
 {% include license.html %}
