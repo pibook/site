@@ -1,9 +1,10 @@
 ---
+title: Παραθέσεις
 layout: page-fullwidth
+teaser: '<a href="/contribute/">Μπορείτε να προσθέσετε περισσότερες εικόνες σύμφωνα με τις οδηγίες</a>'
 header: no
-permalink: "/quotes/"
+permalink: /quotes/
 show_meta: false
 ---
-{% include collection.html param='quotes' %}
 
-{% include contribute-content %}
+{% include collection.html param='quotes' %}
