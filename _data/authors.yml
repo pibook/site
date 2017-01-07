@@ -1,14 +1,21 @@
 # Author details
 #
-# 1. Edit information below
-# 2. Change site author in config.yml
-# 3. Change default post/page authors in config.yml
+# 1. Copy-paste the example
+# 2. Edit the example with your data
+# 3. Please keep a comment line above and bellow your new entry
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 epidrome:
   name: "Konstantinos Chorianopoulos"
   siterole: "maker, scholar, mentor"
   uri: "http://www.epidro.me/"
-  email:
+  email: "hi@epidro.me"
   twitter: "@ep1dr0me"
-# you can add more authors here
+# copy-paste and then edit the example bellow
+exampleyourauthorname:
+  name: "your real name"
+  siterole: "very short description"
+  uri: "your home page"
+  email: "your email"
+  twitter: "@your twitter account"
+# you can add more authors bellow this comment
