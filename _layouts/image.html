@@ -16,13 +16,16 @@ format: image
 			</p>
 			{% endif %}
 
-
-			<img src="{{ site.urlimg }}{{ page.image_url }}" alt="page.title">
-			{% if page.license_url && page.license_text %}
-					<small><a href="{{ page.license_url }}">{{ page.license_text }}</a></small>
-			{% endif %}
-			<br>{{ page.caption }}
-
+			<figure>
+				<img src="{{ site.urlimg }}{{ page.image_url }}" alt="page.title" itemprop="image">
+				{% if page.license_url && page.license_text %}
+						<figcaption class="text-right">
+							<a href="{{ page.license_url }}">{{ page.license_text }}</a>
+						</figcaption>
+				{% endif %}
+				<br>
+				{{ page.caption }}
+			</figure>
 			{{ content }}
 		</article>
 	</div><!-- /.medium-12.columns -->
