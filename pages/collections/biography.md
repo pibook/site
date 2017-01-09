@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: Βιογραφίες
-teaser: '<a href="/contribute/">Μπορείτε να προσθέσετε περισσότερες εικόνες σύμφωνα με τις οδηγίες</a>'
+teaser: '<a href="/contribute/">Μπορείτε να προσθέσετε περισσότερες βιογραφίες σύμφωνα με τις οδηγίες</a>'
 permalink: /biography/
 show_meta: false
 header: no
