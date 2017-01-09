@@ -19,3 +19,11 @@ exampleyourauthorname:
   email: "your email"
   twitter: "@your twitter account"
 # you can add more authors bellow this comment
+#
+nickkouk:
+  name: "Nikolaos Kouklas"
+  siterole: "scholar"
+  uri: "https://gr.linkedin.com/in/nikolaoskouklascomputerscience"
+  email: "nick.kouklas@gmail.com"
+  twitter: "@NikolaosKouklas"
+#
