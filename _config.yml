@@ -138,7 +138,13 @@ defaults:
       layout: page
       header: no
       show_meta: true
-
+  - scope:
+      path: ""
+      type: biography
+    values:
+      layout: case-study
+      header: no
+      show_meta: true
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
 #     /  |/ / __ `/ | / / / __ `/ __ `/ __/ / __ \/ __ \
