@@ -1,14 +1,16 @@
 ---
-layout: page
-title: "ΒΙΟΓΡΑΦΙΕΣ"
-subheadline: ""
+layout: page-fullwidth
+title: Βιογραφίες
+teaser: '<a href="/contribute/">Μπορείτε να προσθέσετε περισσότερες εικόνες σύμφωνα με τις οδηγίες</a>'
+permalink: /biography/
 show_meta: false
-teaser: ""
-permalink: "/biography/"
 header: no
 ---
 
-[Alan Kay](/biography/kay/)
+
+{% include collection.html param='biography' %}
+
+coming soon...
 
 [Douglas Engelbart](/biography/engelbart/)
 
@@ -23,5 +25,3 @@ header: no
 [David Canfield Smith](/biography/smith/)
 
 [J. C. R. Licklider](/biography/licklider/)
-
-{% include license.html %}
