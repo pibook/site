@@ -6,12 +6,12 @@ header:
   caption: '!CAPTION! - !CAPTION_BY!'
   caption_url: !CAPTION_URL!
 widget-1:
-   title: Βιογραφίες
-   url: /biography/
+  title: Βιογραφίες
+  url: /biography/
 widget-2:
-    title: Εικόνες
-    url: /gallery/
+  title: Εικόνες
+  url: /gallery/
 widget-3:
-   title: Μελέτες περίπτωσης
-   url: /case-study/
+  title: Μελέτες περίπτωσης
+  url: /case-study/
 ---
