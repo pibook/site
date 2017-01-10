@@ -9,10 +9,13 @@ categories:
   - case-study
   - models
 tags:
-  - Effectiveness behind simplicity
+  - Google Search
+  - success
 gallery:
   - image_url: google_search_engine.png
     caption: "google_search_engine"
+  - image_url: uber.jpg
+    caption: "uber"
 ---
 
 {% include_relative cs-google_search.md %}
