@@ -1,5 +1,6 @@
 ---
 layout: frontpage
+title: pibook
 header:
   image_fullwidth: 'header.jpg'
   caption: '!CAPTION! - !CAPTION_BY!'
