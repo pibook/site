@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: "Ο Προγραμματισμός της Διάδρασης: Από τον Επιτραπέζιο στον Κινητό και Διάχυτο Υπολογισμό"
 header:
-   image_fullwidth: 'header.jpg'
+  title: "Ο Προγραμματισμός της Διάδρασης: Από τον Επιτραπέζιο στον Κινητό και Διάχυτο Υπολογισμό"
+  image_fullwidth: 'header.jpg'
 widget-1:
    title: Βιογραφίες
    url: /biography/
