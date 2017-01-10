@@ -11,9 +11,9 @@ format: frontpage
 
 {% assign random = site.time | date: "%s%N" | modulo: site.quotes.size %}
 
-{% page.caption | replace: '!CAPTION!', site.quotes[random].caption | replace: '!CAPTION_BY!', site.quotes[random].person %}
+{{ page.caption | replace: '!CAPTION!', site.quotes[random].caption | replace: '!CAPTION_BY!', site.quotes[random].person }}
 
-{% page.caption_url | replace: '!CAPTION_URL!', site.quotes[random].url %}
+{{ page.caption_url | replace: '!CAPTION_URL!', site.quotes[random].url }}
 
 
 {% comment %}
