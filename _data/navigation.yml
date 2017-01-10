@@ -2,10 +2,6 @@
   url: "/"
   side: left
 
-- title: ΠΑΡΑΘΕΣΕΙΣ
-  url: "/quotes/"
-  side: left
-
 - title: "ΕΙΚΟΝΕΣ"
   url: "/gallery/"
   side: left

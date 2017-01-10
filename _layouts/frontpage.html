@@ -12,15 +12,22 @@ layout: default
     {% if page.widget-1.title %}
     <div class="medium-4 columns">
         <a href="{{ page.widget-1.url }}"><h2 class="font-size-h3 t10">{{ page.widget-1.title }}</h2></a>
+
         {% comment %}
         *
-        * Show an inspirational quote, chosen randomly from the quotes collection. it is refreshed only when the site rebuilds, for a more dynamic refresh do a client-side javascript implementation.
+        * Show an inspirational biography, chosen randomly from the biography collection. it is refreshed only when the site rebuilds, for a more dynamic refresh do a client-side javascript implementation.
         *
         {% endcomment %}
 
-        {% assign random = site.time | date: "%s%N" | modulo: site.quotes.size %}
+        {% assign random = site.time | date: "%s%N" | modulo: site.biography.size %}
 
-        <blockquote>{{ site.quotes[random].caption }} {{ site.quotes[random].person }}</blockquote>
+        {% capture url %}{{ site.biography[random].image_url }}{% endcapture %}
+        {% assign split_url = url | split: '.' %}
+        {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
+
+        <a href="{{ site.biography[random].url }}"><img src="{{ site.urlimg }}{{ thumb_url }}" height="182" alt=""></a>
+
+        <br><small> {{ site.biography[random].caption }} </small>
 
         <p>{{ page.widget-1.text }}</p>
     </div><!-- /.medium-4.columns -->

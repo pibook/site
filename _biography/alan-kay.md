@@ -2,7 +2,7 @@
 author: epidrome
 title: "Alan Kay"
 image_url: alan-kay.jpg
-caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει στα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
+caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
 categories:
   - biography
   - definition

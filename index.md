@@ -4,8 +4,8 @@ title: "Ο Προγραμματισμός της Διάδρασης: Από το
 header:
    image_fullwidth: 'header.jpg'
 widget-1:
-   title: Παραθέσεις
-   url: /quotes/
+   title: Βιογραφίες
+   url: /biography/
 widget-2:
     title: Εικόνες
     url: /gallery/
