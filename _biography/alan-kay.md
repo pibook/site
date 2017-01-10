@@ -14,10 +14,12 @@ tags:
   - Smalltalk
   - Xerox Alto
 gallery:
-  - image_url: alan-kay.jpg
-    caption: "Alan Kay"
   - image_url: dynabook.png
     caption: "Dynabook"
+  - image_url: alan-kay.jpg
+    caption: "Alan Kay in front of a Xerox Alto and a piano"
+  - image_url: smalltalk.jpg
+    caption: 'Smalltalk'
 ---
 
 {% include_relative bio-kay.md %}
