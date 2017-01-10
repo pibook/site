@@ -142,7 +142,7 @@ defaults:
       path: ""
       type: biography
     values:
-      layout: case-study
+      layout: page
       header: no
       show_meta: true
 #       _   __            _             __  _
