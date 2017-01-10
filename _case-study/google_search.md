@@ -9,7 +9,7 @@ categories:
   - case-study
   - models
 tags:
-  - Google Search
+  - google search
   - success
 gallery:
   - image_url: google_search_engine.png
