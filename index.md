@@ -1,8 +1,10 @@
 ---
 layout: frontpage
-title: pibook
+title: 'Ο Προγραμματισμός της Διάδρασης'
 header:
   image_fullwidth: 'header.jpg'
+  caption: '!CAPTION! - !CAPTION_BY!'
+  caption_url: '!CAPTION_URL!'
 widget-1:
   title: Βιογραφίες
   url: /biography/
