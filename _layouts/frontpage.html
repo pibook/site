@@ -10,10 +10,12 @@ format: frontpage
 {% endcomment %}
 
 {% assign random = site.time | date: "%s%N" | modulo: site.quotes.size %}
+{% assign captionText = site.quotes[random].caption %}
+{% assign captionBy = site.quotes[random].person %}
+{% assign captionURL = site.quotes[random].url %}
 
-{{ page.caption | replace: '!CAPTION!', site.quotes[random].caption | replace: '!CAPTION_BY!', site.quotes[random].person }}
-
-{{ page.caption_url | replace: '!CAPTION_URL!', site.quotes[random].url }}
+{{ page.caption | replace: '!CAPTION!', captionText | replace: '!CAPTION_BY!', captionBy }}
+{{ page.caption_url | replace: '!CAPTION_URL!', captionURL }}
 
 
 {% comment %}
