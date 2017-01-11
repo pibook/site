@@ -11,6 +11,6 @@ categories:
 tags:
   - Tab
   - Pad
-  - Boards
+  - Board
   - Xerox PARC
 ---
