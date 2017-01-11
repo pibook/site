@@ -19,17 +19,6 @@ layout: compress
   	</div><!-- /.row -->
   </div><!-- /#masthead -->
 
-  <div class="masthead-caption">
-  	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
-  </div>
-
-	<div id="header-home">
-	    <div class="row">
-	        <div class="small-12 columns">
-	        </div><!-- /.medium-4.columns -->
-	    </div><!-- /.row -->
-	</div><!-- /#header-home -->
-
 	{% comment %}
 	*
 	* Show an inspirational quote, chosen randomly from the quotes collection. it is refreshed only when the site rebuilds, for a more dynamic refresh do a client-side javascript implementation.
@@ -42,14 +31,17 @@ layout: compress
 	{% capture captionFull %}{{ site.quotes[random].caption }} - {{ site.quotes[random].person }}{% endcapture %}
 	{% assign captionURL = site.quotes[random].url %}
 
-	{% comment %}
-	{% if page.header.caption %}
-	  {{ page.header.caption | replace: "!CAPTION!", captionFull }}
-	  {% if page.header.caption_url %}
-	    {{ page.header.caption_url | replace: "!CAPTION_URL!", captionURL }}
-	  {% endif %}
-	{% endif %}
-	{% endcomment %}
+  <div class="masthead-caption">
+  	<a href="{{ captionURL }}">{{ captionFull }}</a>
+  </div>
+
+	<div id="header-home">
+	    <div class="row">
+	        <div class="small-12 columns">
+	        </div><!-- /.medium-4.columns -->
+	    </div><!-- /.row -->
+	</div><!-- /#header-home -->
+
 
 
 	{% comment %}
