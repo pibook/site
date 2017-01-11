@@ -115,7 +115,3 @@ widget-3:
     </div><!-- /.medium-4.columns -->
     {% endif %}
 </div><!-- /.row -->
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
