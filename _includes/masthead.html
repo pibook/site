@@ -18,7 +18,7 @@
 
 
 
-{% if page.header.title %}
+{% elsif page.header.title %}
 
 <div id="masthead-with-text" style="{% if page.header.background-color %}background: {{ page.header.background-color }};{% endif %} {% if page.header.image_fullwidth %}{% elsif page.header.pattern %}background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}'){% endif %}">
 	<div class="row">
@@ -46,7 +46,7 @@
 
 
 
-{% if page.header.image_fullwidth %}
+{% elsif page.header.image_fullwidth %}
 
 <div id="masthead">
 	<div class="row">
