@@ -15,8 +15,8 @@ format: frontpage
 {% capture captionFull %}{{ site.quotes[random].caption }} - {{ site.quotes[random].person }}{% endcapture %}
 {% assign captionURL = site.quotes[random].url %}
 
-{{ page.caption | replace: '!CAPTION!', captionFull }}
-{{ page.caption_url | replace: '!CAPTION_URL!', captionURL }}
+{{ page.header.caption | replace: '!CAPTION!', captionFull }}
+{{ page.header.caption_url | replace: '!CAPTION_URL!', captionURL }}
 
 
 {% comment %}
