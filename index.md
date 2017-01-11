@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 header:
   image_fullwidth: 'header.jpg'
   caption: "!CAPTION!"
