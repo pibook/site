@@ -15,8 +15,13 @@ format: frontpage
 {% capture captionFull %}{{ site.quotes[random].caption }} - {{ site.quotes[random].person }}{% endcapture %}
 {% assign captionURL = site.quotes[random].url %}
 
-{{ page.header.caption | replace: '!CAPTION!', captionFull }}
-{{ page.header.caption_url | replace: '!CAPTION_URL!', captionURL }}
+{% if page.header.caption %}
+  {{ page.header.caption | replace: '!CAPTION!', captionFull }}
+  {% if page.header.caption_url %}
+    {{ page.header.caption_url | replace: '!CAPTION_URL!', captionURL }}
+  {% endif %}
+{% endif %}
+
 
 
 {% comment %}
