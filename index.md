@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-fullwidth
 title: 'Ο Προγραμματισμός της Διάδρασης'
 header:
   image_fullwidth: 'header.jpg'
