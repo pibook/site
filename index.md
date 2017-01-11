@@ -2,8 +2,6 @@
 layout: frontpage
 header:
   image_fullwidth: 'header.jpg'
-  caption: '!CAPTION!'
-  caption_url: '!CAPTION_URL!'
 widget-1:
   title: Βιογραφίες
   url: /biography/
