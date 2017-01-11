@@ -1,6 +1,5 @@
 ---
 layout: compress
-format: front
 ---
 <!doctype html>
 <html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
@@ -23,6 +22,13 @@ format: front
   <div class="masthead-caption">
   	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
   </div>
+
+	<div id="header-home">
+	    <div class="row">
+	        <div class="small-12 columns">
+	        </div><!-- /.medium-4.columns -->
+	    </div><!-- /.row -->
+	</div><!-- /#header-home -->
 
 	{% comment %}
 	*
