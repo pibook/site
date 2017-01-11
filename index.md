@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: frontpage
 header:
   image_fullwidth: 'header.jpg'
   caption: "!CAPTION!"
