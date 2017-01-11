@@ -12,16 +12,18 @@ header: no
 
 coming soon...
 
-[Douglas Engelbart](/biography/engelbart/)
+[Douglas Engelbart]
 
-[Bret Victor](/biography/victor/)
+[Bret Victor]
 
-[Ivan Sutherland](/biography/sutherland/)
+[Ivan Sutherland]
 
-[Bill Buxton](/biography/buxton/)
+[Bill Buxton]
 
-[Don Norman](/biography/norman/)
+[Don Norman]
 
-[David Canfield Smith](/biography/smith/)
+[David Canfield Smith]
 
-[J. C. R. Licklider](/biography/licklider/)
+[J. C. R. Licklider]
+
+Marc Weiser
