@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header:
-  image_fullwidth: header.jpg
+  image_fullwidth: 'header.jpg'
   caption: !CAPTION!
   caption_url: !CAPTION_URL!
 widget-1:
