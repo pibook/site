@@ -16,9 +16,9 @@ format: frontpage
 {% assign captionURL = site.quotes[random].url %}
 
 {% if page.header.caption %}
-  {{ page.header.caption | replace: '!CAPTION!', captionFull }}
+  {{ page.header.caption | replace: "!CAPTION!", captionFull }}
   {% if page.header.caption_url %}
-    {{ page.header.caption_url | replace: '!CAPTION_URL!', captionURL }}
+    {{ page.header.caption_url | replace: "!CAPTION_URL!", captionURL }}
   {% endif %}
 {% endif %}
 
