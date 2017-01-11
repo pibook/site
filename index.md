@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: home
 header:
   image_fullwidth: 'header.jpg'
 widget-1:
