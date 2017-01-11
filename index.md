@@ -1,6 +1,5 @@
 ---
 layout: page-fullwidth
-title: 'Ο Προγραμματισμός της Διάδρασης'
 header:
   image_fullwidth: 'header.jpg'
   caption: '!CAPTION!'
@@ -28,10 +27,10 @@ widget-3:
 {% assign captionBy = site.quotes[random].person %}
 {% capture captionFull %}{{ site.quotes[random].caption }} - {{ site.quotes[random].person }}{% endcapture %}
 {% assign captionURL = site.quotes[random].url %}
-{% comment %}
+
 {{ page.header.caption | replace: '!CAPTION!', captionFull }}
 {{ page.header.caption_url | replace: '!CAPTION_URL!', captionURL }}
-{% endcomment %}
+
 
 {% comment %}
 *
