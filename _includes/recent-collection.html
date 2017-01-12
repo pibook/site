@@ -16,7 +16,7 @@
 
 
   {% for item in sorted limit:include.entries %}
-    <li><a href="{{ site.url }}{{ item.url }}"><strong>{{ item.title }}</strong></a></li>
+    <li><a href="{{ site.url }}{{ item.url }}"><strong>{{ item.title }}</strong></a>{{ item.date }}</li>
   {% endfor %}
 
   <li class="text-right"><a href="{{ site.url }}{{ sorted.url }}"><strong>{{ mycollection.label }}</strong></a></li>
