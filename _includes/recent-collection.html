@@ -8,7 +8,7 @@
 {% endcomment %}
 
 {% assign mycollection = site.collections | where:'label',include.collection | first %}
-{% assign sorted = mycollection | sort: 'date' | reverse %}
+{% assign sorted = mycollection | sort: 'date' %}
 
 {{ include.collection }}
 {{ sorted.label }}
