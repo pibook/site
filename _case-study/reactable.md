@@ -10,7 +10,7 @@ tags:
   - reactable
   - success
 gallery:
-  - image_url:  Reactable.jpg
+  - image_url: reactable.jpg
     caption: "Reactable"
   - image_url: reactivision-simulator.png
     caption: "ReacTIVision Simulator"
