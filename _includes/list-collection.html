@@ -21,14 +21,17 @@
 {% endcomment %}
 
 
-{% assign collection = include.collection %}
+{% capture collection %}{{ include.collection }}{% endcapture %}
+{% assign mycollection = site.collections | where:'label',collection | first %}
 {% assign category = include.category %}
 {% assign tag = include.tag %}
+
+
 <ul class="side-nav">
 
   {% if category == NULL and tag == NULL %}
 
-    {% for item in site.collection limit:include.entries offset:include.offset %}
+    {% for item in mycollection limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ item.url }}">{% if item.subheadline %}{{ item.subheadline }} &middot; {% endif %}<strong>{{ item.title }}</strong></a></li>
     {% endfor %}
       <li class="text-right"><a href="{{ site.url }}{{ site.collections[collection].directory }}"><strong>{{ site.data.language.more }}</strong></a></li>
