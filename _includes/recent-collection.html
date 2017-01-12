@@ -15,9 +15,11 @@
 
 <ul class="side-nav">
 
-  {% for item in sorted limit:include.entries %}
-    <li><a href="{{ site.url }}{{ item.url }}"><strong>{{ item.title }}</strong></a></li>
-  {% endfor %}
+  {% unless sorted == empty %}
+    {% for item in sorted limit:include.entries %}
+      <li><a href="{{ site.url }}{{ item.url }}"><strong>{{ item.title }}</strong></a></li>
+    {% endfor %}
+  {% endunless %}
 
   <li class="text-right"><a href="{{ site.url }}{{ mycollection.directory }}"><strong>{{ site.data.language.more }}</strong></a></li>
 
