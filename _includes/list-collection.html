@@ -1,0 +1,52 @@
+{% comment %}
+*
+*   Possible parameter for this loop:
+*
+*    › entries
+*    › offset
+*    › category
+*    › tag
+*
+*   Example for Category: {% include list-posts entries='3' offset='1' category='design' %}
+*
+*   Example for Tag: {% include list-posts entries='5' tag='terminal' %}
+*
+*
+*   This loop works like this:
+*
+*   1. First we check if there was given a category for filtering › if include.categories == NULL
+*   2. If no category is given for filtering do a general loop.
+*   3. If a category/tag was given, assign category/tag to the variable category/tag › assign category = include.categories
+*
+{% endcomment %}
+
+
+{% assign collection = include.collection %}
+{% assign category = include.category %}
+{% assign tag = include.tag %}
+<ul class="side-nav">
+
+  {% if category == NULL and tag == NULL %}
+
+    {% for item in site.collection limit:include.entries offset:include.offset %}
+      <li><a href="{{ site.url }}{{ item.url }}">{% if item.subheadline %}{{ item.subheadline }} &middot; {% endif %}<strong>{{ item.title }}</strong></a></li>
+    {% endfor %}
+      <li class="text-right"><a href="{{ site.url }}{{ site.collections[collection].directory }}"><strong>{{ site.data.language.more }}</strong></a></li>
+
+
+  {% elsif category %}
+
+    {% for item in site.categories.[category] limit:include.entries offset:include.offset %}
+      <li><a href="{{ site.url }}{{ item.url }}">{% if item.subheadline %}{{ item.subheadline }} &middot; {% endif %}<strong>{{ item.title }}</strong></a></li>
+    {% endfor %}
+      <li class="text-right"><a href="{{ site.url }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
+
+
+  {% elsif tag %}
+
+    {% for item in site.tags.[tag] limit:include.entries %}
+      <li><a href="{{ site.url }}{{ item.url }}">{% if item.subheadline %}{{ item.subheadline }} &middot; {% endif %}<strong>{{ item.title }}</strong></a></li>
+    {% endfor %}
+
+  {% endif %}
+</ul>
