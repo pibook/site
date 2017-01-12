@@ -4,4 +4,4 @@ header: no
 permalink: /beta/
 ---
 
-{% include recent-collection.html collection='case-study' entries='3' %}
+{% include recent-collection.html collection='case-study' entries='5' %}
