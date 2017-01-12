@@ -38,6 +38,8 @@ collections:
   gallery:
     output: true
     permalink: /gallery/:path/
+  header:
+    output: false
 
 # Title of your website
 title: "Ο Προγραμματισμός της Διάδρασης"
