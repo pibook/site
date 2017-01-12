@@ -4,4 +4,4 @@ header: no
 permalink: /beta/
 ---
 
-{% include list-collection collection='quotes' entries='3' %}
+{% include list-collection collection='case-study' entries='3' %}
