@@ -4,8 +4,7 @@
 *
 {% endcomment %}
 
-{% capture param %}{{ include.param }}{% endcapture %}
-{% assign mycollection = site.collections | where:'label',param | first %}
+{% assign mycollection = site.collections | where:'label',include.param | first %}
 
 <div>
 	<ul class="small-block-grid-4">
