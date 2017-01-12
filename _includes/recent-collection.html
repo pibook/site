@@ -16,7 +16,7 @@
 <ul class="side-nav">
 
   {% unless mycollection == empty %}
-    {% for item in mycollection.docs limit:include.entries %}
+    {% for item in sorted limit:include.entries %}
       <li><a href="{{ site.url }}{{ item.url }}"><strong>{{ item.title }}</strong></a></li>
     {% endfor %}
   {% endunless %}
