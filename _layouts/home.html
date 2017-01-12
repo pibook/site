@@ -139,6 +139,8 @@ layout: compress
 	*
 	* Show a random header image
 	*
+	{% endcomment %}
+	
 	{% assign random = site.time | date: "%s%N" | modulo: site.header.size %}
 	{% capture url %}{{ site.header[random].image_url }}{% endcapture %}
 
