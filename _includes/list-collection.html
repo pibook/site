@@ -23,6 +23,7 @@
 
 {% capture collection %}{{ include.collection }}{% endcapture %}
 {% assign mycollection = site.collections | where:'label',collection | first %}
+{% assign mycollection = mycollection | sort: 'date' %}
 {% assign category = include.category %}
 {% assign tag = include.tag %}
 
@@ -31,7 +32,7 @@
 
   {% if category == NULL and tag == NULL %}
 
-    {% for item in mycollection limit:include.entries offset:include.offset %}
+    {% for item in mycollection limit:include.entries %}
       <li><a href="{{ site.url }}{{ item.url }}">{% if item.subheadline %}{{ item.subheadline }} &middot; {% endif %}<strong>{{ item.title }}</strong></a></li>
     {% endfor %}
       <li class="text-right"><a href="{{ site.url }}{{ site.collections[collection].directory }}"><strong>{{ site.data.language.more }}</strong></a></li>
