@@ -10,6 +10,8 @@
 {% assign mycollection = site.collections | where:'label',include.collection | first %}
 {% assign sorted = mycollection | sort: 'date' | reverse %}
 
+{{ mycollection.label }}
+
 <ul class="side-nav">
 
   {% for item in sorted limit:include.entries %}
