@@ -8,15 +8,17 @@
 {% endcomment %}
 
 {% assign mycollection = site.collections | where:'label',include.collection | first %}
+{% comment %}
 {% assign sorted = mycollection | sort: 'date' | reverse %}
+{% endcomment %}
 
 {{ include.collection }}
 {{ mycollection.label }}
 
 <ul class="side-nav">
 
-  {% unless sorted == empty %}
-    {% for item in sorted limit:include.entries %}
+  {% unless mycollection == empty %}
+    {% for item in mycollection limit:include.entries %}
       <li><a href="{{ site.url }}{{ item.url }}"><strong>{{ item.title }}</strong></a></li>
     {% endfor %}
   {% endunless %}
