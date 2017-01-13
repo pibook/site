@@ -4,7 +4,7 @@ caption: 'Δεν είναι αρκετό να δημιουργούμε προϊ�
 person: Don Norman
 categories:
   - definition
-  - tools
+  - method
 tags:
   - Don Norman
 ---
