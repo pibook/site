@@ -1,7 +1,7 @@
 ---
 author: epidrome
-title: "Xerox Star"
-image_url: xerox-star.jpg
+title: "Xerox PARC"
+image_url: weiser-tab-pad-board.png
 caption: "To ερευνητικό κέντρο Xerox PARC για περισσότερα από 30 χρόνια δημιουργεί υλικό και λογισμικό για τους υπολογιστές, που θα τελικά μετά από λίγο καιρό θα είναι μέρος της καθημερινότητας."
 categories:
   - case-study
