@@ -8,7 +8,7 @@ widget-1:
 widget-2:
   title: Εικόνες
   url: /gallery/
-widget-3:
+widget-3: 
   title: Μελέτες περίπτωσης
   url: /case-study/
 ---
