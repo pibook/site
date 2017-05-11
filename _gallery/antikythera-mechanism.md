@@ -10,4 +10,5 @@ categories:
   - tools
 tags:
   - computer
+  - astronomy 
 ---
