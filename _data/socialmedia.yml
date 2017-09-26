@@ -1,9 +1,4 @@
 
-- name: Twitter
-  url: http://twitter.com/ep1dr0me
-  class: icon-twitter
-  title: Twitter
-
 - name: GitHub
   url: http://github.com/pibook/pibookgr
   class: icon-github
