@@ -13,9 +13,14 @@ tags:
   - success
 gallery:
   - image_url: google_search_engine.png
-    caption: "google_search_engine"
+    caption: "google search engine"
+  - image_url: google.jpg
+    caption: "google assistant"
   - image_url: uber.jpg
     caption: "uber"
+  - image_url: google-now.jpg
+    caption: "google now contextual information"
+
 ---
 
 {% include_relative cs-google_search.md %}
