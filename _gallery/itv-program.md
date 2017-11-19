@@ -6,7 +6,7 @@ caption: 'Η παθητική τηλεόραση,για πρώτη φορά με
 license_url: https://en.wikipedia.org/wiki/File:Girls_interacting_with_the_Winky_Dink_TV_program.jpg 
 license_text: Courtesy of Wikipedia.org 
 categories:
-  - archetypes
+  - definition
 tags:
   - interactive tv 
   - entertainment
