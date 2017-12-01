@@ -11,3 +11,6 @@
 
 - name: "Κατασκευές"
   url: "/making/"
+
+- title: "Μοτίβα"
+  url: "/remix/"
