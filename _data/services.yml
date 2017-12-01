@@ -8,3 +8,6 @@
 
 - name: "Μέθοδος"
   url: "/method/"
+
+- name: "Κατασκευές"
+  url: "/making/"
