@@ -14,11 +14,6 @@
   class: icon-youtube
   title: Videos and Screencasts
 
-- name: Google
-  url: https://plus.google.com/u/0/+KonstantinosChorianopoulos/
-  class: icon-googleplus
-  title: Google+
-
 # - name: Instagram
 #   url: http://instagram.com/
 #   class: icon-instagram
