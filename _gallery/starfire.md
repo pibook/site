@@ -2,7 +2,7 @@
 author: 
 title: starfire 
 image_url: starfire.png
-caption: ''
+caption: 'Το video prototyping είναι η κατάλληλη μέθοδος για να προσομοιώσουμε ένα σενάριο καθώς ο πολυμεσικός του χαρακτήρας προσδίδει την αίσθηση λειτουργικότητας.'
 license_url: 
 license_text:  
 categories:
