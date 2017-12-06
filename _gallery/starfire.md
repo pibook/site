@@ -10,7 +10,7 @@ categories:
 tags:
   - starfire 
   - sun microsystems
-  - video protoype 
+  - video prototype 
   - horizontal prototype
   - itv
 ---
