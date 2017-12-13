@@ -1,4 +1,5 @@
 ---
+author: epidrome
 image_url: classroom.jpg
 image_thumb: intro/classroom-thumb.jpg
 title: classroom
