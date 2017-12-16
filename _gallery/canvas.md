@@ -1,4 +1,5 @@
 ---
+author: epidrome
 image_url: canvas.jpg
 image_thumb: intro/canvas-thumb.jpg
 title: canvas
