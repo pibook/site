@@ -8,3 +8,9 @@
 
 - name: "Μέθοδος"
   url: "/method/"
+
+- name: "Κατασκευές"
+  url: "/making/"
+
+- name: "Μοτίβα"
+  url: "/remix/"
