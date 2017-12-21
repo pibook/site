@@ -4,22 +4,9 @@
   class: icon-github
   title: GitHub
 
-- name: Facebook
-  url: http://www.facebook.com/pibookgr
-  class: icon-facebook
-  title: Facebook
-
 - name: YouTube
   url: https://www.youtube.com/channel/UCXRT71xdiJVlbgMpeMvUZ3g
   class: icon-youtube
   title: Videos and Screencasts
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
 
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
