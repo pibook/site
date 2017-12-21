@@ -4,6 +4,11 @@
   class: icon-github
   title: GitHub
 
+- name: Twitter
+  url: http://twitter.com/ep1dr0me
+  class: icon-twitter
+  title: Twitter
+
 - name: YouTube
   url: https://www.youtube.com/channel/UCXRT71xdiJVlbgMpeMvUZ3g
   class: icon-youtube
