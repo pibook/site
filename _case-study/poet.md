@@ -12,6 +12,8 @@ tags:
 gallery:
   - image_url: mapping-principle.jpg
     caption: "mapping-principle"
+  - image_url: bell-nomograph.png 
+    caption: "bell-nomograph"  
 ---
 
 {% include_relative cs-poet.md %}
