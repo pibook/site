@@ -14,6 +14,8 @@ gallery:
     caption: "input comparison"
   - image_url: mouse-test-software.png
     caption: "mouse test software"
+  - image_url: fitts-comparison.png 
+    caption: "fitts-comparison"
 ---
 
 {% include_relative cs-mouse.md %}
