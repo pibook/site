@@ -12,6 +12,8 @@ tags:
 gallery:
   - image_url: mapping-principle.jpg
     caption: "mapping-principle"
+  - image_url: bell-nomograph.png 
+    caption: "Ο ερευνητής της επιστήμης των υπολογιστών Gordon Bell έφτιαξε το 2002 ένα διάγραμμα που δείχνει πόσο διαφορετικοί είναι οι υπολογιστές και τα δημογραφικά των χρηστών ανάλογα με τη δεκαετία που εμφανίστηκαν."  
 ---
 
 {% include_relative cs-poet.md %}
