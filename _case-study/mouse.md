@@ -15,7 +15,7 @@ gallery:
   - image_url: mouse-test-software.png
     caption: "mouse test software"
   - image_url: fitts-comparison.png 
-    caption: "fitts-comparison"
+    caption: "Οι δοκιμές έδειξαν ότι η συσκευή εισόδου 'ποντίκι' ήταν καλύτερη από τις άλλες τουλάχιστον αναφορικά με τις διεργασίες του πειράματος (επιλογή στόχου διαφορετικού μεγέθους), ενώ η υπεροχή αυτή μπορεί να ερμηνευτεί χάρη στη μεγάλη εκμετάλλευση του συγχρονισμού ανάμεσα στην όραση και στα χέρια."
 ---
 
 {% include_relative cs-mouse.md %}
