@@ -11,9 +11,9 @@ tags:
   - success
 gallery:
   - image_url: arduino_uno.jpg
-    caption: "arduino_uno"
+    caption: "Υπάρχουν πάρα πολλά είδη Arduino τα οποία εξυπηρετούν διαφορετικές ανάγκες."
   - image_url: arduino-shield.jpg
-    caption: "arduino-shield"
+    caption: "Η επέκταση με shields επιτρέπει στο βασικό Arduino να αποκτήσει νέες δυνατότητες εισόδου (π.χ., joystick) και εξόδου."
 ---
 
 {% include_relative cs-arduino.md %}

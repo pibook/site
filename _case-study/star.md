@@ -10,12 +10,12 @@ tags:
   - xerox star
   - success
 gallery:
-  - image_url:  xerox-star-ui.jpg
-    caption: "Xerox Star graphical user interface"
+  - image_url: xerox-star-desktop.png
+    caption: "Η επιφάνεια εργασίας ως μεταφορά για τη χρήση του υπολογιστή σε γραφικό περιβάλλον ανταποκρίνεται κυρίως στις ανάγκες που είχαν οι πελάτες και χρήστες των πρώτων επιτραπέζιων υπολογιστών, οι οποίοι ήθελαν ένα εργαλείο που να διευκολύνει τις εργασίες σε εκδοτικούς οργανισμούς."
   - image_url: xerox-star.jpg
-    caption: "Xerox Star Desktop Computer"
+    caption: "Ο επιτραπέζιος υπολογιστής με πληκτρολόγιο, ποντίκι, και γραφική επιφάνεια εργασίας (παράθυρα, εικονίδια, φάκελοι) που δημιουργήθηκε από τη Xerox στα τέλη της δεκαετίας του 1970 λίγο διαφέρει από τον μοντέρνο επιτραπέζιο υπολογιστή."
   - image_url: xerox-star-genealogy.png
-    caption: "Xerox Star integrated many modules that have been developed in previous works."
+    caption: "Το γενεαλογικό δέντρο του Xerox Star περιέχει σημαντικούς προγόνους (π.χ., Memex, NLS, Sketchpad, κ.ά.) καθώς και εξίσου σημαντικούς απογόνους (π.χ. Macintosh), με τα περισσότερα στοιχεία της διάδρασης (π.χ., γραφική επιφάνεια εργασίας, απευθείας χειρισμός, κτλ.) να παραμένουν τα ίδια για δεκαετίες."
 ---
 
 {% include_relative cs-star.md %}
