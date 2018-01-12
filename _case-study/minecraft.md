@@ -12,9 +12,9 @@ tags:
   - minecraft
 gallery:
   - image_url: minecraft.png
-    caption: "Minecraft"
+    caption: "Η ιδέα να δημιουργούνται πίστες από τους τελικούς χρήστες δεν είναι καινούρια και έχει δοκιμαστεί με επιτυχία σε αρκετά παιχνίδια ως πρόσθετη λειτουργία. Το Minecraft είναι από την αρχή σχεδιασμένο με σκοπό οι τελικοί χρήστες να σχεδιάζουν τον εικονικό κόσμο."
   - image_url: learntomod.jpg
-    caption: "Learntomod enables the modification of Minecraft through an accessible blocks-based programming language"
+    caption: "Η ευελιξία και η επεκτασιμότητα του Minecraft δεν σταματούν στη δυνατότητα κατασκευής του σκηνικού της δράσης, αλλά επεκτείνονται στη δυνατότητα προγραμματισμού της συμπεριφοράς και στη δημιουργίας νεών αντικειμένων."
 ---
 
 {% include_relative cs-minecraft.md %}
