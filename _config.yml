@@ -15,9 +15,9 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Book."
-url                      : "http://www.mibook.org"
-baseurl                  : "/gr"
-repository               : "mibook/gr"
+url                      : "http://pibook.epidro.me"
+baseurl                  : ""
+repository               : "epidrome/pibook"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
