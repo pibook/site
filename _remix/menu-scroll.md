@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Menu scroll
 header: no
 categories:

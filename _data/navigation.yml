@@ -1,16 +1,8 @@
-- title: ΑΡΧΙΚΗ
-  url: "/"
-  side: left
-
-- title: "ΕΙΚΟΝΕΣ"
-  url: "/gallery/"
-  side: left
-
-- title: "ΠΕΡΙΠΤΩΣΕΙΣ"
-  url: "/case-study/"
-  side: left
-
-- title: "ΒΙΟΓΡΑΦΙΕΣ"
-  url: "/biography/"
-  side: left
-
+# main links
+main:
+  - title: "Μελέτες Περίπτωσης"
+    url: /case-study/
+  - title: "Εικόνες"
+    url: /gallery/
+  - title: "Βιογραφίες"
+    url: /biography/

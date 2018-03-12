@@ -1,0 +1,50 @@
+{% if include.id %}
+  {% assign gallery = page[include.id] %}
+{% else %}
+  {% assign gallery = page.gallery %}
+{% endif %}
+
+{% if gallery.size == 2 %}
+  {% assign gallery_layout = 'half' %}
+{% elsif gallery.size >= 3 %}
+  {% assign gallery_layout = 'third' %}
+{% else %}
+  {% assign gallery_layout = '' %}
+{% endif %}
+
+<figure class="{{ gallery_layout }} {{ include.class }}">
+  {% for img in gallery %}
+    {% if img.image_url %}
+      <a href=
+        {% if img.image_url contains "://" %}
+          "{{ img.image_url }}"
+        {% else %}
+          "{{ img.image_url | absolute_url }}"
+        {% endif %}
+        {% if img.title %}title="{{ img.title }}"{% endif %}
+      >
+      {% capture url %}{{ img.image_url }}{% endcapture %}
+      {% assign split_url = url | split: '.' %}
+      {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
+        <img src=
+          {% if thumb_url contains "://" %}
+            "{{ thumb_url }}"
+          {% else %}
+            "{{ thumb_url | absolute_url }}"
+          {% endif %}
+          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+      </a>
+    {% else %}
+      <img src=
+        {% if img.image_path contains "://" %}
+          "{{ img.image_path }}"
+        {% else %}
+          "{{ img.image_path | absolute_url }}"
+        {% endif %}
+        alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+    {% endif %}
+  {% endfor %}
+  {% if include.caption %}
+    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% endif %}
+</figure>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: 3D image
 header: no
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Visualization dataset
 header: no
 categories:

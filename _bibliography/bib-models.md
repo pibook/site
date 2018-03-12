@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Μοντέλα"
 subheadline: "ΒΙΒΛΙΟΓΡΑΦΙΑ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 5."
 show_meta: false

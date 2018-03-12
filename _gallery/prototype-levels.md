@@ -1,6 +1,6 @@
 ---
 author: epidrome
-image_url: prototype-levels.png
+image_url: /images/prototype-levels.png
 caption: Η κατασκευή πρωτοτύπου περιλαμβάνει πολλά διαφορετικά επίπεδα και τεχνικές, όπως φαίνεται και στο σχήμα, αν και τα επίπεδα αυτά έχουν επικαλύψεις και οι διαχωριστικές γραμμές δεν είναι πάντα τόσο εμφανείς κατά τη μετάβαση από το ένα στάδιο στο επόμενο.
 title: prototype-levels
 categories:

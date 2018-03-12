@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: archive
 title: Βιογραφίες
 teaser: '<a href="/contribute/">Μπορείτε να προσθέσετε περισσότερες βιογραφίες σύμφωνα με τις οδηγίες</a>'
 permalink: /biography/
@@ -8,7 +8,11 @@ header: no
 ---
 
 
-{% include collection.html param='biography' %}
+<div class="grid__wrapper">
+  {% for item in site.biography %}
+    {% include gallery-item.html type="grid" %}
+  {% endfor %}
+</div>
 
 coming soon...
 
@@ -26,4 +30,4 @@ coming soon...
 
 [J. C. R. Licklider]
 
-Marc Weiser
+[Marc Weiser]

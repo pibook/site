@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 header: no
 permalink: /beta/
 ---

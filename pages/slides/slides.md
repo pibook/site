@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Διαφάνειες"
 subheadline: ""
 show_meta: false

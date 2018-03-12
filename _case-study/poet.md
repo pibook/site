@@ -1,7 +1,7 @@
 ---
 author: epidrome
 title: "The Design of Everyday Things"
-image_url: mapping-principle.jpg
+image_url: /images/mapping-principle.jpg
 caption: "Η κατανόηση και η χρήση μιας συσκευής διέπεται από μερικές βασικές και διαχρονικές αξίες που είναι οι ίδιες ανεξάρτητα από το είδος και την πολυπλοκότητα που μπορεί να έχει η διάδραση ανθρώπου υπολογιστή."
 categories:
   - case-study
@@ -10,12 +10,12 @@ tags:
   - donald norman
   - success
 gallery:
-  - image_url: mapping-principle.jpg
+  - image_url: /images/mapping-principle.jpg
     caption: "Σε μια συσκευή που έχει την έξοδο σε διαφορετικό σημείο από την είσοδο του χρήστη θα πρέπει να υπάρχει μια φυσική απεικόνιση ανάμεσα στην είσοδο και στην έξοδο, όπως στην περίπτωση των εστιών μιας κουζίνας μαγειρέματος."
-  - image_url: bell-nomograph.png
+  - image_url: /images/bell-nomograph.png
     caption: "Ο ερευνητής της επιστήμης των υπολογιστών Gordon Bell έφτιαξε το 2002 ένα διάγραμμα που δείχνει πόσο διαφορετικοί είναι οι υπολογιστές και τα δημογραφικά των χρηστών ανάλογα με τη δεκαετία που εμφανίστηκαν."  
 ---
 
 {% include_relative cs-poet.md %}
 
-{% include gallery %}
+{% include slides.html %}

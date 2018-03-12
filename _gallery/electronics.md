@@ -1,6 +1,6 @@
 ---
 author: epidrome
-image_url: electronics.jpg
+image_url: /images/electronics.jpg
 title: electronics
 caption: Η κατασκευή ηλεκτρονικών κυκλωμάτων είναι μια εξειδικευμένη εργασία και απαιτεί ειδικές δεξιότητες, αλλά υπάρχουν πολλά εργαλεία που μειώνουν τα εμπόδια χρήσης αυτής της τεχνολογίας υλικού, ακόμη και για αρχάριους χρήστες.
 categories:

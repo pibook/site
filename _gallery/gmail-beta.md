@@ -1,6 +1,6 @@
 ---
 author: epidrome
-image_url: gmail-beta.png
+image_url: /images/gmail-beta.png
 caption: Στο λογισμικό διάδρασης η έννοια της έκδοσης βήτα (beta) έχει χάσει την αρχική της σημασία, με πιο χαρακτηριστικό παράδειγμα το Google Mail, το οποίο έφερε την ετικέτα βήτα για περισσότερο από πέντε χρόνια και ενώ είχε ήδη περισσότερα από εκατό εκατομμύρια χρήστες.
 title: gmail-beta
 categories:

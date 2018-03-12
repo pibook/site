@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "ΚΟΥΠΟΝΙΑ"
 subheadline: ""
 show_meta: false

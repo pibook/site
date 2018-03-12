@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Σύνθεση και Κλίμακα"
 subheadline: "ΒΙΒΛΙΟΓΡΑΦΙΑ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 6."
 show_meta: false

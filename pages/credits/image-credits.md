@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "ΠΝΕΥΜΑΤΙΚΑ ΔΙΚΑΙΩΜΑΤΑ ΕΙΚΟΝΩΝ"
 subheadline: ""
 show_meta: false

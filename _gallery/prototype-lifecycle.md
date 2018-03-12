@@ -1,6 +1,6 @@
 ---
 author: epidrome
-image_url: prototype-lifecycle.png
+image_url: /images/prototype-lifecycle.png
 caption: Ανάλογα με τη φάση σχεδίασης και ανάπτυξης υπάρχουν διαφορετικά είδη πρωτοτύπου που μπορούμε να κατασκευάσουμε, τα οποία μπορούμε να οργανώσουμε ανάλογα με την πιστότητα που έχουν αναφορικά με τη λειτουργικότητά τους ως προς τη διάδραση με τον χρήστη.
 title: prototype-lifecycle
 categories:

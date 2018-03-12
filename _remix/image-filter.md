@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Image processing
 header: no
 categories:

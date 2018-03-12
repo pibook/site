@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Εργαλεία και Τεχνικές"
 subheadline: "ΒΙΒΛΙΟΓΡΑΦΙΑ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 4."
 show_meta: false

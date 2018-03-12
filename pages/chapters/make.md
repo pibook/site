@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: single
 header:
    image_fullwidth: "header3.jpg"
 permalink: "/make/"

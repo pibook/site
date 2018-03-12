@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 show_meta: false
 permalink: "/books-more/"
 header: no

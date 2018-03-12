@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Mouse button
 header: no
 categories:

@@ -1,7 +1,7 @@
 ---
 author: epidrome
 title: "Facebook"
-image_url: facebook1.jpg
+image_url: /images/facebook1.jpg
 caption: "Ανεξάρτητα από τη μελλοντική αποδοχή του φαινομένου του Facebook, σίγουρα η επίδρασή του στον τρόπο που αναπτύσσονται και λειτουργούν οι διαδραστικές εφαρμογές θα είναι διαχρονική, καθώς μια σειρά από εφαρμογές σε διαφορετικά πεδία (π.χ., LinkedIn, ResearchGate, GitHub, κτλ.) στηρίζονται στις βασικές λειτουργίες του κοινωνικού δικτύου."
 categories:
   - case-study
@@ -10,12 +10,12 @@ tags:
   - facebok
   - success
 gallery:
-  - image_url: facebook1.jpg
+  - image_url: /images/facebook1.jpg
     caption: "Μία από τις αρχικές εκδοχές (2005) είχε διαφορετικό όνομα (thefacebook) και δεν διέφερε πολύ από ένα απλό σύστημα βάσης δεδομένων με προφίλ χρηστών."
-  - image_url: facebook2.jpg
+  - image_url: /images/facebook2.jpg
     caption: "Δέκα χρόνια μετά την πρώτη έκδοσή του, η βασική ιδέα του Facebook παραμένει η ίδια, ενώ οι αλλαγές ακολουθούν το πνεύμα της εποχής (π.χ., ομοιόμορφη πρόσβαση σε οθόνες διαφορετικού μεγέθους responsive web design) και νέες λειτουργίες προστίθενται (π.χ., παιχνίδια, εφαρμογές, ειδήσεις, σελίδες για εταιρείες, κτλ.) για να κρατήσουν τους χρήστες όσο περισσότερη ώρα γίνεται στην υπηρεσία."
 ---
 
 {% include_relative cs-facebook.md %}
 
-{% include gallery %}
+{% include slides.html %}

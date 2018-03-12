@@ -1,7 +1,7 @@
 ---
 author: epidrome
 title: "Xerox PARC"
-image_url: weiser-tab-pad-board.png
+image_url: /images/weiser-tab-pad-board.png
 caption: "To ερευνητικό κέντρο Xerox PARC για περισσότερα από 30 χρόνια δημιουργεί υλικό και λογισμικό για τους υπολογιστές, που μετά από λίγο καιρό θα είναι μέρος της καθημερινότητας."
 categories:
   - case-study
@@ -14,16 +14,16 @@ tags:
   - Bill English
   - Steve Jobs
 gallery:
-  - image_url: xerox-star.jpg
+  - image_url: /images/xerox-star.jpg
     caption: "Ο επιτραπέζιος υπολογιστής με πληκτρολόγιο, ποντίκι, και γραφική επιφάνεια εργασίας (παράθυρα, εικονίδια, φάκελοι) που δημιουργήθηκε από τη Xerox στα τέλη της δεκαετίας του 1970 λίγο διαφέρει από τον μοντέρνο επιτραπέζιο υπολογιστή."
-  - image_url: "xerox-parc-tab.png"
+  - image_url: /images/"xerox-parc-tab.png"
     caption: "Η συσκευή τύπου Tab ήταν η μικρότερη στην οικογένεια συσκευών διάχυτου υπολογισμού Tab-Pad-Board και ήταν σχεδιασμένη έτσι ώστε να χωράει στην παλάμη και να μπορεί να λειτουργήσει τα κουμπιά μόνο με το ένα χέρι, ενώ επέτρεπε και την αφή με το δεύτερο χέρι με την χρήση μιας πένας."
-  - image_url: "weiser-pad-board.jpg"
+  - image_url: /images/"weiser-pad-board.jpg"
     caption: "Η επικονωνία ανάμεσα στην συσκευή Tab και Board έχει πολλές συνεργατικές εφαρμογές όπως σε αίθουσες συναντήσεων καθώς και σε αίθουσες διδασκαλίας."
-  - image_url: "weiser-tab-pad-board.png"
+  - image_url: /images/"weiser-tab-pad-board.png"
     caption: "Η μετάβαση από τον προσωπικό υπολογιστή στον διάχυτο υπολογισμό σημαίνει πως εκτός από πολλές συσκευές που επικοινωνούν μεταξύ τους έχουμε επιπλέον και την επικοινωνία με τις συσκευές των άλλων χρηστών, οπότε η μετάβαση έχει και έναν έντονο κοινωνικό χαρακτήρα."
 ---
 
 {% include_relative cs-xerox-parc.md %}
 
-{% include gallery %}
+{% include slides.html %}

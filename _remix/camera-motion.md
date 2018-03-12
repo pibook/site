@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Camera motion
 header: no
 categories:

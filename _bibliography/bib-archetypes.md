@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Αρχέτυπα"
 subheadline: "ΒΙΒΛΙΟΓΡΑΦΙΑ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 3."
 show_meta: false

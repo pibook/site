@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Ορισμός"
 subheadline: "ΒΙΒΛΙΟΓΡΑΦΙΑ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 1."
 show_meta: false

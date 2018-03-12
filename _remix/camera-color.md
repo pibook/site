@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Camera motion color
 header: no
 categories:

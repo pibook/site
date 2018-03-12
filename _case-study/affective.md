@@ -1,7 +1,7 @@
 ---
 author: epidrome
 title: "Affective usability"
-image_url: atm-affective.png
+image_url: /images/atm-affective.png
 caption: "Καθώς περάσαμε στον κινητό και διάχυτο υπολογιστή, και καθώς οι υπολογιστές έγιναν μέρος δραστηριοτήτων με αξίες πέρα από την παραγωγικότητα, η ποιότητα της διάδρασης άρχισε να αποκτά και άλλες διαστάσεις πέρα από εκείνη της βασικής ευχρηστίας."
 categories:
   - case-study
@@ -9,10 +9,10 @@ categories:
 tags:
   - affective usability
 gallery:
-  - image_url: atm-affective.png
+  - image_url: /images/atm-affective.png
     caption: "Τα πειράματα με εναλλακτικές διαρρυθμίσεις των πλήκτρων σε ένα απλό τραπεζικό ATM έδειξαν ότι ακόμη και αν δεν υπάρχει ουσιαστική διαφορά στην πραγματική απόδοση της διάδρασης, οι χρήστες αντιλαμβάνονται κάποια διαφορά, η οποία μπορεί να ερμηνευθεί από τη σκοπιά της αισθητικής."
 ---
 
 {% include_relative cs-affective.md %}
 
-{% include gallery %}
+{% include slides.html caption="Εναλλακτικοί ορισμοί της ποιότητας της διάδρασης" %}

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "SCREENCASTS"
 subheadline: ""
 show_meta: false

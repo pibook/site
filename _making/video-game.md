@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Video Game"
 header: no
 categories:

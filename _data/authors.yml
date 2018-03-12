@@ -7,50 +7,51 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 epidrome:
   name: "Konstantinos Chorianopoulos"
-  siterole: "maker, scholar, mentor"
+  bio: "maker, scholar, mentor"
   uri: "http://www.epidro.me/"
   email: "hi@epidro.me"
   twitter: "@ep1dr0me"
 # copy-paste and then edit the example bellow
 exampleyourauthorname:
   name: "your real name"
-  siterole: "very short description"
+  bio: "very short description"
   uri: "your home page"
+  avatar: "your profile image, e.g., gravatar"
   email: "your email"
   twitter: "@your twitter account"
 # you can add more authors bellow this comment
 #
 nickkouk:
   name: "Nikolaos Kouklas"
-  siterole: "scholar"
+  bio: "scholar"
   uri: "https://gr.linkedin.com/in/nikolaoskouklascomputerscience"
   email: "nick.kouklas@gmail.com"
   twitter: "@NikolaosKouklas"
 #
 achkap:
   name: "Achilleas Kapetanios"
-  siterole: "Teacher at Highschool, Student at University"
+  bio: "Teacher at Highschool, Student at University"
   uri: ""
   email: "kapetanios.achilleas@gmail.com"
   twitter: "@achilleaskap"
 #
 alexzerv:
   name: "Alexandros Zervopoulos"
-  siterole: "student"
+  bio: "student"
   uri: ""
   email: "p15zerv@ionio.gr"
   twitter: ""
 #
 stelios3g:
   name: "Stelios Gavras"
-  siterole: ""
+  bio: ""
   uri: ""
   email: "p16gavr1@ionio.gr"
   twitter: ""
 #
 evabat:
   name: "Evangelia Batoglou"
-  siterole: "student"
+  bio: "student"
   uri: "https://www.linkedin.com/in/evangelia-batoglou/"
   email: "evabat13@gmail.com"
   twitter: "@EvaBat"

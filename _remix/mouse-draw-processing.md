@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Mouse draw processing
 header: no
 categories:

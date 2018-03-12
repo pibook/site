@@ -1,7 +1,7 @@
 ---
 author: epidrome
 title: "Wikipedia"
-image_url: wikipedia-edit.png
+image_url: /images/wikipedia-edit.png
 caption: "Αυτό που κάνει πραγματικά ξεχωριστή τη Wikipedia είναι ότι αποτελεί την καλύτερη απόδειξη ότι ένα απλό λογισμικό και μερικοί κοινώς αποδεκτοί κανόνες συνεργασίας (π.χ., αρχείο αλλαγών και περιοχή συζήτησης) μπορούν να αντικαταστήσουν τη μέχρι τότε ιεαραρχική και κερδοσκοπική διαδικασία παραγωγής προϊόντων περιεχομένου."
 categories:
   - case-study
@@ -10,12 +10,12 @@ tags:
   - wikipedia
   - success
 gallery:
-  - image_url: wikipedia-growth.png
+  - image_url: /images/wikipedia-growth.png
     caption: "To 2015 η Αγγλική έκδοση της wikipedia είχε σχεδόν πέντε εκατομμύρια άρθρα, τα οποία αντιστοιχούν σε περισσότερους από δύο χιλιάδες τόμους της εγκυκλοπαίδειας Britannica, αριθμός που προφανώς δεν θα ήταν ποτέ εφικτό να τυπωθεί σε χαρτί και να διανεμηθεί."
-  - image_url: wikipedia-edit.png
+  - image_url: /images/wikipedia-edit.png
     caption: "Η εύκολη και καθολική συμμετοχή των χρηστών στη δημιουργία και ενημέρωση του περιεχομένου γίνεται με τη βοήθεια λογισμικού τύπου wiki, το οποίο επιτρέπει την επιτόπου επεξεργασία ενός άρθρου μέσα στο λογισμικό περιηγητή του χρήστη."
 ---
 
 {% include_relative cs-wikipedia.md %}
 
-{% include gallery %}
+{% include slides.html %}

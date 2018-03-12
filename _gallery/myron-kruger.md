@@ -1,6 +1,6 @@
 ---
 author: epidrome
-image_url: myron-kruger.png
+image_url: /images/myron-kruger.png
 caption: Το ερευνητικό σύστημα VIDEOPLACE του Myron Kruger τοποθετεί τη σιλουέτα του χρήστη μέσα σε ένα συμμετοχικό διαδραστικό περιβάλλον, όπου δεν υπάρχει διάκριση ανάμεσα σε χρήστες και γραφικά, με τη χρήση κάμερας σε πραγματικό χρόνο και χωρίς να μεσολαβεί κάποια συσκευή έμμεσης διάδρασης.
 title: myron-kruger
 categories:

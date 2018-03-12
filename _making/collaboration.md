@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Collaborative System"
 header: no
 categories:

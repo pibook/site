@@ -1,6 +1,6 @@
 ---
 title: olsen-book
-layout: page-fullwidth
+layout: single
 header: no
 show_meta: false
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Συμμετοχή
 subheadline: ""
 show_meta: false

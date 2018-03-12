@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Quantified Self"
 header: no
 categories:

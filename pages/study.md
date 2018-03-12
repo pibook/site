@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Μελέτη"
 subheadline: ""
 show_meta: false

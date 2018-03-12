@@ -1,0 +1,33 @@
+{% capture url %}{{ item.image_url }}{% endcapture %}
+{% assign split_url = url | split: '.' %}
+{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
+
+{% assign title = item.title %}
+
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if thumb_url contains "://" %}
+            "{{ thumb_url }}"
+          {% else %}
+            "{{ thumb_url | absolute_url }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if item.link %}
+        <a href="{{ item.link }}">{{ title }}</a> <a href="{{ item.url | absolute_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ item.url | absolute_url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h2>
+    {% if item.read_time %}
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+    {% if item.caption %}<p class="archive__item-excerpt" itemprop="description">{{ item.caption | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+  </article>
+</div>

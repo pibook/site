@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Μέθοδος"
 subheadline: "ΒΙΒΛΙΟΓΡΑΦΙΑ ΓΙΑ ΤΟ ΚΕΦΑΛΑΙΟ 2."
 show_meta: false

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Google maps
 header: no
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Εισαγωγή"
 subheadline: "ΒΙΒΛΙΟΓΡΑΦΙΑ"
 show_meta: false

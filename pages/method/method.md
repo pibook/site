@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Μέθοδος
 show_meta: false
 permalink: "/method/"
