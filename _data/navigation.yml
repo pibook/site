@@ -4,5 +4,17 @@ main:
     url: /case-study/
   - title: "Εικόνες"
     url: /gallery/
+  - title: "Διαφάνειες"
+    url: /slides/
+  - title: "Βίντεο"
+    url: /screencasts/
+  - title: "Μοτίβα"
+    url: /remix/
+  - title: "Κατασκευές"
+    url: /making/
   - title: "Βιογραφίες"
     url: /biography/
+  - title: "Διδακτική"
+    url: /method/
+  - title: "Αγορά"
+    url: /buy/
