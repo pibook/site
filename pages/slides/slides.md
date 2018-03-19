@@ -8,18 +8,20 @@ permalink: "/slides/"
 header: no
 ---
 
-[Πρόλογος](/slides/preface/)
+{% assign url = page.url | absolute_url %}
 
-[Εισαγωγή](/slides/intro/)
+[Πρόλογος]({{ url }}preface/)
 
-[Ορισμός](/slides/definition/)
+[Εισαγωγή]({{ url }}intro/)
 
-[Μέθοδος](/slides/method/)
+[Ορισμός]({{ url }}definition/)
 
-[Αρχέτυπα](/slides/archetypes/)
+[Μέθοδος]({{ url }}method/)
 
-[Εργαλεία](/slides/tools/)
+[Αρχέτυπα]({{ url }}archetypes/)
 
-[Μοντέλα](/slides/models/)
+[Εργαλεία]({{ url }}tools/)
 
-[Σύνθεση](/slides/synthesis/)
+[Μοντέλα]({{ url }}models/)
+
+[Σύνθεση]({{ url }}synthesis/)
