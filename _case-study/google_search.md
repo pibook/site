@@ -1,6 +1,6 @@
 ---
 author: nickkouk
-title: "Effectiveness behind simplicity"
+title: "Google Search"
 image_url: /images/google_search_engine.png
 caption: "Η επιτυχία της μηχανής αναζήτησης της Google δεν οφείλεται αποκλειστικά στην αποτελεσματικότητα της λειτουργίας της.
 Αντίθετα, σημαντικό ρόλο διαδραμάτισε η απλότητα της διεπαφής, πίσω από την οποία αποκρύπτεται η πολυπλοκότητα της λειτουργίας της,

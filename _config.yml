@@ -14,7 +14,7 @@ locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
 name                     : "mibook"
-description              : "Making Interactivity Book."
+description              : "Making Interactivity Greek Book."
 url                      : "https://mibook.github.io"
 baseurl                  : "/gr"
 repository               : "mibook/gr"
@@ -59,20 +59,20 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal"
   google:
-    tracking_id          :
+    tracking_id          : "UA-62275846-1"
 
 
 # Site Author
 author:
-  name             : "Making Interactivity Book"
+  name             : "Making Interactivity Greek Book"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         :
   email            :
   uri              :
-  home             : "http://www.mibook.org"
+  home             : "http://mibook.org/gr"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -95,7 +95,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UCXRT71xdiJVlbgMpeMvUZ3g"
 
 
 # Reading Files
