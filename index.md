@@ -5,7 +5,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/header/header.jpg
   cta_label: "Download"
-  cta_label: "Αγοράστε το ηλεκτρονικό βιβλίο"
+  cta_label: "Διαβάστε ένα δωρεάν δείγμα"
   cta_url: "https://leanpub.com/pibook"
   caption: "Δικαιώματα εικόνας: [**SRI International**](https://www.sri.com)"
 excerpt: 'Σχεδιασμός και κατασκευή συνεργατικών συστήματων για ένα οικοσύστημα χρηστών, συσκευών, και υπηρεσιών.'
