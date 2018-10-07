@@ -24,6 +24,8 @@ coming soon...
 
 [Bill Buxton]
 
+[Ted Nelson]
+
 [Don Norman]
 
 [David Canfield Smith]
