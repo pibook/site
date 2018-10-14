@@ -7,7 +7,7 @@
 
 remote_theme: "mmistakes/minimal-mistakes"
 #theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "air"  # , "aqua", "contrast", , "dirt", "neon", "mint", "plum", "sunrise" ,"dark" "default"
+minimal_mistakes_skin    : "air"  # changed it to air theme ,  "default"
 
 # Site Settings
 locale                   : "gr-GR"
