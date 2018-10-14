@@ -6,7 +6,7 @@ header:
   overlay_image: /images/header/header.jpg
   cta_label: "Download"
   cta_label: "Διαβάστε ένα δωρεάν δείγμα"
-  cta_url:  /book sample/pibook-sample.pdf 
+  cta_url:  pibook-sample.pdf 
   caption: "Δικαιώματα εικόνας: [**SRI International**](https://www.sri.com)"
 excerpt: 'Σχεδιασμός και κατασκευή συνεργατικών συστήματων για ένα οικοσύστημα χρηστών, συσκευών, και υπηρεσιών.'
 ---
