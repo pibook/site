@@ -15,9 +15,9 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://mibook.github.io"
+url                      : "https://myrtop.github.io" #changhed link to my link
 baseurl                  : "/gr"
-repository               : "mibook/gr"
+repository               : "myrtop/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -46,7 +46,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : "mirto.papa.967"  #add facebook acount
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -66,12 +66,12 @@ author:
   location         :
   email            :
   uri              :
-  home             : "http://mibook.org/gr"
+  home             : "http://myrtop.github.io/gr"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/mirto.papa.967"  #add facebook url
   foursquare       :
   github           : "mibook"
   gitlab           :
@@ -169,7 +169,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
+  - jekyll-include-cache  #added this to work my link
+  - jekyll-facebook
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -178,7 +179,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-include-cache #added this to work my link
+  - jekyll-facebook
 
 # Archives
 #  Type
