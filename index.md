@@ -8,7 +8,8 @@ header:
   cta_label: "Διαβάστε ένα δωρεάν δείγμα"
   cta_url:  pibook-sample.pdf 
   caption: "Δικαιώματα εικόνας: [**SRI International**](https://www.sri.com)"
-  "url": "Αγορά βιβλίου: [**Leanpub**](https://leanpub.com/pibook)"
+  url: "(https://leanpub.com/pibook)"
+  cta_label: "Αγορά βιβλίου"
 excerpt: 'Σχεδιασμός και κατασκευή συνεργατικών συστήματων για ένα οικοσύστημα χρηστών, συσκευών, και υπηρεσιών.'
 ---
 
