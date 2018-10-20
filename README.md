@@ -1,4 +1,2 @@
-# Website for Making Interactivity book
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Ο πασίγνωστος Παρθενώνας που χτίστηκε προς τιμήν της θεάς Αθηνάς, προστάτιδας της Αθήνας. Η κατασκευή του ξεκίνησε το 448/7 π.Χ. και τα εγκαίνια έγιναν το 438 π.Χ. στα Μεγάλα Παναθήναια και σήμερα συμπεριλαμβάνεται ως τμήμα του ευρύτερου μνημειακού συμπλέγματος στον κατάλογο των Μνημείων της Παγκόσμιας Πολιτισμικής Κληρονομιάς από τις 11 Σεπτεμβρίου 1987.
 ![ScreenShot](parthenonas-akropoli.jpg)
