@@ -15,7 +15,7 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : " https://dimos12345.github.io"
+url                      : "https://dimos12345.github.io"
 baseurl                  : "/gr"
 repository               : "dimos12345/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
