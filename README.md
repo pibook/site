@@ -5,3 +5,7 @@
 Ονοματεπώνυμο: Σωκράτης Καραουστάς
 
 Αριθμός Μητρώου: Π2017033
+
+Link Αποθετηρίου: https://github.com/p17kara/gr
+
+Εκτελέσιμο link: https://p17kara.github.io/gr/
