@@ -1,8 +1,13 @@
 ---
 author: p15bako
-image_url: /images/fingerprint%20padlock.jpg
-caption: Κλειδαρια με αναγνωριση δακτυλικου αποτυμωπατος για την πιο ευκολη χρηση της και την προστασια του κλειδωμενου αντικειμενου.
-title: fingerprint-padlock
+title: nes
+image_url: /images/nes.jpg
+caption: 'To NES(Nintendo Entertainment System) ειναι μια απο τις πρωτες κονσολες που βγηκαν στην αγορα, αλλαζοντας τα δεδομενα εκ τοτε.'
+license_url: 'https://commons.wikimedia.org/wiki/File:NES-Console-Set.jpg'
+license_text: Courtesy of Wikimedia Commons
 categories:
-  - tools
+  - models
+tags:
+  - gaming
+  - invention
 ---
