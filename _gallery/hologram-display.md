@@ -6,6 +6,9 @@ caption: 'Eνα απο τα τελευταια supercars εχει αφαιρεσ
 ενα ολογραμμα που σου παρεχει ολες τις διαθεσιμες πληροφοριες'
 license_url: 'https://www.flickr.com/photos/janitors/14042323670'
 license_text: Courtesy of Kārlis Dambrāns
-categories: - models
-tags: - Technology - invention
+categories:
+  - models
+tags:
+  - technology
+  - invention
 ---
