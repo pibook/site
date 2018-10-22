@@ -1,5 +1,4 @@
 ---
-
 author: p15bako
 title: drone
 image_url: /images/drone.jpg
