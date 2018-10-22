@@ -13,11 +13,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
-name                     : "mibook"
+name                     : "Thanasis184"
 description              : "Making Interactivity Greek Book."
-url                      : "https://mibook.github.io"
+url                      : "https://Thanasis184.github.io"
 baseurl                  : "/gr"
-repository               : "mibook/gr"
+repository               : "Thanasis184/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -66,14 +66,14 @@ author:
   location         :
   email            :
   uri              :
-  home             : "http://mibook.org/gr"
+  home             : "http://Thanasis184.org/gr"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mibook"
+  github           : "Thanasis184"
   gitlab           :
   google_plus      :
   keybase          :
