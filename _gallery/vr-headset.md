@@ -1,5 +1,4 @@
 ---
-
 author: lextale	
 title: vr-headset
 
@@ -11,5 +10,4 @@ categories:
   
 - direct manipulation
 tags: - virtual reality
-
 ---
