@@ -2,12 +2,11 @@
 author: evabat
 title: active-badge
 image_url: /images/active-badge.jpg
-caption: 'Το Active Badge που υλοποιήθηκε από το ερευνητικό εργαστήριο Olivetti το 1990 είναι από τα
-πρώτα συστήματα εντοπισμού θέσης σε εσωτερικό χώρο. Εκπέμπει υπέρυθρα σήματα τα οποία επιτρέπουν στους αποδέκτες των τοπικών υποδομών να εντοπίσουν το σημείο που βρίσκεται ο χρήστης εντός του κτιρίου. Αν και δε συνηθίζεται να θεωρείται "δίκτυο", το σύστημα αυτό αποτελεί πρόδρομο πολλών παρόμοιων μεταγενέστερων συστημάτων εντοπισμού θέσης.'
-license_url: 'https://www.google.com/culturalinstitute/beta/partner/deutsches-museum'
-license_text: Courtesy of Deutsches Museum
+caption: 'Η τρισδιάστατη εκτύπωση (3D printing) είναι μια μέθοδος προσθετικής κατασκευής στην οποία κατασκευάζονται αντικείμενα μέσω της διαδοχικής πρόσθεσης επάλληλων στρώσεων υλικού. Στη τρισδιάστατη εκτύπωση μπορούν να χρησιμοποιηθούν διάφοροι τύποι υλικού, κυρίως κεραμικά και πολυμερή'
+license_url: 'https://el.wikipedia.org/wiki/%CE%A4%CF%81%CE%B9%CF%83%CE%B4%CE%B9%CE%AC%CF%83%CF%84%CE%B1%CF%84%CE%B7_%CE%B5%CE%BA%CF%84%CF%8D%CF%80%CF%89%CF%83%CE%B7'
+license_text: Wikipedia
 categories:
-  - archetypes
+  - Technology
 tags:
-  - Xerox
+  - 3D printing
 ---
