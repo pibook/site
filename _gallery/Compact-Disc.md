@@ -5,7 +5,7 @@ title: Compact-Disc
 
 image_url: /images/Compact-Disc.jpg
 
-caption: 'Ï ïðôéêüò äßóêïò åßíáé Ýíá áðïèçêåõôéêü ìÝóï.'
+caption: 'Ο οπτικός δίσκος είναι ένα αποθηκευτικό μέσο.'
 
 categories:
   
