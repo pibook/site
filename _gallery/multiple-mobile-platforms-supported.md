@@ -1,4 +1,3 @@
-### 5 κινητά από 4 διαφορετικές λογισμικά!
 ---
 author: GIANNIS-AGGELIS
 title: apple-newton
