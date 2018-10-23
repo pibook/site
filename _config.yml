@@ -7,7 +7,7 @@
 
 remote_theme: "mmistakes/minimal-mistakes"
 #theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "gr-GR"
@@ -15,9 +15,9 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://mibook.github.io"
+url                      : "https://DemonixCloud.github.io"
 baseurl                  : "/gr"
-repository               : "mibook/gr"
+repository               : "DemonixCloud/Polimesa-mibook"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -44,7 +44,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : PStoikopoulou
 facebook:
   username               :
   app_id                 :
@@ -57,6 +57,13 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+# Analytics
+analytics:
+  provider               : "google-universal"
+  google:
+    tracking_id          : "UA-62275846-1"
+
+
 
 # Site Author
 author:
@@ -66,7 +73,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : "http://mibook.org/gr"
+  home             : "http://DemonixCloud.github.io/gr"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -85,7 +92,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/PStoikopoulou"
   vine             :
   weibo            :
   xing             :
@@ -170,6 +177,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-include-cache
+  - jekyll-twitter-plugin
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -178,7 +187,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-include-cache
+  - jekyll-twitter
 
 # Archives
 #  Type
