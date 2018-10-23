@@ -1,4 +1,3 @@
-### Η εμφανίσεις πέντε διαφορετικών κινητών
 ---
 author: GIANNIS-AGGELIS
 title: apple-newton
