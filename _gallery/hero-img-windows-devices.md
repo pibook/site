@@ -1,4 +1,3 @@
-### Τρία κινητά της σημερινής εποχής
 ---
 author: GIANNIS-AGGELIS
 title: apple-newton
