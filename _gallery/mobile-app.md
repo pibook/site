@@ -1,4 +1,3 @@
-### Τα κινητά και πόσες πολλές εφαρμογές περιέχουν
 ---
 author: GIANNIS-AGGELIS
 title: apple-newton
