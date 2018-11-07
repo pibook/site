@@ -1,7 +1,7 @@
 ---
 author: Sotiris132
 title: mobile-app
-image_url: mobile-app.jpg
+image_url: images/mobile-app.jpg
 caption: ' Βλέπουμε πόσες πολλές εφαρμογές μπορεί να υποστηρίξει ένα κινητό '
 categories:
   - archetypes
