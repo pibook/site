@@ -1,7 +1,7 @@
 ---
 author: Sotiris132
 title: mobiles
-image_url: mobiles.png
+image_url: mobiles.jpg
 caption: ' 5 Διαφορετικά κινητά '
 categories:
   - archetypes
