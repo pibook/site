@@ -14,7 +14,7 @@ tags:
 gallery:
   - image_url: /images/sri-computer-mouse.jpg
     caption: "Το πρωτότυπο του Engelbart για το ποντίκι υπολογιστή, όπως σχεδιάστηκε από τον Bill Engel από τα σκίτσα του Engelbart"
- ---
+---
 
 {% include_relative bio-engelbart.md %}
 
