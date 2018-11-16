@@ -16,6 +16,6 @@ gallery:
     caption: "Το πρωτότυπο του Engelbart για το ποντίκι υπολογιστή, όπως σχεδιάστηκε από τον Bill Engel από τα σκίτσα του Engelbart"
  ---
 
-{% include_relative bio-kay.md %}
+{% include_relative bio-engelbart.md %}
 
-{% include slides.html caption="Εικόνες για την βιογραφία του Αλαν Κεη" %}
+{% include slides.html caption="Εικόνες για την βιογραφία του Douglas Engelbart" %}
