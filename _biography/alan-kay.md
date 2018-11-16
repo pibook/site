@@ -1,15 +1,18 @@
 ---
-author: anastasios
-title: "Douglas Engelbart"
+author: epidrome
+title: "Alan Kay"
 image_url: /images/alan-kay.jpg
-caption: "Ο Douglas Engelbart"
+caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
 categories:
   - biography
   - definition
 tags:
   - Alan Kay
   - Ivan Sutherland
-  - National Medal of Technology
+  - Bret Victor
+  - Dynabook
+  - Smalltalk
+  - Xerox Alto
 gallery:
   - image_url: /images/dynabook.png
     caption: "Το Dynabook είναι ένα σχεδιαστικό όραμα του 1968 για ένα φορητό υπολογιστή τύπου τάμπλετ από τον Alan Kay που απευθύνεται σε παιδιά και μπορεί να προγραμματιστεί με στόχο την προσωπική έκφραση και την επεξεργασία της πληροφορίας"
