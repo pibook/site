@@ -2,7 +2,7 @@
 author: mbagro
 title: "Raspberry Pi"
 image_url: /images/.jpg
-caption: "To Raspbey"
+caption: "Raspberry"
 categories:
   - case-study
   - tools
@@ -20,6 +20,6 @@ gallery:
     caption: "Το Makey Makey είναι ένα Arduino που έχει οργανωθεί και προγραμματιστεί έτσι ώστε να διευκολύνει τον πειραματισμό με νέες συσκευές εισόδου."
 ---
 
-{% include_relative cs-arduino.md %}
+{% include_relative cs-raspberry.md %}
 
 {% include slides.html %}
