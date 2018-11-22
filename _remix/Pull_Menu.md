@@ -13,7 +13,8 @@ tags:
 
 <p data-height="350" data-theme-id="17517" data-slug-hash="mQBzYm" data-default-tab="result" data-user="@_fbrz" class='codepen'>
 See the Pen<a href='https://codepen.io/giochou/pen/mQBzYm'>
-Pull Menu - Menu Interaction Concept</a> by _fbrz (<a href='https://codepen.io/_fbrz/'>@_fbrz</a>).<\p>
+Pull Menu - Menu Interaction Concept</a> by _fbrz (<a href='https://codepen.io/_fbrz/'>@_fbrz</a>) 
+on <a href='http://codepen.io'>CodePen</a>.</p>
 
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
