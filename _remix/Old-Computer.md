@@ -1,10 +1,10 @@
 ---
-layout: single
-title: Old Computer
-header: no
-categories:
+Layout: Single
+Title: Old Computer
+Header: No
+Categories:
   - forms
-tags:
+Tags:
   - Computer
 ---
 
