@@ -1,7 +1,7 @@
 ---
 author: mbagro
 title: "Raspberry Pi"
-image_url: /images/.jpg
+image_url: /images/rasnew.png
 caption: "Raspberry"
 categories:
   - case-study
