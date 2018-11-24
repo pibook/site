@@ -1,5 +1,5 @@
 ---
-Layout: Single
+Layout: single
 Title: Image Converter
 Header: No
 Categories:
