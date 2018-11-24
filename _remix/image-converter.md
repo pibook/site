@@ -1,10 +1,10 @@
 ---
-Layout: single
-Title: Image Converter
-Header: No
-Categories:
+layout: single
+title: Image Converter
+header: No
+categories:
   - Converter
-Tags:
+tags:
   - Images
   - Convert
 ---
