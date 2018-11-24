@@ -1,10 +1,11 @@
 ---
-Layout: Single
-Title: Old Computer
-Header: No
-Categories:
-  - forms
-Tags:
+layout: single
+title: Old Computer
+header: No
+categories:
+  - Computer
+  - Science
+tags:
   - Computer
 ---
 
