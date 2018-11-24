@@ -1,6 +1,6 @@
 ---
 Layout: Single
-Title: Image
+Title: Image Converter
 Header: No
 Categories:
   - Converter
