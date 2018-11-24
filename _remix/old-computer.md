@@ -3,8 +3,7 @@ layout: single
 title: Old Computer
 header: No
 categories:
-  - Computer
-  - Science
+  - Computer Science
 tags:
   - Computer
 ---
