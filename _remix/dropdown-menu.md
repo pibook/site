@@ -1,5 +1,7 @@
 ---
+layout: single
 title: Drop Down Menu
+header: true
 categories:
   - menu
 tags:
