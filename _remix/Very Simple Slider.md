@@ -3,9 +3,10 @@ layout: single
 title: Very Simple Slider
 header: no
 categories:
-  - models
+  - slides
 tags:
   -Very Simple Slider
+  -slides
 ---
 Απεικόνιση τεσσάρων διαφανειών με τη δυνατότητα εναλλαγής τους
 
