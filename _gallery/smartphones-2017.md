@@ -1,7 +1,7 @@
 ---
 author: Sotiris132
 title: smartphones-2017
-image_url: smartphones-2017.png
+image_url: /images/smartphones-2017.png
 caption: ' 4 κινητά από διαφορετικές οπτικές πλευρές '
 categories:
   - archetypes
