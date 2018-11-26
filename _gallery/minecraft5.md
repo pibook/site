@@ -1,7 +1,7 @@
 ---
 author: Thanasis184
 title: minecraft5
-image_url: /image/minecraft5.png
+image_url: /images/minecraft5.png
 caption: ' Στην εικόνα αυτήν βλέπουμε art του παιχνιδιού '
 categories:
   - Game
