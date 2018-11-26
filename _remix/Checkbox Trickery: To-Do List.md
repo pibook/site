@@ -1,12 +1,12 @@
 ---
 layout: single
-title: Audio player
+title: Checkbox Trickery: To-Do List
 header: no
 categories:
   - forms
 tags:
-  - audio
-  - player
+  - Checkbox Trickery: To-Do List
+  -list
 ---
 Απεικόνιση μιας λίστας εκπλήρωσης καλοκαιρινών επιθυμιών.
 
