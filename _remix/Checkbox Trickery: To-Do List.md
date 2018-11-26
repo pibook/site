@@ -6,7 +6,7 @@ categories:
   - forms
 tags:
   - Checkbox Trickery: To-Do List
-  -list
+  - list
 ---
 Απεικόνιση μιας λίστας εκπλήρωσης καλοκαιρινών επιθυμιών.
 
