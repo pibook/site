@@ -1,7 +1,7 @@
 ---
 author: Thanasis184
 title: minecraft2
-image_url: /image/minecraft2.png
+image_url: /images/minecraft2.png
 caption: ' Απεικονίζονται 3 character models '
 categories:
   - Game
