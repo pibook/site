@@ -3,7 +3,7 @@ layout: single
 title: Checkbox Trickery:To-Do List
 header: no
 categories:
-  - forms
+  - list
 tags:
   - Checkbox Trickery: To-Do List
   - list
