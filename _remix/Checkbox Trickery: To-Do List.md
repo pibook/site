@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Checkbox Trickery: To-Do List
+title: Checkbox Trickery
 header: no
 categories:
   - forms
