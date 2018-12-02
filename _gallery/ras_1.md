@@ -1,6 +1,6 @@
 ---
 author: mbagro
-title: raspberry_1
+title: raspberry
 image_url: /images/ras_1.jpg
 caption: 'Raspberry mainboard'
 license_url: 'mbagro'
