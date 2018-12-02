@@ -1,5 +1,5 @@
 ---
-author: epidrome
+author: mbagro
 title: "Timothy John Berners-Lee"
 image_url: /images/berners.jpg
 caption: " Είναι ο εφευρέτης του Παγκόσμιου Ιστού - World Wide Web"
