@@ -1,7 +1,7 @@
 ---
 author: mbagro
 title: raspberry box 
-image_url: /images/ras_3.jpg
+image_url: /images/ras_4.jpg
 caption: 'Raspberry Box'
 license_url: 'mbagro'
 license_text: mbagro
