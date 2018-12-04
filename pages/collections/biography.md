@@ -16,8 +16,6 @@ header: no
 
 coming soon...
 
-[Douglas Engelbart]
-
 [Bret Victor]
 
 [Ivan Sutherland]
