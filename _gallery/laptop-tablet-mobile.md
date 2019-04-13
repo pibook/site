@@ -6,7 +6,7 @@ caption: 'Φορητός Υπολογιστής (Laptop Computer/Notebook) εί�
 license_url: -
 license_text: free
 categories:
-  - Mobile appliances
+  - archetypes
 tags:
-  - Appliances
+  - Xerox
 ---
