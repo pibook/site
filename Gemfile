@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 #
 # local production 
-gem 'jekyll','3.7.4'
+gem 'jekyll','3.8.6'
 
 # deployment
 #gem "github-pages", group: :jekyll_plugins
