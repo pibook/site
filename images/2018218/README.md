@@ -39,7 +39,7 @@
 
 | Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
 | :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
-| DIATSIGK|  Mouse με μπίλια | [Link](https://raw.githubusercontent.com/DIATSIGK/gr/p2018218/images/apple-mouse.jpg)|H γερμανική Telefunken έφερε πιο κοντά τον σχεδιασμό του εν λόγω περιφερειακού στην εικόνα που έχουμε σήμερα, με τα δύο (ή και τρία) χαρακτηριστικά Buttons (αριστερά και δεξιά), αλλά και μηχανικά μέρη στο εσωτερικό του που επέτρεπαν την κύλιση μίας μπίλιας|[Link](https://commons.wikimedia.org/wiki/File:Apple_Macintosh_Plus_mouse.jpg)|Reusing content outside Wikimedia|P.C.|	Mechanical mice|
+| DIATSIGK|  Mouse με μπίλια | [Link](https://raw.githubusercontent.com/DIATSIGK/gr/p2018218/images/apple-mouse.jpg)|H apple έφερε πιο κοντά τον σχεδιασμό του εν λόγω περιφερειακού στην εικόνα που έχουμε σήμερα, με τo  χαρακτηριστικo Button (αριστερά και δεξιά), αλλά και μηχανικά μέρη στο εσωτερικό του που επέτρεπαν την κύλιση μίας μπίλιας|[Link](https://commons.wikimedia.org/wiki/File:Apple_Macintosh_Plus_mouse.jpg)|Reusing content outside Wikimedia|P.C.|	Mechanical mice|
 
 ![Mouse με μπίλια](https://raw.githubusercontent.com/DIATSIGK/gr/p2018218/images/apple-mouse.jpg)
 
