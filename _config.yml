@@ -5,7 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "gr-GR"
@@ -14,7 +15,7 @@ title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
 url                      : "https://www.mibook.org"
-baseurl                  : "/gr"
+baseurl                  : ""
 repository               : "mibook/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
