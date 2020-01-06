@@ -32,4 +32,4 @@ Scott Rosenberg (2008). Dreaming in Code: Two Dozen Programmers, Three Years, 4,
 
 Thimbleby, H. (2008). Press On:Principles of Interaction Programming. MIT Press
 
-Victor, B. (2012). [Learnable Programming](http://worrydream.com/LearnableProgramming/)
+Victor, B. (2012). [Learnable Programming](https://worrydream.com/LearnableProgramming/)
