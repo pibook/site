@@ -33,3 +33,7 @@ coming soon...
 [J. C. R. Licklider]
 
 [Marc Weiser]
+
+[Larry Tesler]
+
+[Jef Raskin]

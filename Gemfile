@@ -11,6 +11,7 @@ source "https://rubygems.org"
 #
 # local production 
 gem 'jekyll','3.8.6'
+gem 'minimal-mistakes-jekyll'
 
 # deployment
 #gem "github-pages", group: :jekyll_plugins

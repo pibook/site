@@ -28,4 +28,4 @@ Reas, C., & Fry, B. (2007). Processing: a programming handbook for visual design
 
 Thimbleby, H. (2007). Press On:Principles of Interaction Programming. MIT Press
 
-Victor, Β. (2012). [Learnable Programming: Designing a Programming System for Understanding Programs](http://worrydream.com/LearnableProgramming/)
+Victor, Β. (2012). [Learnable Programming: Designing a Programming System for Understanding Programs](https://worrydream.com/LearnableProgramming/)
