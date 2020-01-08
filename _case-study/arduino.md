@@ -20,6 +20,6 @@ gallery:
     caption: "Το Makey Makey είναι ένα Arduino που έχει οργανωθεί και προγραμματιστεί έτσι ώστε να διευκολύνει τον πειραματισμό με νέες συσκευές εισόδου."
 ---
 
-{% include_relative cs-arduino.md %}
+{% include cs-arduino.md %}
 
 {% include slides.html %}
