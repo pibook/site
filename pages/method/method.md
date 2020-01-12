@@ -19,25 +19,25 @@ header: no
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-{% include_relative audience.md %}
+{% include audience.md %}
 
-{% include_relative need.md %}
+{% include need.md %}
 
-{% include_relative benefit.md %}
+{% include benefit.md %}
 
-{% include_relative structure.md %}
+{% include structure.md %}
 
-{% include_relative required.md %}
+{% include required.md %}
 
-{% include_relative approach.md %}
+{% include approach.md %}
 
-{% include_relative pedagogy.md %}
+{% include pedagogy.md %}
 
-{% include_relative syllabus.md %}
+{% include syllabus.md %}
 
-{% include_relative projects.md %}
+{% include projects.md %}
 
-{% include_relative evaluation.md %}
+{% include evaluation.md %}
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
