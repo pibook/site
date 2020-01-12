@@ -6,4 +6,4 @@ permalink: "/make/"
 show_meta: false
 ---
 
-{% include_relative pi-make.md %}
+{% include pi-make.md %}
