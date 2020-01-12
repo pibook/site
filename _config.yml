@@ -5,8 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-theme: minimal-mistakes-jekyll
-# remote_theme: "mmistakes/minimal-mistakes"
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "gr-GR"
@@ -14,9 +14,9 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://www.mibook.org"
-baseurl                  : ""
-repository               : "mibook/gr"
+url                      : "https://p17fout.github.io"
+baseurl                  : "/gr"
+repository               : "p17fout/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -65,7 +65,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : "http://mibook.org/gr"
+  home             : "http://p17fout.github.io/gr"
   bitbucket        :
   codepen          :
   dribbble         :
