@@ -4,9 +4,9 @@ This website is served from ~[Github Pages](https://pages.github.com/)~ Netlify 
 
 # Installation
 
-1. Fork this repo
-2. Go to Settings-->Github Pages and find your URL
-3. Optionally feel free to edit the description and/or the main `_config` file to match your repository settings
+1. Fork this repo.
+2. ~Go to Settings-->Github Pages and find your URL~ Configure the deployment from your netlify account.
+3. Edit the description and/or the main `_config` file to match your repository settings.
 
 # Development
 
