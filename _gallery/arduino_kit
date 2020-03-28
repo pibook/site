@@ -6,7 +6,7 @@ caption: 'Το Arduino είναι μια εταιρεία υλικού και λ
 κοινότητα έργων και χρηστών που σχεδιάζει και κατασκευάζει μικροελεγκτές μίας κάρτας και κιτ μικροελεγκτών 
 για την κατασκευή ψηφιακών συσκευών.Το συγκεκριμένο είναι ένα arduino kit.'
 license_url: 'https://www.makershed.com/products/ultimate-arduino-microcontroller-pack'
-license_text: Make: Ultimate Arduino Kit
+license_text: Make Ultimate Arduino Kit
 categories:
   - microcontroller
 tags:
