@@ -1,0 +1,14 @@
+---
+author: giottachou
+title: arduino kit
+image_url: /images/arduinokit.jpg
+caption: 'Το Arduino είναι μια εταιρεία υλικού και λογισμικού ανοικτού κώδικα,
+κοινότητα έργων και χρηστών που σχεδιάζει και κατασκευάζει μικροελεγκτές μίας κάρτας και κιτ μικροελεγκτών 
+για την κατασκευή ψηφιακών συσκευών.Το συγκεκριμένο είναι ένα arduino kit.'
+license_url: 'https://www.makershed.com/products/ultimate-arduino-microcontroller-pack'
+license_text: Make: Ultimate Arduino Kit
+categories:
+  - microcontroller
+tags:
+  - arduino
+---
