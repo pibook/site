@@ -37,3 +37,5 @@ coming soon...
 [Larry Tesler]
 
 [Jef Raskin]
+
+[Jaron Lanier]
