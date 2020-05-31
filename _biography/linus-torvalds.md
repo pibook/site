@@ -12,7 +12,7 @@ tags:
   - Linux kernel
   - Git
 gallery:
-    - image_url: /images/linux.jpg
+  - image_url: /images/linux.jpg
     caption: "O Tux, η μασκότ του λειτουργικού συστήματος Linux"
   - image_url: /images/git.png
     caption: "Το Git είναι ένα κατανεμημένο σύστημα παρακολούθησης αλλαγών στον πηγαίο κώδικα κατά την ανάπτυξη λογισμικού για συντονισμό της εργασίας μεταξύ προγραμματιστών και γενικά την παρακολούθηση αλλαγών σε αρχεία."
