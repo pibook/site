@@ -10,6 +10,6 @@ categories:
   - input-device
 tags:
   - Apple
-  - Mouse
+  - mouse
   - One-button
 ---

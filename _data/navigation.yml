@@ -1,13 +1,17 @@
 # main links
 main:
-  - title: "Μελέτες Περίπτωσης"
-    url: /case-study/
-  - title: "Εικόνες"
-    url: /gallery/
+  - title: "Κατηγορίες"
+    url: /categories/
+  - title: "Ευρετήριο"
+    url: /tags/
   - title: "Διαφάνειες"
     url: /slides/
   - title: "Βίντεο"
     url: /screencasts/
+  - title: "Εικόνες"
+    url: /gallery/
+  - title: "Μελέτες Περίπτωσης"
+    url: /case-study/
   - title: "Μοτίβα"
     url: /remix/
   - title: "Κατασκευές"
