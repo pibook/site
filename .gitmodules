@@ -1,3 +1,5 @@
 [submodule "images"]
 	path = images
 	url = https://github.com/epidrome/images.git
+[submodule "https://github.com/epidrome/images.git"]
+	url = images
