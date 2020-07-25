@@ -3,3 +3,7 @@
 	url = https://github.com/epidrome/images.git
 [submodule "https://github.com/epidrome/images.git"]
 	url = images
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/epidrome/_gallery.git
+	branch = master
