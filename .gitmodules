@@ -7,3 +7,7 @@
 	path = _gallery
 	url = https://github.com/epidrome/_gallery.git
 	branch = master
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/epidrome/extras.git
+	branch = master
