@@ -12,7 +12,7 @@ tags:
 
 Διαδραστικό παράδειγμα γραφήματος χρησιμοποιώντας τη βιβλιοθήκη d3.js / dimple.js (http://d3js.org , http://dimplejs.org)
 
-<p data-height="350" data-theme-id="17517" data-slug-hash="pJYmOJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/pJYmOJ/'>d3 bar chart example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="350" data-theme-id="17517" data-slug-hash="pJYmOJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='https://codepen.io/sckarolos/pen/pJYmOJ/'>d3 bar chart example</a> by sckarolos (<a href='https://codepen.io/sckarolos'>@sckarolos</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση 1: Δημιουργείστε ένα αρχείο της επιλογής σας (πχ.: .csv,.tsv,.json κτλ) και προσθέστε στην κατάλληλη μορφή τα δεδομένα που οπτικοποιεί το παράδειγμα (πίνακας data στην ενότητα Javascript).
