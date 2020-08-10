@@ -9,11 +9,11 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 #
-gem 'jekyll'
-gem 'minimal-mistakes-jekyll'
+# gem 'jekyll'
+# gem 'minimal-mistakes-jekyll'
 
 # deployment
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
 
