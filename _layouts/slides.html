@@ -1,0 +1,11 @@
+---
+layout: single
+---
+
+{% for slide in page.slides %}
+
+  {% assign image = site.gallery | find_exp:"item","item.image_url contains slide" %} 
+  
+  {% include figure image_path=image.image_url caption=image.caption %}
+
+{% endfor %}

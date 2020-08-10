@@ -5,8 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-#theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "gr-GR"
@@ -201,6 +201,9 @@ compress_html:
 #collections_dir: collections
 
 collections:
+  slides:
+    output: true
+    permalink: /slides/:path/
   making:
     output: true
     permalink: /making/:path/
@@ -244,6 +247,13 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: slides
+    values:
+      layout: slides
+      header: no
+      show_meta: false
   - scope:
       path: ""
       type: gallery
