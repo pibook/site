@@ -15,7 +15,7 @@ slides:
   - arduino-lilypad
   - arduino-shield
   - pebble-hifi
-  - reactable
+  - reactable-music
   - reactivision-simulator
   - reactable-fountain
 ---

@@ -9,7 +9,7 @@ slides:
   - ubiq
   - app
   - hypermedia
-  - social
+  - social-media
   - home-programming
   - kidsim
   - touchdevelop

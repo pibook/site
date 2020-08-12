@@ -2,7 +2,7 @@
 layout: slides
 title: Αρχέτυπα
 slides:
-  - xerox-star
+  - xerox-star-desktop
   - engelbart-mouse
   - apple-mouse
   - menus-on-windows

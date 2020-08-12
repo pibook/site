@@ -8,9 +8,9 @@ slides:
   - gmail-beta
   - linux
   - uber
-  - minecraft
+  - minecraft-end-user
   - xerox-star-genealogy
-  - xerox-star
+  - xerox-star-pc
   - nls
 ---
 
