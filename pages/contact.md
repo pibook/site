@@ -7,4 +7,4 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-[Konstantinos Chorianopoulos](http://www.epidro.me)
+[Konstantinos Chorianopoulos](https://scholar.epidro.me/about)
