@@ -1,6 +1,8 @@
 ---
 layout: slides
 title: Αρχέτυπα
+caption: Διαφάνειες για το κεφάλαιο Αρχέτυπα
+image_url: /images/xerox-star-desktop.png
 slides:
   - xerox-star-desktop
   - engelbart-mouse
@@ -15,4 +17,3 @@ slides:
   - input-comparison
   - mouse-test-software
 ---
-

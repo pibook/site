@@ -4,24 +4,13 @@ title: "Διαφάνειες"
 subheadline: ""
 show_meta: false
 teaser: ""
-permalink: "/slides/"
+permalink: "/slides"
 header: no
 ---
 
-{% assign url = page.url | absolute_url %}
+<div class="grid__wrapper">
+  {% for item in site.slides %}
+    {% include gallery-item.html type="grid" %}
+  {% endfor %}
+</div>
 
-[Πρόλογος]({{ url }}preface/)
-
-[Εισαγωγή]({{ url }}intro/)
-
-[Ορισμός]({{ url }}definition/)
-
-[Μέθοδος]({{ url }}method/)
-
-[Αρχέτυπα]({{ url }}archetypes/)
-
-[Εργαλεία]({{ url }}tools/)
-
-[Μοντέλα]({{ url }}models/)
-
-[Σύνθεση]({{ url }}synthesis/)

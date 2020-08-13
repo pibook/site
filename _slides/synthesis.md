@@ -1,6 +1,8 @@
 ---
 layout: slides
 title: Σύνθεση
+image_url: /images/hypercard-layout.png
+caption: Διαφάνειες για το κεφάλαιο Σύνθεση
 slides:
   - memex
   - aspen-movie-map

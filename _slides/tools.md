@@ -1,6 +1,8 @@
 ---
 layout: slides
 title: Εργαλεία και Τεχνικές
+image_url: /images/reactivision-simulator.png
+caption: Διαφάνειες για το κεφάλαιο Εργαλεία και Τεχνικές
 slides:
   - uist-history
   - windows-mobile
