@@ -24,6 +24,7 @@ slides:
   - tabs-pads-boards
   - digital-desk
   - lifestreams
+  - second-life
   - tmux-desktop
   - messenger
   - notifications

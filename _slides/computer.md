@@ -24,6 +24,8 @@ slides:
   - sugar-neighborhood
   - weiser-profile
   - tabs-pads-boards
+  - arduino_uno
+  - arduino-lilypad
   - digital-desk
   - mobile
   - apple-smartwatch

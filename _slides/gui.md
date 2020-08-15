@@ -1,14 +1,15 @@
 ---
 layout: slides
-title: PARC User Interface
+title: PARC Graphical User Interface
 image_url: /images/xerox-star-pc.jpg
 caption: Οι σύγχρονες γραφικές διεπαφές των επιτραπέζιων υπολογιστών βασίζονται στο ερευνητικό έργο του XEROX PARC κατά την δεκαετία του 1970.
 slides:
-  - xerox-star-desktop
-  - xerox-star-pc
+  - xerox-bravo
+  - knuth-fonts
   - wysiwyg
   - dtp
-  - xerox-bravo
+  - xerox-star-pc
+  - xerox-star-desktop
   - xerox-star-genealogy
   - alan-kay
   - dynabook
