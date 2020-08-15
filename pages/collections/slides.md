@@ -15,7 +15,6 @@ header: no
 <div class="entries-list">
   {% for item in site.slides %}
     {% unless chapters contains item.title %}
-    {{ item.title }}
       {% include gallery-item.html type="grid" %}
     {% endunless %}
   {% endfor %}
