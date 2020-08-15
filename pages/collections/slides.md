@@ -12,7 +12,7 @@ header: no
 
 ## Θεματικές παρουσιάσεις
 
-<div class="grid__wrapper">
+<div class="entries-list">
   {% for item in site.slides %}
     {% unless chapters contains item.title %}
       {% include gallery-item.html type="grid" %}
@@ -22,7 +22,7 @@ header: no
 
 ## Κεφάλαια του βιβλίου
 
-<div class="grid__wrapper">
+<div class="entries-list">
   {% for item in site.slides %}
     {% if chapters contains item.title %}
       {% include gallery-item.html type="grid" %}

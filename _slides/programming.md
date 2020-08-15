@@ -1,8 +1,8 @@
 ---
 layout: slides
-title: Programming languages and tools 
+title: Programming languages 
 image_url: /images/smalltalk.jpg
-caption: Γλώσσες προγραμματισμού
+caption: Οι γλώσσες προγραμματισμού θεωρούνται μια περιοχή για τους ειδικούς και τους κατασκευαστές των συστημάτων, αλλά στην πράξη ο προγραμματιστής είναι απλά ένας ακόμη χρήστης, με περισσότερες δυνατότητες.
 slides:
   - card
   - sketchpad 
