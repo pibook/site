@@ -1,8 +1,10 @@
 ---
 layout: slides
-title: PARC Graphical User Interface
-image_url: /images/xerox-star-pc.jpg
-caption: Οι σύγχρονες γραφικές διεπαφές των επιτραπέζιων υπολογιστών βασίζονται στο ερευνητικό έργο του XEROX PARC κατά την δεκαετία του 1970.
+title: Videogames 
+image_url: /images/spaceware-gamepad.jpg
+caption: Τα βίντεοπαιχνίδια ακολουθούν μια παράλληλη με τους υπολογιστές γραφείου διαδρομή, με διαφορετικά είδη γραφικών και συσκευών εισόδου, καθώς και άλλες μεταφορές για την αλληλεπίδραση με τον χρήστη. 
 slides:
-  - spacewar-gamepad 
+  - spacewar-gamepad
+  - math-blaster
+  - minecraft-end-user
 ---
