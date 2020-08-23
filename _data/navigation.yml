@@ -6,6 +6,8 @@ main:
     url: /tags/
   - title: "Διαφάνειες"
     url: /slides/
+  - title: "Χρονολόγιο"
+    url: /timeline/
   - title: "Εικόνες"
     url: /gallery/
   - title: "Μελέτες Περίπτωσης"
