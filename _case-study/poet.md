@@ -18,4 +18,4 @@ gallery:
 
 {% include extras/cs-poet.md %}
 
-{% include slides.html %}
+{% include gallery %}

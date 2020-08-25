@@ -26,4 +26,4 @@ gallery:
 
 {% include_relative cs-xerox-parc.md %}
 
-{% include slides.html %}
+{% include gallery %}

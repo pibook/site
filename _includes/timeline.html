@@ -1,0 +1,36 @@
+
+<script>
+
+var timeline_json = 
+{ "events": [
+  {% for event in page.events %}
+    {% assign image = site.gallery | find_exp:"item","item.image_url contains event" %}
+    {% if image.year != null and image.year != "" %}
+    {% capture url %}{{ image.image_url }}{% endcapture %}
+    {% assign split_url = url | split: '.' %}
+    {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
+    { 
+    "start_date": { "year": "{{ image.year }}" },
+    "text": { "headline": "{{ image.title }}" },
+    "media": { "caption": "{{ image.caption}}", "url": "{{ image.image_url}}", "thumbnail" : "{{ thumb_url }}" }
+    }{% unless forloop.last %},{% endunless %}
+    {% endif %}
+  {% endfor %}
+]};
+
+</script>
+
+<!-- CSS and font -->
+<link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+<link title="timeline-styles" rel="stylesheet" href="//cdn.knightlab.com/libs/timeline3/latest/css/fonts/font.georgia-helvetica.css">
+
+<!-- Timeline.js from the KnightLab CDN -->
+<script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+
+<div id='timeline-embed' style="width: 100%; height: 600px"></div>
+
+<!-- load the timeline -->
+<script type="text/javascript">
+  window.timeline = new TL.Timeline('timeline-embed', timeline_json);
+</script>
+

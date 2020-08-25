@@ -20,4 +20,4 @@ gallery:
 
 {% include_relative bio-weiser.md %}
 
-{% include slides.html caption="Εικόνες για την βιογραφία του Mark Weiser" %}
+{% include gallery caption="Εικόνες για την βιογραφία του Mark Weiser" %}

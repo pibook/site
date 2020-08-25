@@ -22,4 +22,4 @@ gallery:
 
 {% include extras/cs-arduino.md %}
 
-{% include slides.html %}
+{% include gallery %}

@@ -20,4 +20,4 @@ gallery:
 
 {% include extras/cs-star.md %}
 
-{% include slides.html %}
+{% include gallery %}

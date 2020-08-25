@@ -20,4 +20,4 @@ gallery:
 
 {% include extras/cs-reactable.md %}
 
-{% include slides.html %}
+{% include gallery %}

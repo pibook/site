@@ -20,4 +20,4 @@ gallery:
 
 {% include extras/cs-ipod.md %}
 
-{% include slides.html %}
+{% include gallery %}

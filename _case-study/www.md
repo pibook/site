@@ -21,4 +21,4 @@ gallery:
 
 {% include extras/cs-www.md %}
 
-{% include slides.html %}
+{% include gallery %}

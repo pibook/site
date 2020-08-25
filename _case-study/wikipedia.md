@@ -18,4 +18,4 @@ gallery:
 
 {% include extras/cs-wikipedia.md %}
 
-{% include slides.html %}
+{% include gallery %}

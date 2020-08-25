@@ -18,4 +18,4 @@ gallery:
 
 {% include extras/cs-facebook.md %}
 
-{% include slides.html %}
+{% include gallery %}

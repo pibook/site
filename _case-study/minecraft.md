@@ -19,4 +19,4 @@ gallery:
 
 {% include extras/cs-minecraft.md %}
 
-{% include slides.html %}
+{% include gallery %}

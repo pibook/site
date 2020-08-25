@@ -22,4 +22,4 @@ gallery:
 
 {% include extras/cs-windows.md %}
 
-{% include slides.html %}
+{% include gallery %}

@@ -12,9 +12,9 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
-name                     : "mibook"
-description              : "Making Interactivity Greek Book."
-url                      : "https://www.mibook.org"
+name                     : "pibook"
+description              : "Programming Interactivity Greek Book."
+url                      : "https://pibook.epidro.me"
 baseurl                  : ""
 repository               : "epidrome/pibook"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -201,6 +201,9 @@ compress_html:
 #collections_dir: collections
 
 collections:
+  timeline:
+    output: true
+    permalink: /timeline/:path/
   slides:
     output: true
     permalink: /slides/:path/
@@ -249,6 +252,13 @@ defaults:
       related: true
   - scope:
       path: ""
+      type: timeline 
+    values:
+      layout: timeline 
+      header: no
+      show_meta: false
+  - scope:
+      path: ""
       type: slides
     values:
       layout: slides
@@ -256,9 +266,9 @@ defaults:
       show_meta: false
   - scope:
       path: ""
-      type: gallery
+      type: image 
     values:
-      layout: gallery-figure
+      layout: image 
       header: no
       show_meta: false
   - scope:
