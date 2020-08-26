@@ -16,15 +16,7 @@ header: no
 
 coming soon...
 
-[Douglas Engelbart]
-
-[Bret Victor]
-
-[Ivan Sutherland]
-
 [Bill Buxton]
-
-[Ted Nelson]
 
 [Don Norman]
 
@@ -38,4 +30,3 @@ coming soon...
 
 [Jef Raskin]
 
-[Jaron Lanier]
