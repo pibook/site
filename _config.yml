@@ -266,7 +266,7 @@ defaults:
       show_meta: false
   - scope:
       path: ""
-      type: image 
+      type: gallery 
     values:
       layout: image 
       header: no
