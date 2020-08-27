@@ -6,7 +6,7 @@ var timeline_json = {
     { 
     "start_date": { "year": "{{ image.year }}" },
     "text": { "headline": "{{ image.title }}" },
-    "media": { "caption": "{{ image.caption}}", "url": "{{ image.image_url}}", "thumbnail": "{{ thumb_url }}", "link": "{{site.url}}/gallery/{{event}}/" }
+    "media": { "alt": "{{ image.caption}}", "url": "{{ image.image_url}}", "thumbnail": "{{ thumb_url }}", "link": "{{site.url}}/gallery/{{event}}/" }
     }{% unless forloop.last %},{% endunless %} {% endif %} {% endfor %}
 ]};
 
