@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Κατηγορίες"
+  - title: "Κεφάλαια"
     url: /categories/
   - title: "Ευρετήριο"
     url: /tags/
@@ -8,8 +8,8 @@ main:
     url: /slides/
   - title: "Χρονολόγιο"
     url: /timeline/
-  - title: "Εικόνες"
-    url: /gallery/
+  - title: "Βιογραφίες"
+    url: /biography/
   - title: "Μελέτες Περίπτωσης"
     url: /case-study/
   - title: "Μοτίβα"
@@ -18,8 +18,8 @@ main:
     url: /screencasts/
   - title: "Κατασκευές"
     url: /making/
-  - title: "Βιογραφίες"
-    url: /biography/
+  - title: "Εικόνες"
+    url: /gallery/
   - title: "Διδακτική"
     url: /method/
   - title: "Αγορά"
