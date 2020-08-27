@@ -26,5 +26,5 @@ coming soon...
 
 [Larry Tesler]
 
-[Jef Raskin]
+[Bill Atkinson]
 
