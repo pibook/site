@@ -8,8 +8,11 @@ events:
   - sketchpad
   - nls
   - alto
+  - plato4
+  - videoplace
   - xerox-star-pc
   - apple-macintosh-1984
+  - mediaspace
   - canon-cat
   - hypercard
   - www
