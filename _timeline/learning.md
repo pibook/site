@@ -12,6 +12,7 @@ events:
   - kidsim
   - math-blaster
   - mit-scratch
+  - sugar-neighborhood
   - minecraft-end-user
 ---
 
