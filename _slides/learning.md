@@ -6,17 +6,15 @@ caption: Οι προσπάθειες για τον συνδυασμό υπολο
 slides:
   - dartmouth-basic
   - mindstorms 
-  - xerox-bravo
   - dynabook
-  - smalltalk
   - home-programming
   - kidsim
   - mit-scratch
   - math-blaster
   - olpc-classroom
   - sugar-neighborhood
-  - arduino_uno
   - processing-ide
+  - arduino_uno
   - touchdevelop
   - raspberrypi
   - minecraft-pi
