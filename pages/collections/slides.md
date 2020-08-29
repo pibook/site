@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive 
 title: "Διαφάνειες"
 subheadline: ""
 show_meta: false
@@ -9,6 +9,16 @@ header: no
 ---
 
 {% assign chapters = "Πρόλογος,Εισαγωγή,Ορισμός,Μέθοδος,Αρχέτυπα,Εργαλεία και Τεχνικές,Μοντέλα,Σύνθεση" | split:"," %}
+
+## Κεφάλαια του βιβλίου
+
+<div class="page__inner-wrap">
+  {% for item in site.slides %}
+    {% if chapters contains item.title %}
+      {% include gallery-item.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+</div>
 
 ## Θεματικές παρουσιάσεις
 
@@ -20,13 +30,4 @@ header: no
   {% endfor %}
 </div>
 
-## Κεφάλαια του βιβλίου
-
-<div class="page__inner-wrap">
-  {% for item in site.slides %}
-    {% if chapters contains item.title %}
-      {% include gallery-item.html type="grid" %}
-    {% endif %}
-  {% endfor %}
-</div>
 

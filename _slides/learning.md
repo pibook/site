@@ -7,7 +7,6 @@ slides:
   - basic
   - mindstorms 
   - xerox-bravo
-  - alan-kay
   - dynabook
   - smalltalk
   - home-programming

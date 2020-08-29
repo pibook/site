@@ -2,10 +2,14 @@
 layout: single
 ---
 
+<div class="popup-gallery">
+
 {% for slide in page.slides %}
 
-  {% assign image = site.gallery | find_exp:"item","item.image_url contains slide" %} 
+  {% assign image = site.gallery | find_exp:"item","item.image_url contains slide" %} {% capture url %}{{ image.image_url }}{% endcapture %} {% assign split_url = url | split: '.' %} {% capture thumb_url  %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
   
-  {% include figure image_path=image.image_url caption=image.caption %}
+  <a href="{{ image.image_url }}" title="{{ image.caption }}"><img src="{{ thumb_url }}" width="160" height="160"></a>
 
 {% endfor %}
+
+</div>

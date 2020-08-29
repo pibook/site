@@ -1,7 +1,7 @@
 ---
 layout: slides
-title: Defining computers 
-image_url: /images/mobile.png
+title: Ορίζοντας τον υπολογισμό 
+image_url: /images/nls.jpg
 caption: Το τεχνούργημα που ονομάζουμε υπολογιστή είναι μια έννοια που ποτέ δεν σήμαινε το ίδιο πράγμα, ενώ η σύγχρονη χρήση της απομακρύνεται συνέχεια από το αρχικό νόημα. 
 slides:
   - memex
@@ -14,7 +14,6 @@ slides:
   - xerox-star-pc
   - xerox-star-genealogy
   - bell-nomograph
-  - alan-kay
   - dynabook
   - smalltalk
   - apple-i-computer

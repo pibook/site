@@ -11,7 +11,7 @@ slides:
   - cad
   - hipmunk
   - panorama
-  - myron-kruger
+  - videoplace 
   - bbs
   - mediaspace
   - messenger

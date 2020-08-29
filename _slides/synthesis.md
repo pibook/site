@@ -7,10 +7,10 @@ slides:
   - memex
   - aspen-movie-map
   - hypercard-layout
-  - xananu
+  - xanadu
   - second-life
   - we-feel-fine
-  - ten-by-ten
+  - tenbyten
   - multimodal
   - winamp
   - makerspace

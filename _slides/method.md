@@ -8,7 +8,7 @@ slides:
   - prototype-types
   - personas
   - prototype-levels
-  - office-schematics
+  - office-schematic
   - prototype-lifecycle
   - itv-buck
   - kodak-hifi
