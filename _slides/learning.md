@@ -13,6 +13,7 @@ slides:
   - kidsim
   - mit-scratch
   - math-blaster
+  - olpc-classroom
   - sugar-neighborhood
   - arduino_uno
   - processing-ide
