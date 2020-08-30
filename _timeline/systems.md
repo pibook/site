@@ -16,6 +16,8 @@ events:
   - canon-cat
   - hypercard
   - www
+  - digital-desk
   - windows95
+  - lifestreams
 ---
 
