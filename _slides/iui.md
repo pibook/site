@@ -10,4 +10,5 @@ slides:
   - panorama
   - notifications 
   - google-now
+  - chat-bot
 ---
