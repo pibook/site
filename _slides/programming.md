@@ -11,6 +11,7 @@ slides:
   - mindstorms
   - smalltalk
   - pygmalion
+  - bbc-micro
   - kidsim
   - hypercard-layout
   - max-language

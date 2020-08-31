@@ -7,11 +7,12 @@ events:
   - dynabook
   - alto
   - apple-i-computer
+  - apple2
   - visicalc
+  - bbc-micro
   - home-programming
+  - c64-demoscene
   - minitel
-  - apple-macintosh-1984
-  - canon-cat
   - raspberrypi
 ---
 

@@ -6,6 +6,8 @@ caption: Τα βίντεοπαιχνίδια ακολουθούν μια παρ�
 slides:
   - spacewar
   - spacewar-gamepad
+  - apple2
+  - c64-demoscene
   - math-blaster
   - minecraft-end-user
 ---

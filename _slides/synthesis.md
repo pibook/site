@@ -6,6 +6,7 @@ caption: Διαφάνειες για το κεφάλαιο Σύνθεση
 slides:
   - memex
   - aspen-movie-map
+  - c64-demoscene
   - hypercard-layout
   - xanadu
   - second-life
