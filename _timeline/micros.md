@@ -6,6 +6,7 @@ caption: Η κατηγορία των μικρουπολογιστών ξεκί�
 events:
   - dynabook
   - alto
+  - pdp11-tty-unix
   - apple-i-computer
   - apple2
   - visicalc

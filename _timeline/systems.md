@@ -7,6 +7,7 @@ events:
   - spacewar-players
   - sketchpad
   - nls
+  - pdp11-tty-unix
   - alto
   - plato4
   - videoplace
