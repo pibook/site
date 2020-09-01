@@ -6,6 +6,7 @@ caption: Τα βίντεοπαιχνίδια ακολουθούν μια παρ�
 events:
   - spacewar-players
   - spacewar-gamepad
+  - magnavox-odyssey
   - math-blaster
   - minecraft-end-user
 ---
