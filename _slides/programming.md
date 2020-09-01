@@ -6,7 +6,8 @@ caption: Οι γλώσσες προγραμματισμού θεωρούνται
 slides:
   - teletype
   - card
-  - sketchpad 
+  - sketchpad
+  - joss
   - dartmouth-basic 
   - alto
   - mindstorms
