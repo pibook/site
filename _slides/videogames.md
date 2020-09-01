@@ -7,6 +7,9 @@ slides:
   - spacewar-players
   - spacewar-gamepad
   - magnavox-odyssey
+  - pong
+  - atari-adventure
+  - pop
   - c64-demoscene
   - math-blaster
   - minecraft-end-user

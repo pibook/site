@@ -7,6 +7,10 @@ events:
   - spacewar-players
   - spacewar-gamepad
   - magnavox-odyssey
+  - pong
+  - atari-adventure
+  - rockys-boots
+  - pop
   - math-blaster
   - minecraft-end-user
 ---

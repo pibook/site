@@ -8,6 +8,7 @@ slides:
   - mindstorms 
   - dynabook
   - home-programming
+  - rockys-boots
   - bbc-micro
   - kidsim
   - mit-scratch

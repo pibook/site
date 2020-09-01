@@ -9,8 +9,9 @@ events:
   - mindstorms
   - dynabook
   - home-programming
-  - kidsim
+  - rockys-boots
   - math-blaster
+  - kidsim
   - mit-scratch
   - sugar-neighborhood
   - minecraft-end-user
