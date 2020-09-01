@@ -6,8 +6,10 @@ caption: Το τεχνούργημα που ονομάζουμε υπολογι�
 slides:
   - memex
   - card
+  - ibm2471
   - sketchpad
   - nls
+  - vt100
   - dtp
   - cad
   - xerox-bravo

@@ -5,6 +5,7 @@ image_url: /images/reactivision-simulator.png
 caption: Διαφάνειες για το κεφάλαιο Εργαλεία και Τεχνικές
 slides:
   - uist-history
+  - ibm2471
   - windows-mobile
   - pygmalion
   - touch-develop
