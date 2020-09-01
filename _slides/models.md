@@ -5,7 +5,7 @@ image_url: /images/visicalc.png
 caption: Διαφάνειες για το κεφάλαιο Μοντέλα
 slides:
   - visicalc
-  - skype
+  - plato-emoticons 
   - google-now
   - dtp
   - cad
