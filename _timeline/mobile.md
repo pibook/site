@@ -12,7 +12,7 @@ events:
   - apple-newton
   - ipod_1g
   - olpc-classroom
-  - iphone
+  - apple-iphone
   - wearable
 ---
 
