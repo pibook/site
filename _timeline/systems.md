@@ -8,6 +8,8 @@ events:
   - sketchpad
   - nls
   - pdp11-tty-unix
+  - rand-tablet
+  - grail-flow
   - alto
   - plato4
   - videoplace
