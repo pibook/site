@@ -8,7 +8,8 @@ events:
   - joss
   - sketchpad
   - dartmouth-basic
-  - mindstorms
+  - logo-robot
+  - logo-graphics
   - smalltalk
   - pygmalion
   - basic-language

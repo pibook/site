@@ -6,8 +6,9 @@ caption: Οι προσπάθειες για τον συνδυασμό υπολο
 events:
   - dartmouth-basic
   - plato4
-  - mindstorms
+  - logo-robot 
   - dynabook
+  - logo-graphics
   - home-programming
   - rockys-boots
   - math-blaster

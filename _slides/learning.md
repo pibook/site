@@ -5,8 +5,9 @@ image_url: /images/mindstorms.jpg
 caption: Οι προσπάθειες για τον συνδυασμό υπολογιστών και μάθησης ξεκίνησαν πριν τους πρώτους μίκρο-υπολογιστές και συνεχίζονται με τα σύγχρονα πολυμεσικά, κινητά και φορετά συστήματα. 
 slides:
   - dartmouth-basic
-  - mindstorms 
+  - logo-robot 
   - dynabook
+  - logo-graphics
   - home-programming
   - rockys-boots
   - bbc-micro
