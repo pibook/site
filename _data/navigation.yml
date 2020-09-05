@@ -8,12 +8,12 @@ main:
     url: /slides/
   - title: "Χρονολόγιο"
     url: /timeline/
+  - title: "Ασκήσεις"
+    url: /remix/
   - title: "Βιογραφίες"
     url: /biography/
   - title: "Μελέτες Περίπτωσης"
     url: /case-study/
-  - title: "Μοτίβα"
-    url: /remix/
   - title: "Βίντεο"
     url: /screencasts/
   - title: "Κατασκευές"
