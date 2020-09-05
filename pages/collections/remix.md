@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Μοτίβα"
-teaser: '<a href="/contribute/">Μπορείτε να προσθέσετε περισσότερα μοτίβα σύμφωνα με τις οδηγίες</a>'
+title: "Ασκήσεις"
+teaser: '<a href="/contribute/">Μπορείτε να προσθέσετε περισσότερες ασκήσεις σύμφωνα με τις οδηγίες</a>'
 permalink: "/remix/"
 show_meta: false
 header: no
