@@ -14,5 +14,6 @@ events:
   - digital-desk
   - windows95
   - winamp
+  - media-scrub
 ---
 
