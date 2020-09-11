@@ -171,6 +171,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-tagories
   - jekyll-remote-theme
+  - jekyll-scholar
 
 
 # Archives
@@ -302,3 +303,6 @@ defaults:
       type: category
     values:
       comments: false
+
+scholar:
+  style: modern-language-association

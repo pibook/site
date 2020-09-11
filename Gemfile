@@ -28,4 +28,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem 'jekyll-tagories'
   gem 'jekyll-remote-theme'
+  gem 'jekyll-scholar'
 end
