@@ -19,25 +19,25 @@ header: no
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-{% include_relative audience.md %}
+{% include extras/pre-audience.md %}
 
-{% include_relative need.md %}
+{% include extras/intro-need.md %}
 
-{% include_relative benefit.md %}
+{% include extras/pre-benefit.md %}
 
-{% include_relative structure.md %}
+{% include extras/pre-structure.md %}
 
-{% include_relative required.md %}
+{% include extras/teach-required.md %}
 
-{% include_relative approach.md %}
+{% include extras/teach-approach.md %}
 
-{% include_relative pedagogy.md %}
+{% include extras/teach-pedagogy.md %}
 
-{% include_relative syllabus.md %}
+{% include extras/teach-syllabus.md %}
 
-{% include_relative projects.md %}
+{% include extras/teach-projects.md %}
 
-{% include_relative evaluation.md %}
+{% include extras/teach-evaluation.md %}
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
