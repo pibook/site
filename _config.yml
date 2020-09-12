@@ -202,6 +202,9 @@ compress_html:
 #collections_dir: collections
 
 collections:
+  chapter:
+    output: true
+    permalink: /chapter/:path/
   timeline:
     output: true
     permalink: /timeline/:path/
@@ -251,6 +254,12 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: chapter 
+    values:
+      layout: single 
+      header: no
   - scope:
       path: ""
       type: timeline 

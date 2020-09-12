@@ -1,19 +1,21 @@
 # main links
 main:
   - title: "Κεφάλαια"
-    url: /categories/
-  - title: "Ευρετήριο"
-    url: /tags/
+    url: /chapters/
   - title: "Διαφάνειες"
     url: /slides/
   - title: "Χρονολόγιο"
     url: /timeline/
+  - title: "Ευρετήριο"
+    url: /tags/
   - title: "Ασκήσεις"
     url: /remix/
   - title: "Βιογραφίες"
     url: /biography/
   - title: "Μελέτες Περίπτωσης"
     url: /case-study/
+  - title: "Υποενότητες"
+    url: /categories/
   - title: "Βίντεο"
     url: /screencasts/
   - title: "Κατασκευές"
