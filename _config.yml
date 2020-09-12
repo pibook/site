@@ -283,9 +283,16 @@ defaults:
       show_meta: false
   - scope:
       path: ""
-      type: quotes
+      type: notes
     values:
       layout: single
+      header: no
+      show_meta: false
+  - scope:
+      path: ""
+      type: quotes
+    values:
+      layout: quotes
       header: no
       show_meta: false
   - scope:
