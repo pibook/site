@@ -5,6 +5,7 @@ image_url: /images/home-programming.png
 caption: Διαφάνειες για τον Πρόλογο
 slides:
   - bell-nomograph
+  - baby-duck-syndrome
   - desktop
   - mobile
   - wearable
