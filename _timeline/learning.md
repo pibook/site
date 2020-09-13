@@ -8,8 +8,10 @@ events:
   - plato4
   - logo-robot 
   - dynabook
+  - plato4
   - logo-graphics
   - home-programming
+  - computer-lab
   - rockys-boots
   - math-blaster
   - kidsim
