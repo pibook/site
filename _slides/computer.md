@@ -6,7 +6,6 @@ caption: Το τεχνούργημα που ονομάζουμε υπολογι�
 slides:
   - human-computers
   - memex
-  - card
   - ibm2471
   - sketchpad
   - nls
