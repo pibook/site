@@ -9,6 +9,7 @@ events:
   - dartmouth-basic
   - genesys
   - plato4
+  - xerox-gypsy
   - home-programming
   - xerox-star-pc
   - videoplace

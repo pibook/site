@@ -6,6 +6,9 @@ caption: Οι σύγχρονες γραφικές διεπαφές των επι
 slides:
   - ibm2471
   - vt100
+  - xerox-alto
+  - xerox-bravo
+  - xerox-gypsy
   - xerox-star-pc
   - xerox-star-desktop
   - xerox-star-genealogy

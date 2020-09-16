@@ -11,7 +11,8 @@ events:
   - rand-tablet
   - grail-flow
   - genesys
-  - alto
+  - xerox-alto
+  - xerox-bravo
   - plato4
   - videoplace
   - xerox-star-pc
