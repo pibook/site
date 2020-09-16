@@ -23,6 +23,9 @@ var timeline_json = {
 
 <!-- load the timeline -->
 <script type="text/javascript">
-  window.timeline = new TL.Timeline('timeline-embed', timeline_json);
+  var options = {
+    initial_zoom: 1 
+  }
+  window.timeline = new TL.Timeline('timeline-embed', timeline_json, options);
 </script>
 
