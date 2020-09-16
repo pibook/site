@@ -4,6 +4,8 @@ title: Τρόποι διάδρασης
 image_url: /images/xerox-star-desktop.png
 caption: Οι τρόποι διάδρασης δημιουργήθηκαν σταδιακά με αφετηρία τις εντολές δέσμης, την πένα, και την γραμμή εντολών μέχρι τα εικονικά περιβάλλοντα και την φυσική γλώσσα. 
 events:
+  - teletype
+  - sage-lightgun
   - sketchpad
   - joss
   - dartmouth-basic
