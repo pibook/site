@@ -9,6 +9,7 @@ events:
   - magnavox-odyssey
   - pong
   - atari-adventure
+  - printed-code
   - rockys-boots
   - pop
   - math-blaster
