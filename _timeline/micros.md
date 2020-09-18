@@ -7,6 +7,7 @@ events:
   - pdp11-tty-unix
   - dynabook
   - alto
+  - altair-teletype
   - apple-i-computer
   - apple2
   - visicalc
