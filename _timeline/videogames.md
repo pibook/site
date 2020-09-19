@@ -10,6 +10,7 @@ events:
   - pong
   - atari-adventure
   - printed-code
+  - pet-lander
   - rockys-boots
   - pop
   - math-blaster
