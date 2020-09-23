@@ -7,6 +7,7 @@ categories:
 tags:
   - menu
   - css
+  - HCI
 ---
 
 Παράδειγμα εναλλακτικού μενού χωρίς τη χρήση Javascript. Για τη δημιουργία της διάδρασης έχει χρησιμοποιηθεί ο CSS preprocessor SCSS.

@@ -8,6 +8,8 @@ tags:
   - mouse
   - sortable
   - list
+  - HCI
+  - IV
 ---
 
 Παράδειγμα διαδραστικού κώδικα που ταξινομεί μια λίστα με τη χρήση του ποντικιού. Χρησιμοποιείται το στοιχείο sortable  της JavaScript βιβλιοθήκης JQueryUI (https://jqueryui.com/sortable).

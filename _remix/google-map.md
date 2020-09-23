@@ -7,6 +7,7 @@ categories:
 tags:
   - google
   - map
+  - IV
 ---
 
 Έυρεση τοποθεσίας χρήστη χρησιμοποιώντας το Google Maps API (https://developers.google.com/maps/?hl=en).

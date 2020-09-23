@@ -6,6 +6,7 @@ categories:
   - synthesis
 tags:
   - visualization
+  - IV
 ---
 
 ## Παράδειγμα διαδραστικού γραφήματος No.1

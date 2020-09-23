@@ -7,6 +7,7 @@ categories:
 tags:
   - menu
   - slide
+  - HCI
 ---
 
 Παράδειγμα slide μενού χωρίς ενσωματωμένες λειτουργίες.

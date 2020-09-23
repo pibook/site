@@ -8,6 +8,8 @@ tags:
   - google
   - map
   - location
+  - HCI
+  - IV
 ---
 
 Εύρεση τοποθεσίας μέσω της χρήσης φόρμας εισόδου και του Google Maps API (https://developers.google.com/maps/?hl=en).

@@ -7,6 +7,8 @@ categories:
 tags:
   - keyboard
   - input
+  - HCI
+  - IV
 ---
 
 Μετακίνηση αντικειμένου μέσω πληκτρολογίου (html Canvas)

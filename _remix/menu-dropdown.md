@@ -7,6 +7,7 @@ categories:
 tags:
   - menu
   - dropdown
+  - HCI
 ---
 
 Διαδραστικό παράδειγμα dropdown μενού χωρίς τη χρήση Javascript.
