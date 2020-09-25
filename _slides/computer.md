@@ -6,9 +6,16 @@ caption: Το τεχνούργημα που ονομάζουμε υπολογι�
 slides:
   - human-computers
   - memex
+  - pdp1-mini
   - ibm2471
   - sketchpad
   - nls
+  - pdp11-tty-unix
+  - genesys
+  - dynabook
+  - smalltalk
+  - children-alto
+  - plato4
   - vt100
   - dtp
   - cad
@@ -16,8 +23,6 @@ slides:
   - xerox-star-pc
   - xerox-star-genealogy
   - bell-nomograph
-  - dynabook
-  - smalltalk
   - apple-i-computer
   - apple-macintosh-1984
   - apple-newton
