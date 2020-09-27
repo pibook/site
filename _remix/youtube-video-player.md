@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Video player
+title: YouTube video player
 header: no
 categories:
   - synthesis
