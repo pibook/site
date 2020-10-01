@@ -1,11 +1,11 @@
-# Website for Making Interactivity book
+# Website for Making Interactivity book for Users
 
 This website is served from ~[Github Pages](https://pages.github.com/)~ Netlify and it is based on the [minimal-mistakes theme](https://github.com/mmistakes/minimal-mistakes), ~which is dynamically imported on every build with the [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme) plug-in~
 
 # Installation
 
 1. Fork this repo.
-2. ~Go to Settings-->Github Pages and find your URL~ Configure the deployment from your netlify account.
+2. ~Go to Settings-->Github Pages and find your URL~ Configure the deployment from your netlify account.If not created account, create a new one.
 3. Edit the about description and URL to match your repository settings.
 
 # Development
