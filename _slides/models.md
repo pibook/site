@@ -13,7 +13,7 @@ slides:
   - panorama
   - videoplace 
   - bbs
-  - mediaspace
+  - media-space
   - messenger
   - adaptive-menus
   - relational-agent
