@@ -9,7 +9,5 @@ slides:
   - classroom
   - exams
   - hackathon
-  - electronics
-  - software
 ---
 
