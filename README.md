@@ -6,7 +6,8 @@ This website is served from ~[Github Pages](https://pages.github.com/)~ Netlify 
 
 1. Fork this repo.
 2. ~Go to Settings-->Github Pages and find your URL~ Configure the deployment from your netlify account.
-3. Edit the about description and URL to match your repository settings.
+3. Η ιστοσελίδα χρησιμοποιεί την τεχνολογία git submodules η οποία απαιτεί επιπλέον βήματα για τον συντονισμό των επιμέρους φακέλων, [διαβάστε](https://github.blog/2016-02-01-working-with-submodules/) [σχετικά](https://www.atlassian.com/git/tutorials/git-submodule).
+4. Edit the about description and URL to match your repository settings.
 
 # Development
 
