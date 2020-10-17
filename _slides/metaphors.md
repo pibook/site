@@ -14,7 +14,7 @@ slides:
   - canon-cat
   - minitel
   - teletext
-  - myron-kruger
+  - videoplace 
   - hypercard-layout
   - steve-mann-wearable-computer
   - magic-cap
