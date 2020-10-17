@@ -23,7 +23,7 @@ slides:
   - lifestreams
   - winamp
   - ical
-  - wefeelfine
+  - we-feel-fine
   - elements
   - github-contributions
   - github-profile
