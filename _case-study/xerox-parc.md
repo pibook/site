@@ -4,8 +4,8 @@ title: "Xerox PARC"
 image_url: /images/weiser-tab-pad-board.png
 caption: "To ερευνητικό κέντρο Xerox PARC για περισσότερα από 30 χρόνια δημιουργεί υλικό και λογισμικό για τους υπολογιστές, που μετά από λίγο καιρό θα είναι μέρος της καθημερινότητας."
 categories:
-  - case-study
-  - forms
+  - Μελέτη Περίπτωσης
+  - Μορφές
   - success
 tags:
   - Xerox PARC
