@@ -14,9 +14,9 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "pibook"
 description              : "Programming Interactivity Greek Book."
-url                      : "https://pibook.epidro.me"
+url                      : "https://std138001-pibook.netlify.app"
 baseurl                  : ""
-repository               : "epidrome/pibook"
+repository               : "std138001/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
