@@ -6,6 +6,7 @@ caption: Το τεχνούργημα που ονομάζουμε υπολογι�
 events:
   - human-computers
   - memex
+  - transistor-radio
   - pdp1-mini
   - ibm2471
   - sketchpad
