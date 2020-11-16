@@ -4,7 +4,7 @@ This website is served from ~[Github Pages](https://pages.github.com/)~ Netlify 
 
 # Installation
 
-1. Fork this repo.
+1. Fork this repo. If you need to edit files in submodules, then fork them, too,
 2. ~Go to Settings-->Github Pages and find your URL~ Configure the deployment from your netlify account.
 3. Η ιστοσελίδα χρησιμοποιεί την τεχνολογία git submodules (σύνδεσμοι αναφοράς σε εξωτερικά αποθετήρια) η οποία απαιτεί επιπλέον βήματα για τον συντονισμό των επιμέρους φακέλων, [διαβάστε](https://github.blog/2016-02-01-working-with-submodules/) [σχετικά](https://www.atlassian.com/git/tutorials/git-submodule). Συνοπτικά, υπάρχουν επιπλέον εντολές για τον συγχρονισμό, όπως `git submodule update --remote --init` και `git submodule update --remote --merge`
 4. Edit the about description and URL to match your repository settings.
