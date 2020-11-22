@@ -18,4 +18,6 @@ slides:
   - minecraft-pi
   - input-comparison
   - mouse-test-software
+  - web camera
+  - keyboard
 ---
