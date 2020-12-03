@@ -1,5 +1,0 @@
-# netlify.toml
-[build]
-command = "jekyll build"
-publish = "_site"
-
