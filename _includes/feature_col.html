@@ -1,0 +1,39 @@
+
+{% if include.index %}
+  {% assign i = include.index %}
+{% endif %}
+
+{% if include.id %}
+  {% assign f = site.[include.id][i] %}
+{% endif %}
+
+<div class="feature__item">
+  <div class="archive__item">
+    <div class="archive__item-body">
+
+      <a href="{{ site.url }}{{ site.baseurl }}{{ site.[include.id][i].url }}">
+
+        {% if f.title %}
+          <h2 class="archive__item-title">{{ f.title }}</h2>
+        {% endif %}
+
+      </a>
+
+      {% if f.image_url %}
+        <div class="archive__item-teaser">
+          {% capture url %}{{ f.image_url }}{% endcapture %}
+          {% assign split_url = url | split: '.' %}
+          {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
+          <img src="{{ site.url }}{{ site.baseurl }}{{ thumb_url }}">
+        </div>
+      {% endif %}
+
+      {% if f.caption %}
+        <div class="archive__item-excerpt">
+          {{ f.caption | markdownify }}
+        </div>
+      {% endif %}
+
+    </div>
+  </div>
+</div>

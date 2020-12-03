@@ -1,0 +1,28 @@
+# main links
+main:
+  - title: "Κεφάλαια"
+    url: /chapters/
+  - title: "Διαφάνειες"
+    url: /slides/
+  - title: "Χρονολόγιο"
+    url: /timeline/
+  - title: "Ευρετήριο"
+    url: /tags/
+  - title: "Ασκήσεις"
+    url: /remix/
+  - title: "Βιογραφίες"
+    url: /biography/
+  - title: "Μελέτες Περίπτωσης"
+    url: /case-study/
+  - title: "Υποενότητες"
+    url: /categories/
+  - title: "Βίντεο"
+    url: /screencasts/
+  - title: "Κατασκευές"
+    url: /making/
+  - title: "Εικόνες"
+    url: /gallery/
+  - title: "Διδακτική"
+    url: /method/
+  - title: "Αγορά"
+    url: /buy/
