@@ -24,4 +24,5 @@ events:
   - eclipse-ide
   - processing-ide 
   - learntomod
+  - analytical-engine
 ---
