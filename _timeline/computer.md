@@ -24,6 +24,7 @@ events:
   - xerox-star-pc
   - xerox-star-genealogy
   - bell-nomograph
+  - analytical-engine
   - apple-i-computer
   - apple-macintosh-1984
   - apple-newton
