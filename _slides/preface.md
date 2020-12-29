@@ -19,5 +19,7 @@ slides:
   - touchdevelop
   - raspberrypi
   - p2p
+  - twitter
+  - graphical user interface
 ---
 
