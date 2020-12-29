@@ -15,5 +15,7 @@ events:
   - windows95
   - winamp
   - media-scrub
+  - twitter
+  - graphical user interface
 ---
 
