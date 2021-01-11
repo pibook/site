@@ -1,6 +1,6 @@
 ---
 author: AnastasiaMariaStefani
-title: "Minecraft"
+title: "Keyboard"
 image_url: /images/keyboard.jpg
 caption: "Το πληκτρολόγιο παρέμεινε το πρωταρχικό, πιο ολοκληρωμένο περιφερειακό σύστημα του υπολογιστή στην εποχή της προσωπικής πληροφορικής μέχρι την εισαγωγή του ποντικιού ως καταναλωτικής συσκευής το 1984. "
 categories:
