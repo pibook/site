@@ -22,3 +22,6 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
+[submodule "gallery"]
+	path = gallery
+	url = https://github.com/bananabankai/gallery.git
