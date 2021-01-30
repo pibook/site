@@ -26,5 +26,7 @@ events:
   - digital-desk
   - windows95
   - lifestreams
+  - graphics-card
+  - intel-i9Processor
 ---
 
