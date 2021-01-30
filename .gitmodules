@@ -25,3 +25,6 @@
 [submodule "gallery"]
 	path = gallery
 	url = https://github.com/bananabankai/gallery.git
+[submodule "images_"]
+	path = images_
+	url = https://github.com/bananabankai/images_.git
