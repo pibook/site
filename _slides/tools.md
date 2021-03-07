@@ -14,7 +14,7 @@ slides:
   - mit-scratch
   - eclipse-ide
   - processing-ide
-  - arduino-uno
+  - arduino_uno
   - arduino-lilypad
   - arduino-shield
   - pebble-hifi
