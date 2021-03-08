@@ -10,8 +10,10 @@ slides:
   - pygmalion
   - touch-develop
   - android-emulator
+  - grail-flow
   - visual-basic-form-designer
   - mit-scratch
+  - smalltalk
   - eclipse-ide
   - processing-ide
   - arduino_uno
