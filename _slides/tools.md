@@ -14,7 +14,7 @@ slides:
   - visual-basic-form-designer
   - mit-scratch
   - smalltalk
-  - eclipse-ide
+  - vim-ide
   - processing-ide
   - arduino_uno
   - arduino-lilypad
