@@ -15,5 +15,5 @@ tags:
   - Xerox Alto
 ---
 
-{% include_relative bio-kay.md %}
+{% include extras/bio-kay.md %}
 

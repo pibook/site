@@ -12,5 +12,5 @@ tags:
   - Xerox Alto
 ---
 
-{% include_relative bio-weiser.md %}
+{% include extras/bio-weiser.md %}
 
