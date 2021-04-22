@@ -24,6 +24,7 @@ slides:
   - tabs-pads-boards
   - digital-desk
   - lifestreams
+  - skype-video-call
   - second-life
   - tmux-desktop
   - messenger
