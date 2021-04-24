@@ -7,6 +7,7 @@ slides:
   - teletype
   - sage-lightgun
   - sketchpad
+  - eliza-chat-bot
   - joss
   - dartmouth-basic
   - sword-of-damocles

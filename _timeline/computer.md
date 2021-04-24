@@ -10,6 +10,7 @@ events:
   - pdp1-mini
   - ibm2471
   - sketchpad
+  - eliza-chat-bot
   - nls
   - pdp11-tty-unix
   - genesys
