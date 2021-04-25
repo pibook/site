@@ -12,3 +12,4 @@ tags:
   - Sword of Damocles
 ---
 
+{% include extras/bio-sutherland.md %}
