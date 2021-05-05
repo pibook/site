@@ -7,6 +7,7 @@ events:
   - card-puncher
   - ibm2471
   - nls-editor 
+  - ed-editor
   - xerox-bravo
   - xerox-gypsy
 ---
