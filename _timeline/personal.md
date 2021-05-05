@@ -10,6 +10,6 @@ events:
   - ibm-pc
   - apple-macintosh-1984
   - apple-newton
-  - apple-iphone
+  - iphone-jobs
 ---
 
