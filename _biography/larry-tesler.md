@@ -7,6 +7,7 @@ categories:
   - Βιογραφία 
   - Αρχέτυπα 
   - Στυλ Διάδρασης
+  - Επεργαστής Κειμένου
 tags:
   - Larry Tesler 
   - Smalltalk
