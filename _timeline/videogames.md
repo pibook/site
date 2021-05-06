@@ -8,6 +8,7 @@ events:
   - spacewar-gamepad
   - magnavox-odyssey
   - pong
+  - adventure-videogame
   - atari-adventure
   - printed-code
   - pet-lander
