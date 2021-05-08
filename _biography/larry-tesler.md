@@ -13,3 +13,5 @@ tags:
   - Smalltalk
   - Gypsy
 ---
+
+{% include extras/bio-tesler.md %}
