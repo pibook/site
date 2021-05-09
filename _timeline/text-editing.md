@@ -8,6 +8,7 @@ events:
   - ibm2471
   - nls-editor 
   - ed-editor
+  - vi-editor
   - xerox-bravo
   - xerox-gypsy
 ---
