@@ -14,10 +14,12 @@ events:
   - genesys
   - xerox-alto
   - xerox-bravo
+  - xerox-gypsy
   - plato4
   - videoplace
   - xerox-star-pc
   - apple-macintosh-1984
+  - eye-phone
   - mediaspace
   - canon-cat
   - hypercard

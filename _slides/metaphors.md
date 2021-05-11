@@ -14,6 +14,7 @@ slides:
   - canon-cat
   - minitel
   - teletext
+  - eye-phone
   - videoplace 
   - hypercard-layout
   - steve-mann-wearable-computer
