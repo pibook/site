@@ -11,5 +11,6 @@ events:
   - vpl-virtual-reality
   - vpl-data-suit
   - power-glove
+  - kinect
 ---
 
