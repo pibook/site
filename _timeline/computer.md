@@ -19,22 +19,16 @@ events:
   - children-alto
   - plato4
   - vt100
-  - dtp
-  - cad
   - xerox-bravo
   - xerox-star-pc
-  - xerox-star-genealogy
-  - bell-nomograph
   - apple-i-computer
+  - videoplace
   - apple-macintosh-1984
+  - vpl-virtual-reality
   - apple-newton
   - squeakos
   - sugar-neighborhood
-  - weiser-profile
-  - tabs-pads-boards
-  - arduino_uno
+  - weiser-tab-pad-board
   - arduino-lilypad
   - digital-desk
-  - mobile
-  - apple-smartwatch
 ---
