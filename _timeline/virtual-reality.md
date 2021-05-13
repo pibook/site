@@ -9,6 +9,7 @@ events:
   - videoplace
   - vpl-eye-phone
   - vpl-virtual-reality
+  - vpl-data-suit
   - power-glove
 ---
 
