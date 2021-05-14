@@ -14,7 +14,6 @@ events:
   - genesys
   - xerox-alto
   - xerox-bravo
-  - xerox-gypsy
   - plato4
   - videoplace
   - xerox-star-pc
