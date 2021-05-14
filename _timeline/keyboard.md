@@ -10,5 +10,7 @@ events:
   - pdp11-tty-unix
   - xerox-gypsy
   - altair-teletype
+  - vt100
+  - apple2
 ---
 
