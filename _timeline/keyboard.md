@@ -12,5 +12,6 @@ events:
   - altair-teletype
   - vt100
   - apple2
+  - virtual-keyboard
 ---
 
