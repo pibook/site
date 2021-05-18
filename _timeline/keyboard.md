@@ -9,9 +9,9 @@ events:
   - nls-editor 
   - pdp11-tty-unix
   - xerox-gypsy
-  - altair-teletype
   - vt100
   - apple2
   - virtual-keyboard
+  - predictive-text
 ---
 
