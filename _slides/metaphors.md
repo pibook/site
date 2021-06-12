@@ -7,6 +7,7 @@ slides:
   - office-schematic
   - visicalc
   - videoplace 
+  - interactive-whiteboard
   - magic-cap
   - microsoft-bob
   - squeakos
