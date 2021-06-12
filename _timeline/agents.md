@@ -6,5 +6,6 @@ caption: Οι έξυπνες διεπαφές προσπαθούν να μαντ
 events:
   - eliza-chat-bot 
   - predictive-text
+  - knowledge-navigator
 ---
 
