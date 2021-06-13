@@ -11,6 +11,7 @@ events:
   - minitel
   - irc
   - mediaspace
+  - skype-video-call
   - github-contributions
   - kickstarter-pebble
 ---
