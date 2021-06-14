@@ -12,6 +12,7 @@ events:
   - irc
   - mediaspace
   - xerox-parc-portholes
+  - utoronto-hydra
   - skype-video-call
   - github-contributions
   - kickstarter-pebble
