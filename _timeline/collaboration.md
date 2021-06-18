@@ -10,7 +10,7 @@ events:
   - bbs
   - minitel
   - irc
-  - mediaspace
+  - media-spaces
   - xerox-parc-portholes
   - utoronto-hydra
   - skype-video-call
