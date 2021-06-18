@@ -13,6 +13,7 @@ events:
   - media-spaces
   - xerox-parc-portholes
   - utoronto-hydra
+  - telepresence-doors
   - skype-video-call
   - github-contributions
   - kickstarter-pebble
