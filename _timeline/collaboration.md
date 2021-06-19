@@ -14,6 +14,7 @@ events:
   - xerox-parc-portholes
   - utoronto-hydra
   - telepresence-doors
+  - mit-clearboard
   - skype-video-call
   - github-contributions
   - kickstarter-pebble
