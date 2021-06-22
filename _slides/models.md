@@ -9,6 +9,7 @@ slides:
   - google-now
   - dtp
   - cad
+  - macpaint
   - hipmunk
   - panorama
   - videoplace 

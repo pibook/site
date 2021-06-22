@@ -7,7 +7,7 @@ events:
   - sword-of-damocles
   - aspen-movie-map 
   - videoplace
-  - apple-macintosh-1984
+  - macpaint 
   - mediaspace
   - hypercard
   - www
