@@ -14,17 +14,3 @@ header: no
   {% endfor %}
 </div>
 
-coming soon...
-
-[Bill Buxton]
-
-[Don Norman]
-
-[David Canfield Smith]
-
-[J. C. R. Licklider]
-
-[Larry Tesler]
-
-[Bill Atkinson]
-

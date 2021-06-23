@@ -18,6 +18,7 @@ events:
   - vpl-data-suit
   - power-glove
   - digital-desk
+  - media-scrub
   - kinect
   - leap-motion
 ---
