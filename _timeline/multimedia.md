@@ -9,7 +9,7 @@ events:
   - videoplace
   - macpaint 
   - mediaspace
-  - hypercard
+  - hypercard-multimedia
   - www
   - digital-desk
   - windows95

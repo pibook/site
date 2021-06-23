@@ -16,7 +16,7 @@ events:
   - basic-language
   - microsoft-basic
   - kidsim
-  - hypercard-layout
+  - hypercard-notes
   - max-language
   - mit-scratch
   - visual-basic-form-designer
