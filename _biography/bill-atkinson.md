@@ -14,5 +14,10 @@ tags:
   - Apple
   - General Magic
   - Magic Cap
+  - PhotoCard
+  - MacPaint
+  - Drop-down menu
+  - Double click
 ---
 
+{% include extras/bio-atkinson.md %}
