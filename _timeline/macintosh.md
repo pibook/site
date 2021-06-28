@@ -7,5 +7,6 @@ events:
   - liza-bootstrapping
   - macpaint-prototype
   - white-windows
+  - double-click
   - pull-down-menus 
 ---
