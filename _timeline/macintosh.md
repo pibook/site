@@ -9,4 +9,5 @@ events:
   - white-windows
   - double-click
   - pull-down-menus 
+  - tools-palette
 ---
