@@ -10,4 +10,7 @@ events:
   - double-click
   - pull-down-menus 
   - tools-palette
+  - apple-lisa
+  - apple-macintosh
+  - macintosh-desktop
 ---
