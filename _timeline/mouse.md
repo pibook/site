@@ -6,10 +6,9 @@ caption: Η ευχρηστία και η ακρίβεια της σύγχρον�
 events:
   - sketchpad
   - engelbart-mouse
-  - xerox-gypsy
+  - telefunken-ball-mouse
   - input-comparison
   - apple-mouse
   - mouse-test-software
-  - modern-pc-mouse
 ---
 
