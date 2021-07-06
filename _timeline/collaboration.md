@@ -15,6 +15,7 @@ events:
   - utoronto-hydra
   - telepresence-doors
   - mit-clearboard
+  - second-life
   - skype-video-call
   - github-contributions
   - kickstarter-pebble
