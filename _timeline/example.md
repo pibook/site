@@ -6,5 +6,6 @@ caption: Ο προγραμματισμός βασίζεται στην λεπτ�
 events:
   - genesys
   - pygmalion
+  - programming-example
   - kidsim
 ---
