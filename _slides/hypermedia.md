@@ -8,7 +8,7 @@ slides:
   - nls 
   - xanadu
   - teletext
-  - hypercard-screen 
+  - hypercard-multimedia
   - hypercard-layout 
   - myst
   - www
