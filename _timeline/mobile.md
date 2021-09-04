@@ -11,6 +11,7 @@ events:
   - xerox-parc-tab
   - magic-cap
   - apple-newton
+  - windows-mobile
   - ipod_1g
   - olpc-classroom
   - apple-iphone
