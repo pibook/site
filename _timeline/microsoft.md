@@ -8,6 +8,7 @@ events:
   - windows1 
   - windows95
   - windows-mobile
+  - windows-phone
   - windows8
   - windows10
 ---
