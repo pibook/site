@@ -4,14 +4,15 @@ title: Πρόλογος
 image_url: /images/home-programming.png
 caption: Διαφάνειες για τον Πρόλογο
 slides:
-  - bell-nomograph
   - baby-duck-syndrome
+  - bell-nomograph
   - children-alto
   - desktop
   - mobile
   - wearable
   - ubiq
-  - app
+  - microsoft-basic
+  - apple-i-computer 
   - hypermedia
   - social-media
   - home-programming
