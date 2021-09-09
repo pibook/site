@@ -16,8 +16,7 @@ slides:
   - social-media
   - home-programming
   - kidsim
-  - touchdevelop
+  - touch-develop
   - raspberrypi
   - p2p
 ---
-
