@@ -11,8 +11,8 @@ slides:
   - mobile
   - wearable
   - ubiq
-  - microsoft-basic
   - apple-i-computer 
+  - microsoft-basic
   - hypermedia
   - social-media
   - home-programming
