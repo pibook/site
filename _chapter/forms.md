@@ -1,12 +1,12 @@
 ---
 title: Μορφές 
 caption: Περίληψη και Βιβλιογραφία για το κεφάλαιο Μορφές 
-image_url: /images/xerox-star-desktop.png
+image_url: /images/vpl-eye-phone.jpg
 ---
 
 {% include extras/abs-forms.md %}
 
 ## Βιβλιογραφία
 
-{% bibliography --file bib-archetypes.bib %}
+{% bibliography --file bib-forms.bib %}
 
