@@ -9,5 +9,6 @@ slides:
   - classroom
   - exams
   - hackathon
+  - social-media-diy
 ---
 
