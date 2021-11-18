@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Τεχνολογία 
-image_url: /images/reactivision-simulator.png
+image_url: /images/emulators.jpg
 caption: Διαφάνειες για το κεφάλαιο Τεχνολογία 
 slides:
   - card-puncher

@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Μορφές 
-image_url: /images/macintosh-desktop.png
+image_url: /images/apple-newton.jpg
 caption: Διαφάνειες για το κεφάλαιο Μορφές 
 slides:
   - linc-pc
