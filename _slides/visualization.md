@@ -11,7 +11,7 @@ slides:
   - logo-graphics
   - max-language
   - xanadu
-  - nls
+  - nls-desk
   - xerox-bravo
   - wysiwyg
   - knuth-fonts

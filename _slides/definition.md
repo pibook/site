@@ -13,6 +13,6 @@ slides:
   - minecraft-end-user
   - xerox-star-genealogy
   - xerox-star-pc
-  - nls
+  - nls-desk
 ---
 

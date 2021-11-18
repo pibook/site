@@ -5,7 +5,7 @@ image_url: /images/apple-newton.jpg
 caption: Διαφάνειες για το κεφάλαιο Μορφές 
 slides:
   - linc-pc
-  - nls
+  - nls-desk
   - pdp-11-tty-unix
   - xerox-alto
   - xerox-star-pc
