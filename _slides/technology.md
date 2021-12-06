@@ -7,6 +7,7 @@ slides:
   - card-puncher
   - human-computers
   - transistor-radio
+  - swyftware
   - emulators 
   - android-emulator
   - smalltalk

@@ -10,6 +10,7 @@ events:
   - altair-teletype
   - apple-i-computer
   - apple2
+  - swyftware
   - visicalc
   - bbc-micro
   - home-programming

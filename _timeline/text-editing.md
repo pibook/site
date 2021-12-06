@@ -11,4 +11,5 @@ events:
   - vi-editor
   - xerox-bravo
   - xerox-gypsy
+  - swyftware
 ---
