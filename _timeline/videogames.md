@@ -12,8 +12,6 @@ events:
   - breakout
   - adventure-videogame
   - atari-adventure
-  - printed-code
-  - pet-lander
   - rockys-boots
   - pop
   - math-blaster
