@@ -10,6 +10,7 @@ events:
   - magnavox-odyssey
   - pong
   - breakout
+  - space-invaders
   - adventure-videogame
   - atari-adventure
   - rockys-boots
