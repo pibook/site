@@ -9,6 +9,7 @@ events:
   - spacewar-gamepad
   - magnavox-odyssey
   - pong
+  - breakout
   - adventure-videogame
   - atari-adventure
   - printed-code
