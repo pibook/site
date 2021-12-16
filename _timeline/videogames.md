@@ -9,6 +9,7 @@ events:
   - spacewar-gamepad
   - magnavox-odyssey
   - pong
+  - moonlander
   - breakout
   - space-invaders
   - adventure-videogame
