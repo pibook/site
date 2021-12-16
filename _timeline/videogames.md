@@ -8,6 +8,7 @@ events:
   - spacewar-players
   - spacewar-gamepad
   - magnavox-odyssey
+  - lunar-lander
   - pong
   - moonlander
   - breakout
