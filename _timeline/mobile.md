@@ -6,8 +6,8 @@ caption: Ο κινητός υπολογισμός μετέφερε την διά
 events:
   - dynabook
   - note-taker
+  - osborne1
   - apple2
-  - active-badge
   - xerox-parc-tab
   - magic-cap
   - apple-newton
