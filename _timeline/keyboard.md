@@ -7,10 +7,9 @@ events:
   - qwerty-typewriter
   - dvorak-keyboard
   - teletype
-  - sketchpad
-  - nls-editor 
+  - ibm2471
+  - chorded-keyboard
   - pdp11-tty-unix
-  - xerox-gypsy
   - vt100
   - apple2
   - virtual-keyboard
