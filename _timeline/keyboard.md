@@ -10,6 +10,7 @@ events:
   - ibm2471
   - chorded-keyboard
   - pdp11-tty-unix
+  - tty-model33
   - vt100
   - apple2
   - virtual-keyboard
