@@ -15,5 +15,5 @@ tags:
   - Steve Jobs
 ---
 
-{% include extras/cs-xerox-parc.md %}
+{% include extras/cs-parc.md %}
 
