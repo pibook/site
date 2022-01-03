@@ -10,6 +10,7 @@ events:
   - knuth-fonts
   - xerox-bravo
   - xerox-star-pc
+  - paper-simulation
   - hypercard-screen
 ---
 
