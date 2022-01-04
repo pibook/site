@@ -11,6 +11,7 @@ events:
   - xerox-bravo
   - xerox-star-pc
   - paper-simulation
+  - xerox-cedar
   - hypercard-screen
 ---
 

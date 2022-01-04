@@ -18,6 +18,7 @@ events:
   - videoplace
   - xerox-star-pc
   - apple-macintosh-1984
+  - xerox-cedar
   - eye-phone
   - mediaspace
   - canon-cat
