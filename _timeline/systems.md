@@ -19,6 +19,7 @@ events:
   - xerox-star-pc
   - apple-macintosh-1984
   - xerox-cedar
+  - oberon
   - eye-phone
   - mediaspace
   - canon-cat
