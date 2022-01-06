@@ -13,6 +13,8 @@ slides:
   - sword-of-damocles
   - genesys
   - plato4
+  - unix-shell
+  - terminal-emulator
   - xerox-gypsy
   - home-programming
   - xerox-star-pc
