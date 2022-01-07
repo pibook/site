@@ -8,6 +8,8 @@ slides:
   - xerox-star-desktop
   - xerox-star-genealogy
   - macintosh-desktop
+  - window-manager
+  - tiling-windows
   - gem2
   - windows95
   - vnc
