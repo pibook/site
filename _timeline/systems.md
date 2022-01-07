@@ -17,6 +17,7 @@ events:
   - plato4
   - videoplace
   - xerox-star-pc
+  - lilith-desktop
   - apple-macintosh-1984
   - xerox-cedar
   - oberon
