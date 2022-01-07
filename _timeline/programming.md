@@ -12,6 +12,7 @@ events:
   - logo-robot
   - logo-graphics
   - smalltalk
+  - lilith-modula
   - pygmalion
   - basic-language
   - microsoft-basic
