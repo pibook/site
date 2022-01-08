@@ -11,4 +11,7 @@ events:
   - xerox-bravo
   - xerox-gypsy
   - swyftware
+  - xerox-cedar
+  - oberon
+  - acme-editor
 ---
