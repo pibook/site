@@ -11,5 +11,5 @@ tags:
   - success
 ---
 
-{% include extras/cs-alto.md %}
+{% include cs-alto.md %}
 

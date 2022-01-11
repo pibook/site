@@ -12,5 +12,5 @@ tags:
   - success
 ---
 
-{% include extras/cs-unix.md %}
+{% include cs-unix.md %}
 

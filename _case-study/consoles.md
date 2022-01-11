@@ -12,5 +12,5 @@ tags:
   - success
 ---
 
-{% include extras/cs-consoles.md %}
+{% include cs-consoles.md %}
 

@@ -11,5 +11,5 @@ tags:
   - success
 ---
 
-{% include extras/cs-star.md %}
+{% include cs-star.md %}
 
