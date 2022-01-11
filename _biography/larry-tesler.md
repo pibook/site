@@ -14,4 +14,4 @@ tags:
   - Gypsy
 ---
 
-{% include extras/bio-tesler.md %}
+{% include bio-tesler.md %}

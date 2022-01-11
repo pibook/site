@@ -13,4 +13,4 @@ tags:
   - SwyftCard
 ---
 
-{% include extras/bio-raskin.md %}
+{% include bio-raskin.md %}

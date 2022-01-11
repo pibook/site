@@ -20,4 +20,4 @@ tags:
   - Double click
 ---
 
-{% include extras/bio-atkinson.md %}
+{% include bio-atkinson.md %}

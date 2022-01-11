@@ -11,5 +11,5 @@ tags:
   - Υπερμέσα 
 ---
 
-{% include extras/bio-nelson.md %}
+{% include bio-nelson.md %}
 
