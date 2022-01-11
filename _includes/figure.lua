@@ -9,7 +9,8 @@ function Image(img)
         --print(fn)
         local src=pandoc.utils.stringify(doc.meta.image_url) or "src has not been set"
         local caption=pandoc.utils.stringify(doc.meta.caption) or "caption has not been set"
-        return pandoc.Image(caption,src)
+        local figure = "{% include figure image_path=" .. src .. " caption=" .. caption .. " %}"
+        return pandoc.RawInline('markdown',figure)
       end
 end
 
