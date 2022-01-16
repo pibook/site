@@ -8,5 +8,5 @@ image_url: /images/xanadu.jpg
 
 ## Βιβλιογραφία
 
-{% bibliography --file bib-technology.bib %}
+{% bibliography --file ch08.bib %}
 

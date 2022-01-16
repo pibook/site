@@ -8,4 +8,4 @@ image_url: /images/macintosh-desktop.png
 
 ## Βιβλιογραφία
 
-{% bibliography --file bib-definition.bib %}
+{% bibliography --file ch01.bib %}

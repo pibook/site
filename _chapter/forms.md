@@ -8,5 +8,5 @@ image_url: /images/vpl-eye-phone.jpg
 
 ## Βιβλιογραφία
 
-{% bibliography --file bib-forms.bib %}
+{% bibliography --file ch07.bib %}
 

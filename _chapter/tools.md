@@ -8,5 +8,5 @@ caption: Περίληψη και Βιβλιογραφία για το κεφάλ
 
 ## Βιβλιογραφία
 
-{% bibliography --file bib-tools.bib %}
+{% bibliography --file ch04.bib %}
 

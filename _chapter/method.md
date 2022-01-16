@@ -8,5 +8,5 @@ image_url: /images/kodak-hifi.png
 
 ## Βιβλιογραφία 
 
-{% bibliography --file bib-method.bib %}
+{% bibliography --file ch02.bib %}
 
