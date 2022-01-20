@@ -7,6 +7,7 @@ slides:
   - ibm2471
   - engelbart-mouse
   - icons-documents
+  - norton-commander
   - xerox-star-desktop
   - vt100
   - apple-mouse
@@ -15,8 +16,4 @@ slides:
   - igoefinger
   - sketchpad
   - x-window-system
-  - makey_makey_front
-  - minecraft-pi
-  - input-comparison
-  - mouse-test-software
 ---
