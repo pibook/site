@@ -6,6 +6,8 @@ image_url: /images/xanadu.jpg
 
 {% include extras/abs-technology.md %}
 
+{% include ch08.md %}
+
 ## Βιβλιογραφία
 
 {% bibliography --file ch08.bib %}
