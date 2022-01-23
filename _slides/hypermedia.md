@@ -6,8 +6,8 @@ caption: Η δυνατότητα διασύνδεσης λέξεων και κε
 slides:
   - memex
   - nls-editor
-  - xanadu
-  - teletext
+  - xanadu-sketch
+  - xanadu-mockup
   - hypercard-multimedia
   - hypercard-layout 
   - myst
@@ -18,6 +18,7 @@ slides:
   - hypermedia
   - html-app
   - hipmunk
+  - xanadu-viewer3d
   - tenbyten
   - we-feel-fine
   - social-reviews
