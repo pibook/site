@@ -11,6 +11,6 @@ events:
   - tesler-profile
   - atkinson-profile
   - raskin-profile
-  - weiser-profile 
+  - lanier-profile 
 ---
 
