@@ -6,6 +6,7 @@ caption: Το βασικό κριτήριο στην επιλογή μιας μ�
 events:
   - sutherland-profile 
   - engelbart-profile 
+  - kay-profile
   - nelson-profile 
   - weiser-profile 
 ---
