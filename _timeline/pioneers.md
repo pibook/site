@@ -8,6 +8,7 @@ events:
   - engelbart-profile 
   - kay-profile
   - nelson-profile 
+  - raskin-profile
   - weiser-profile 
 ---
 
