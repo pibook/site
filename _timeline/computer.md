@@ -6,14 +6,17 @@ caption: Το τεχνούργημα που ονομάζουμε υπολογι�
 events:
   - transistor-radio
   - human-computers
+  - card-puncher
+  - teletype
+  - line-printer
+  - sage-lightgun
+  - spacewar-players
   - sketchpad
   - eliza-chat-bot
   - nls-desk
   - pdp11-tty-unix
   - dynabook
   - children-alto
-  - smalltalk
   - xerox-star-pc
-  - vpl-virtual-reality
   - digital-desk
 ---
