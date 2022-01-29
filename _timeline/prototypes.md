@@ -11,6 +11,7 @@ events:
   - dynabook-mockup
   - office-schematic
   - canon-cat-mockup
+  - knowledge-navigator
   - kodak-hifi
   - handspring-buck
   - itv-buck
