@@ -16,5 +16,6 @@ events:
   - canon-cat
   - xerox-cedar
   - oberon
+  - sam-editor
   - acme-editor
 ---
