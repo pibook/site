@@ -9,6 +9,7 @@ events:
   - teletype
   - ibm2471
   - chorded-keyboard
+  - nls-chorded-code
   - pdp11-tty-unix
   - tty-model33
   - vt100
