@@ -6,7 +6,7 @@ caption: Ο προγραμματισμός της διάδρασης σε πρα
 slides:
   - pdp11-tty-unix
   - joss
-  - sketchpad
+  - sketchpad-drafting
   - grail-flow
   - genesys
   - xerox-alto

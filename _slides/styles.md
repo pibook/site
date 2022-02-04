@@ -6,7 +6,7 @@ caption: Οι τρόποι διάδρασης δημιουργήθηκαν στ�
 slides:
   - teletype
   - sage-lightgun
-  - sketchpad
+  - sketchpad-interaction
   - eliza-chat-bot
   - joss
   - dartmouth-basic

@@ -14,7 +14,5 @@ slides:
   - menus-on-windows
   - menus-on-top
   - igoefinger
-  - sage-lightgun
-  - sketchpad
   - x-window-system
 ---

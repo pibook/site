@@ -11,7 +11,7 @@ events:
   - line-printer
   - sage-lightgun
   - spacewar-players
-  - sketchpad
+  - sketchpad-interaction
   - eliza-chat-bot
   - nls-desk
   - pdp11-tty-unix

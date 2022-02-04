@@ -7,7 +7,7 @@ events:
   - card-puncher
   - pdp11-tty-unix
   - joss
-  - sketchpad
+  - sketchpad-drafting
   - dartmouth-basic
   - logo-robot
   - logo-graphics

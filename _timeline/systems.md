@@ -7,7 +7,7 @@ events:
   - sage-lightgun
   - sage-radar
   - spacewar-players
-  - sketchpad
+  - sketchpad-interaction
   - nls-desk
   - pdp11-tty-unix
   - rand-tablet
