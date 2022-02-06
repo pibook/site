@@ -6,6 +6,7 @@ image_url: /images/xerox-star-desktop.png
 slides:
   - ibm2471
   - engelbart-mouse
+  - smalltalk-scrollbar-left
   - icons-documents
   - norton-commander
   - xerox-star-desktop
