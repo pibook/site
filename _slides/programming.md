@@ -11,6 +11,7 @@ slides:
   - xerox-alto
   - logo-robot
   - logo-graphics
+  - unix-tmg
   - smalltalk
   - pygmalion
   - bbc-micro
