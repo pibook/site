@@ -12,6 +12,7 @@ slides:
   - apple-macintosh
   - canon-cat
   - altair-teletype
+  - superpaint-screens
   - apple2
   - bbc-micro
   - apple-newton
