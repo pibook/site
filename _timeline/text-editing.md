@@ -12,6 +12,7 @@ events:
   - vi-editor
   - xerox-bravo
   - xerox-gypsy
+  - wordstar-editor
   - swyftware
   - canon-cat
   - xerox-cedar
