@@ -4,6 +4,7 @@ title: Ορισμός
 image_url: /images/macintosh-desktop.png
 caption: Διαφάνειες για το κεφάλαιο Ορισμός 
 slides:
+  - augmentation-typewriter 
   - nls-group 
   - macintosh-desktop
   - math-blaster
