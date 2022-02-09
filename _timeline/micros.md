@@ -7,6 +7,7 @@ events:
   - altair-teletype
   - tv-typewriter
   - apple-i-computer
+  - wordstar-disk
   - apple2
   - commodore-pet
   - swyftware
