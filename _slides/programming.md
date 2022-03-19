@@ -25,4 +25,5 @@ slides:
   - vim-ide
   - processing-ide 
   - learntomod
+  - javascript
 ---
