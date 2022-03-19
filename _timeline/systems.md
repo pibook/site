@@ -27,5 +27,6 @@ events:
   - windows95
   - lifestreams
   - netbsd
+  - windows11
 ---
 
