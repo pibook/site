@@ -20,5 +20,4 @@ slides:
   - mouse-test-software
   - web camera
   - keyboard
-  - freebsb
 ---
