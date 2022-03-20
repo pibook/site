@@ -22,3 +22,6 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
+[submodule "_includes/text"]
+	path = _includes/text
+	url = https://github.com/mibook/text.git

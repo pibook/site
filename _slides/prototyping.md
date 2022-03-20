@@ -6,6 +6,7 @@ caption: Η κατασκευή πρωτοτύπου είναι η κεντρικ
 slides:
   - prototype-levels
   - office-schematic
+  - liza-bootstrapping
   - kodak-hifi
   - handspring-buck
   - itv-buck

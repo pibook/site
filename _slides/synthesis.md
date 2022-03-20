@@ -14,6 +14,7 @@ slides:
   - tenbyten
   - multimodal
   - winamp
+  - nls-floor
   - makerspace
   - social-reviews
   - crowdsourcing

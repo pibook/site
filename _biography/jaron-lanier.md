@@ -11,3 +11,5 @@ tags:
   - Virtual Reality 
 ---
 
+{% include bio-lanier.md %}
+

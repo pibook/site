@@ -6,7 +6,9 @@ image_url: /images/xerox-star-desktop.png
 
 {% include extras/abs-archetypes.md %}
 
+{% include ch03.md %}
+
 ## Βιβλιογραφία
 
-{% bibliography --file bib-archetypes.bib %}
+{% bibliography --file ch03.bib %}
 

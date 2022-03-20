@@ -4,6 +4,8 @@ title: Μέθοδος
 image_url: /images/kodak-hifi.png
 caption: Διαφάνειες για το κεφάλαιο Μέθοδος
 slides:
+  - nls-radar-keypad
+  - nls-input 
   - user-centered-history
   - prototype-types
   - personas

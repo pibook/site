@@ -20,7 +20,7 @@ slides:
   - sugar-neighborhood
   - processing-ide
   - arduino_uno
-  - touchdevelop
+  - touch-develop
   - raspberrypi
   - minecraft-pi
   - minecraft-end-user

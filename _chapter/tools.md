@@ -6,7 +6,9 @@ caption: Περίληψη και Βιβλιογραφία για το κεφάλ
 
 {% include extras/abs-tools.md %}
 
+{% include ch04.md %}
+
 ## Βιβλιογραφία
 
-{% bibliography --file bib-tools.bib %}
+{% bibliography --file ch04.bib %}
 

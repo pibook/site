@@ -1,7 +1,7 @@
 ---
 author: epidrome
 title: "Alan Kay"
-image_url: /images/alan-kay.jpg
+image_url: /images/kay-profile.jpg
 caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
 categories:
   - Βιογραφία 
@@ -15,5 +15,5 @@ tags:
   - Xerox Alto
 ---
 
-{% include_relative bio-kay.md %}
+{% include bio-kay.md %}
 

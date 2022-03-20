@@ -5,8 +5,12 @@ image_url: /images/raskin-profile.jpg
 caption: O Jef Raskin έγινε γνωστός ως ο αρχικός σχεδιαστής του συστήματος Macintosh, αλλά στην πράξη οι περισσότερες ιδέες του για ένα απλό ανθρωποκεντρικό σύστημα διάδρασης φάνηκαν μόνο αργότερα στο σύστημα Canon Cat. 
 categories:
   - Βιογραφία 
-  - Μοντέλα 
+  - Μορφές
+  - Τεχνολογία
 tags:
   - Macintosh 
-  - Canon Cat 
+  - Canon Cat
+  - SwyftCard
 ---
+
+{% include bio-raskin.md %}

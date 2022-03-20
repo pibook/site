@@ -4,20 +4,20 @@ title: Πρόλογος
 image_url: /images/home-programming.png
 caption: Διαφάνειες για τον Πρόλογο
 slides:
+  - baby-duck-syndrome
   - bell-nomograph
   - children-alto
-  - baby-duck-syndrome
   - desktop
   - mobile
   - wearable
   - ubiq
-  - app
+  - apple-i-computer 
+  - microsoft-basic
   - hypermedia
   - social-media
   - home-programming
   - kidsim
-  - touchdevelop
+  - touch-develop
   - raspberrypi
   - p2p
 ---
-

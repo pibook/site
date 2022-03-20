@@ -5,7 +5,6 @@ image_url: /images/plato4.jpg
 caption: Οι προσπάθειες για τον συνδυασμό υπολογιστών και μάθησης ξεκίνησαν  αρκετά πριν τους πρώτους μίκρο-υπολογιστές και συνεχίζονται με τα σύγχρονα πολυμεσικά, κινητά και φορετά συστήματα. 
 events:
   - dartmouth-basic
-  - plato4
   - logo-robot 
   - dynabook
   - children-alto
@@ -17,6 +16,7 @@ events:
   - math-blaster
   - kidsim
   - mit-scratch
+  - interactive-whiteboard
   - sugar-neighborhood
   - minecraft-end-user
 ---

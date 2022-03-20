@@ -6,6 +6,8 @@ image_url: /images/macintosh-desktop.png
 
 {% include extras/abs-definition.md %}
 
+{% include ch01.md %}
+
 ## Βιβλιογραφία
 
-{% bibliography --file bib-definition.bib %}
+{% bibliography --file ch01.bib %}

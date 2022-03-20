@@ -6,6 +6,8 @@ caption: Περίληψη και Βιβλιογραφία για το κεφάλ
 
 {% include extras/abs-models.md %}
 
+{% include ch05.md %}
+
 ## Βιβλιογραφία
 
-{% bibliography --file bib-models.bib %}
+{% bibliography --file ch05.bib %}

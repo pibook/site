@@ -10,11 +10,13 @@ slides:
   - pygmalion
   - touch-develop
   - android-emulator
+  - grail-flow
   - visual-basic-form-designer
   - mit-scratch
-  - eclipse-ide
+  - smalltalk
+  - vim-ide
   - processing-ide
-  - arduino-uno
+  - arduino_uno
   - arduino-lilypad
   - arduino-shield
   - pebble-hifi

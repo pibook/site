@@ -1,14 +1,14 @@
 ---
 layout: slides
 title: Υπερμέσα 
-image_url: /images/hypercard-screen.png
+image_url: /images/hypercard-notes.png
 caption: Η δυνατότητα διασύνδεσης λέξεων και κειμένων μεταξύ τους είναι από τις πρώτες και περισσότερες διαχρονικές προσπάθειες στην περιοχή της διάδρασης.
 slides:
   - memex
-  - nls 
-  - xanadu
-  - teletext
-  - hypercard-screen 
+  - nls-editor
+  - xanadu-sketch
+  - xanadu-mockup
+  - hypercard-multimedia
   - hypercard-layout 
   - myst
   - www
@@ -18,6 +18,7 @@ slides:
   - hypermedia
   - html-app
   - hipmunk
+  - xanadu-viewer3d
   - tenbyten
   - we-feel-fine
   - social-reviews
