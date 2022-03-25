@@ -1,6 +1,6 @@
 # Website for Making Interactivity book
 
-This website is served from ~[Github Pages](https://pages.github.com/)~ Netlify and it is based on the [minimal-mistakes theme](https://github.com/mmistakes/minimal-mistakes), ~which is dynamically imported on every build with the [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme) plug-in~
+This website is served from Netlify and it is based on the [minimal-mistakes theme](https://github.com/mmistakes/minimal-mistakes), ~which is dynamically imported on every build with the [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme) plug-in~
 
 # Installation
 
