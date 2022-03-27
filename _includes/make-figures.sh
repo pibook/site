@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 for filename in extras/cs-*.md; do
    [ -e "$filename" ] || continue
