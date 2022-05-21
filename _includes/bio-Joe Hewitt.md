@@ -20,12 +20,12 @@
 <br><br><br><br>
 Οι πηγές που χρησιμοποιήθηκαν
 
-https://www.niallkennedy.com/blog/2006/11/parakey-blake-ross-joe-hewitt.html
+1.https://www.niallkennedy.com/blog/2006/11/parakey-blake-ross-joe-hewitt.html
 
-https://en.wikipedia.org/wiki/Joe_Hewitt_(programmer)
+2.https://en.wikipedia.org/wiki/Joe_Hewitt_(programmer)
 
-https://wiki.projecttopics.org/603214-joe-hewitt-age-wikipedia-family-height-net-worth-biography/index.html
+3.https://wiki.projecttopics.org/603214-joe-hewitt-age-wikipedia-family-height-net-worth-biography/index.html
 
-https://usesthis.com/interviews/joe.hewitt/
+4.https://usesthis.com/interviews/joe.hewitt/
 
-https://en.wikipedia.org/wiki/Firebug_(software)
+5.https://en.wikipedia.org/wiki/Firebug_(software)
