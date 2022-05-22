@@ -6,10 +6,6 @@
 	path = _gallery
 	url = https://github.com/pibook/_gallery.git
 	branch = master
-[submodule "_includes/extras"]
-	path = _includes/extras
-	url = https://github.com/pibook/extras.git
-	branch = master
 [submodule "_quotes"]
 	path = _quotes
 	url = https://github.com/pibook/_quotes.git
@@ -22,9 +18,12 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/P2019SARAKATSANIS/extras.git
 [submodule "gallery"]
 	path = gallery
-	url = https://github.com/bananabankai/gallery.git
+	url = https://github.com/P2019SARAKATSANIS/gallery.git
 [submodule "images_"]
 	path = images_
-	url = https://github.com/bananabankai/images_.git
+	url = https://github.com/P2019SARAKATSANIS/images_.git
