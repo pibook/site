@@ -26,4 +26,4 @@
 	url = https://github.com/P2019SARAKATSANIS/gallery.git
 [submodule "images_"]
 	path = images_
-	url = https://github.com/P2019SARAKATSANIS/images_.git
+	url = https://github.com/P2019SARAKATSANIS/images_
