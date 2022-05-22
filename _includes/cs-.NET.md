@@ -15,3 +15,12 @@
 
 
 
+<br><br><br><br>
+Οι πηγές που χρησιμοποιήθηκαν
+
+1. https://en.wikipedia.org/wiki/.NET_Framework_version_history
+
+2. https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-net-framework-programming/
+
+3. https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet
+
