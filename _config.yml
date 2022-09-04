@@ -10,13 +10,13 @@ theme: minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "gr-GR"
-title                    : "Ο Προγραμματισμός της Διάδρασης"
+title                    : "Κατασκευή Συστημάτων Διάδρασης"
 title_separator          : "-"
 name                     : "pibook"
-description              : "Programming Interactivity Greek Book."
+description              : "Making Interactivity Greek Book."
 url                      : "https://pibook.epidro.me"
 baseurl                  : ""
-repository               : "epidrome/pibook"
+repository               : "pibook/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
