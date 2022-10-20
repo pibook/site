@@ -23,5 +23,6 @@ slides:
   - apple-newton
   - igoefinger
   - chat-bot
+  - oculus-rift
 ---
 
