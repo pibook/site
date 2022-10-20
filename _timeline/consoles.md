@@ -8,4 +8,6 @@ events:
   - spacewar-gamepad
   - magnavox-odyssey
   - atari-2600
+  - 3ds
+  - gameboy
 ---

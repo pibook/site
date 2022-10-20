@@ -11,5 +11,7 @@ slides:
   - emulators 
   - android-emulator
   - smalltalk
+  - 3ds
+  - gameboy
 ---
 
