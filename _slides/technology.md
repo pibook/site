@@ -13,6 +13,5 @@ slides:
   - smalltalk
   - 3ds
   - gameboy
-  - wii-u
 ---
 
