@@ -10,4 +10,5 @@ events:
   - atari-2600
   - 3ds
   - gameboy
+  - wii-u 
 ---
