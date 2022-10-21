@@ -12,5 +12,6 @@ events:
   - vpl-data-suit
   - power-glove
   - kinect
+  - oculus-rift
 ---
 
