@@ -10,7 +10,7 @@ theme: minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "gr-GR"
-title                    : "Test"
+title                    : "Κατασκευή Συστημάτων Διάδρασης"
 title_separator          : "-"
 name                     : "pibook"
 description              : "Making Interactivity Greek Book."
