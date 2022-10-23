@@ -30,7 +30,7 @@ search                   : true
 search_full_content      : true
 search_provider          : # lunr (default), algolia
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
+  application_id         : bcba7cca-501d-43ea-bec9-a0564fcf08b3
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
