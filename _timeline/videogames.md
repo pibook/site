@@ -19,4 +19,5 @@ events:
   - pop
   - math-blaster
   - minecraft-end-user
+  - ComputerSpace-Blue
 ---
