@@ -14,4 +14,5 @@ slides:
   - math-blaster
   - minecraft-end-user
   - kinect
+  - ComputerSpace-Blue
 ---
