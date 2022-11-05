@@ -13,3 +13,9 @@
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/greek-salata/text
+[submodule "images"]
+	path = images
+	url = https://github.com/Greek-Salata/images
+[submodule "_bibliography"]
+	path = _bibliography
+	url = https://github.com/Greek-Salata/bibliography
