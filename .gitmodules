@@ -1,0 +1,15 @@
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/greek-salata/_gallery
+[submodule "_quotes"]
+	path = _quotes
+	url = https://github.com/greek-salata/_quotes
+[submodule "_notes"]
+	path = _notes
+	url = https://github.com/greek-salata/notes
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/greek-salata/extras
+[submodule "_includes/text"]
+	path = _includes/text
+	url = https://github.com/greek-salata/text
