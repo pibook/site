@@ -18,4 +18,6 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
+  - windowsnormal
+  - XFree86normal
 ---
