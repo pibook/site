@@ -1,15 +1,17 @@
 ---
 layout: slides
-title: Τεχνολογία 
+title: Τεχνολογία
 image_url: /images/emulators.jpg
-caption: Διαφάνειες για το κεφάλαιο Τεχνολογία 
+caption: Διαφάνειες για το κεφάλαιο Τεχνολογία
 slides:
   - card-puncher
   - human-computers
   - transistor-radio
   - swyftware
-  - emulators 
+  - emulators
   - android-emulator
   - smalltalk
+  - sigaba-cipher-machine
 ---
+
 
