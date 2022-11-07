@@ -1,1 +1,22 @@
 
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/StefanosSfinarolakis/_gallery
+[submodule "_quotes"]
+	path = _quotes
+	url = https://github.com/StefanosSfinarolakis/_quotes
+[submodule "images"]
+	path = images
+	url = https://github.com/StefanosSfinarolakis/images
+[submodule "_bibliography"]
+	path = _bibliography
+	url = https://github.com/StefanosSfinarolakis/bibliography
+[submodule "_notes"]
+	path = _notes
+	url = https://github.com/StefanosSfinarolakis/notes
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/StefanosSfinarolakis/extras
+[submodule "_includes/text"]
+	path = _includes/text
+	url = https://github.com/StefanosSfinarolakis/text
