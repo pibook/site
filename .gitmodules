@@ -1,21 +1,21 @@
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/inf2021229/_gallery
+	url = https://github.com/ContattoContare/_gallery
 [submodule "_quotes"]
 	path = _quotes
-	url = https://github.com/inf2021229/_quotes
+	url = https://github.com/ContattoContare/_quotes
 [submodule "images"]
 	path = images
-	url = https://github.com/inf2021229/images
+	url = https://github.com/ContattoContare/images
 [submodule "_bibliography"]
 	path = _bibliography
-	url = https://github.com/inf2021229/bibliography
+	url = https://github.com/ContattoContare/bibliography
 [submodule "_notes"]
 	path = _notes
-	url = https://github.com/inf2021229/notes
+	url = https://github.com/ContattoContare/notes
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/inf2021229/extras
+	url = https://github.com/ContattoContare/extras
 [submodule "_includes/text"]
 	path = _includes/text
-	url = https://github.com/inf2021229/text
+	url = https://github.com/ContattoContare/text
