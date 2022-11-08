@@ -7,4 +7,6 @@ slides:
   - xerox-rooms
   - microsoft-bob
   - magic-cap
+  - pubtech
+  - nortondesktop
 ---

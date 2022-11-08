@@ -1,13 +1,7 @@
 
-[submodule "_gallery"]
-	path = _gallery
-	url = https://github.com/ContattoContare/_gallery
 [submodule "_quotes"]
 	path = _quotes
 	url = https://github.com/ContattoContare/_quotes
-[submodule "images"]
-	path = images
-	url = https://github.com/ContattoContare/images
 [submodule "_bibliography"]
 	path = _bibliography
 	url = https://github.com/ContattoContare/bibliography
@@ -20,3 +14,9 @@
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/ContattoContare/text
+[submodule "images"]
+	path = images
+	url = https://github.com/ContattoContare/images
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/ContattoContare/_gallery
