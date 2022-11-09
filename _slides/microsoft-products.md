@@ -10,4 +10,7 @@ slides:
   - windows10
   - windows-mobile
   - windows-7
+  - windows8
+  - windows1
+  - windows95
 ---
