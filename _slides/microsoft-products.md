@@ -9,4 +9,5 @@ slides:
   - minecraft-end-user
   - windows10
   - windows-mobile
+  - windows-7
 ---
