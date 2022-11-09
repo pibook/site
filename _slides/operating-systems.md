@@ -12,4 +12,6 @@ slides:
   - windows1
   - windows95
   - windows8
+  - OS2
+  - qnx
 ---
