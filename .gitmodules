@@ -1,10 +1,10 @@
 [submodule "images"]
 	path = images
-	url = https://github.com/KyprosAndreou/images
+	url = https://github.com/elenigiannouchou/images
     branch = master
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/KyprosAndreou/_gallery
+	url = https://github.com/elenigiannouchou/_gallery
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
