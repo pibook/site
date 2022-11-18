@@ -12,11 +12,11 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Κατασκευή Συστημάτων Διάδρασης"
 title_separator          : "-"
-name                     : "pibook"
+name                     : "p20ange"
 description              : "Making Interactivity Greek Book."
-url                      : "https://pibook.epidro.me"
+url                      : "https://p20ange.netlify.app"
 baseurl                  : ""
-repository               : "pibook/site"
+repository               : "p20ange/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
