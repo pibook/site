@@ -6,3 +6,5 @@ caption: Η Τέχνη προστατεύει την ψυχική υγεία τ�
   - aldus-superpaint-3.0
   - the-mind-music-machine
 ---
+  - TextToImage
+  - dancing-animals
