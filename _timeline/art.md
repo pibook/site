@@ -7,5 +7,6 @@ events:
   - aldus-superpaint-3.0
   - the-mind-music-machine
   - mesch-project
+  - TextToImage
   - articulated-head
 ---
