@@ -2,7 +2,7 @@
 layout: timeline 
 title: Υποδείγματα διάδρασης 
 image_url: /images/dynabook-mockup.jpg
-caption: 
+caption: Τα υποδείγματα διάδρασης επιτρέπουν στην ομάδα σχεδίασης να εξερευνήσει ελεύθερα έναν μεγάλο σχεδιαστικό χώρο πριν κατάληξει σε σταδιακά στενότερα σύνολα προδιαγραφών για το τελικό αποτέλεσμα.
 events:
   - xanadu-sketch 
   - xanadu-mockup 

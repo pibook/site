@@ -5,7 +5,7 @@ This website is served from Netlify and it is based on the [minimal-mistakes the
 # Installation
 
 1. Fork this repo.
-2. Configure the deployment from your netlify account and update your `_config.yml`.
+2. Configure the deployment from your netlify (or vercel) account and update your `_config.yml`.
 3. Edit the about description and URL on the github repository page to match your own repository settings.
 
 >> If you need to edit files in submodules, then fork them, too, and update your main site repository submodule configuration to point to your own forked submodules. When working with submodules it is strongly advised to work in the command line only and to edit files in the respective submodule repository and not in the submodule folder.
