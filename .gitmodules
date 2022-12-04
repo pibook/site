@@ -2,10 +2,6 @@
 	path = images
 	url = https://github.com/sdy60-2022/images.git
     branch = master
-[submodule "_gallery"]
-	path = _gallery
-	url = https://github.com/sdy60-2022/_gallery.git
-	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/pibook/extras.git
@@ -26,3 +22,6 @@
 	path = _includes/text
 	url = https://github.com/mibook/text.git
 	branch = main 
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/sdy60-2022/_gallery
