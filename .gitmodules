@@ -22,3 +22,6 @@
 	path = _includes/text
 	url = https://github.com/mibook/text.git
 	branch = main 
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/sdy60-2022/_gallery
