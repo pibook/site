@@ -11,5 +11,7 @@ slides:
   - emulators 
   - android-emulator
   - smalltalk
+  - nokia-9210-communicator
+  - nokia-9500-communicator
 ---
 
