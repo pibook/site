@@ -21,5 +21,7 @@ events:
   - media-scrub
   - kinect
   - leap-motion
+  - nokia-9210-communicator
+  - nokia-9500-communicator
 ---
 
