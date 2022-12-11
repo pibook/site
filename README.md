@@ -12,7 +12,7 @@ This website is served from Netlify and it is based on the [minimal-mistakes the
 
 >> Η ιστοσελίδα χρησιμοποιεί την τεχνολογία git submodules (σύνδεσμοι αναφοράς σε εξωτερικά αποθετήρια) η οποία απαιτεί επιπλέον βήματα για τον συντονισμό των επιμέρους φακέλων, [διαβάστε](https://github.blog/2016-02-01-working-with-submodules/) [σχετικά](https://www.atlassian.com/git/tutorials/git-submodule). Συνοπτικά, υπάρχουν επιπλέον εντολές για τον συγχρονισμό, όπως `git submodule update --remote --init` και `git submodule update --remote --merge`.
 
->> Optionally run the make-figures shell script (depends on `pandoc`) to prepare figure captions for the chapters text.
+>> Optionally run the make-figures shell script (depends on `pandoc`) to prepare figure captions for the chapters text, which are located in `_includes` folder.
 
 # Contribute to content and to development
 
