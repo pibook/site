@@ -7,4 +7,5 @@ events:
   - adaptive-cars
   - car-acc 
   - tesla-lcd
+  - self-driving
 ---

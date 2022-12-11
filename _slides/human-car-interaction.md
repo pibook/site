@@ -8,4 +8,5 @@ slides:
   - improve-human-car-interaction
   - tesla-lcd
   - car-acc
+  - self-driving
 ---
