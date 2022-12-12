@@ -11,4 +11,6 @@ slides:
   - notifications 
   - google-now
   - chat-bot
+  - google-glass
+  - microsoft-hololens
 ---
