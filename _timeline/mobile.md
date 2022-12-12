@@ -16,5 +16,7 @@ events:
   - olpc-classroom
   - apple-iphone
   - wearable
+  - google-glass
+  - microsoft-hololens
 ---
 
