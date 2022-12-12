@@ -12,5 +12,7 @@ events:
   - vpl-data-suit
   - power-glove
   - kinect
+  - google-glass
+  - microsoft-hololens
 ---
 
