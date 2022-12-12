@@ -16,10 +16,3 @@ header: no
 
 Εργαλεία: [Screencast A](https://www.youtube.com/watch?v=_FnZVCQFxT4)
 
-[Μοντέλα]
-
-[Σύνθεση]
-
-[Αναζήτηση]
-
-[Κατασκευή]
