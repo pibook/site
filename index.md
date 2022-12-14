@@ -6,7 +6,7 @@ header:
   overlay_image: /images/header/header.jpg
   cta_label: "Download"
   cta_label: "Εκτυπώστε το βιβλίο σε σελίδα Α4"
-  cta_url: "https://github.com/mibook/kallipos/files/9484377/bookA4.pdf"
+  cta_url: "https://github.com/mibook/kallipos/files/10226562/bookA4.pdf" 
   caption: "Δικαιώματα εικόνας: [**SRI International**](https://www.sri.com)"
 excerpt: 'Σχεδιασμός και κατασκευή συνεργατικών συστήματων για ένα οικοσύστημα συσκευών και υπηρεσιών.'
 ---
