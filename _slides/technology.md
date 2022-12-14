@@ -11,5 +11,6 @@ slides:
   - emulators 
   - android-emulator
   - smalltalk
+  - apple IIc
 ---
 
