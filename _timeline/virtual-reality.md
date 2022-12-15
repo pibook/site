@@ -14,5 +14,7 @@ events:
   - kinect
   - google-glass
   - microsoft-hololens
+  - arquake
+  - ar-collaborative
 ---
 
