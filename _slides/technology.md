@@ -12,5 +12,7 @@ slides:
   - android-emulator
   - smalltalk
   - apple IIc
+  - nokia-9210-communicator
+  - nokia-9500-communicator
 ---
 

@@ -29,5 +29,9 @@ events:
   - weiser-tab-pad-board
   - digital-desk
   - lifestreams
+  - nokia-9210-communicator
+  - nokia-9500-communicator
+  - google-glass
+  - microsoft-hololens
 ---
 

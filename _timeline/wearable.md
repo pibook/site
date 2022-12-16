@@ -11,5 +11,7 @@ events:
   - vpl-data-suit
   - wearable
   - apple-smartwatch
+  - google-glass
+  - microsoft-hololens
 ---
 

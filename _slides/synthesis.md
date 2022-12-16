@@ -22,6 +22,8 @@ slides:
   - www
   - wikipedia-growth
   - wikipedia-edit
+  - En_Wikipedia_2001
+  - EL_Βικιπαίδεια_2001
   - open-street-map
 ---
 

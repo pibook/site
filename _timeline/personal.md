@@ -11,5 +11,7 @@ events:
   - apple-macintosh-1984
   - apple-newton
   - iphone-jobs
+  - nokia-9210-communicator
+  - nokia-9500-communicator
 ---
 
