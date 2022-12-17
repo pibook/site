@@ -17,5 +17,6 @@ events:
   - arquake
   - ar-collaborative
   - htc_vive
+  - google_maps
 ---
 
