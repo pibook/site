@@ -6,4 +6,5 @@ caption: Η επαυξημένη πραγματικότητα είναι ένα�
 slides:
   - arquake
   - ar-collaborative
+  - htc_vive
 ---
