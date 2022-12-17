@@ -16,5 +16,6 @@ events:
   - microsoft-hololens
   - arquake
   - ar-collaborative
+  - htc_vive
 ---
 
