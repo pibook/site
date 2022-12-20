@@ -7,4 +7,6 @@ slides:
   - arquake
   - ar-collaborative
   - htc_vive
+  - SixthSense
+  - Magic Leap, Inc.
 ---
