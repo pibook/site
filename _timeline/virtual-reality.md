@@ -18,5 +18,7 @@ events:
   - ar-collaborative
   - htc_vive
   - google_maps
+  - SixthSense
+  - Magic Leap One
 ---
 
