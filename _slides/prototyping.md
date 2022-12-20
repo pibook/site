@@ -15,4 +15,6 @@ slides:
   - android-emulator
   - geolocation-simulation
   - pebble-hifi
+  - SixthSense
+  - Magic Leap One
 ---
