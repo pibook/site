@@ -10,10 +10,10 @@ theme: minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "gr-GR"
-title                    : "Κατασκευή Συστημάτων Διάδρασης"
+title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
 name                     : "pibook"
-description              : "Making Interactivity Greek Book."
+description              : "Programming Interactivity Greek Book."
 url                      : "https://pibook.epidro.me"
 baseurl                  : ""
 repository               : "pibook/site"
