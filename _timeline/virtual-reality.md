@@ -20,5 +20,7 @@ events:
   - google_maps
   - SixthSense
   - Magic Leap One
+  - f-18-simulator
+  - artillery-training-simulator
 ---
 
