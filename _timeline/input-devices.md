@@ -23,5 +23,6 @@ events:
   - leap-motion
   - nokia-9210-communicator
   - nokia-9500-communicator
+  - interactive-paper
 ---
 
