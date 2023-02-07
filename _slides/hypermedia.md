@@ -23,4 +23,5 @@ slides:
   - we-feel-fine
   - social-reviews
   - social-media
+  - virtual-reality-glasses
 ---
