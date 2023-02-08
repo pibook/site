@@ -2,9 +2,10 @@
 
 Μεταξύ άλλων ο Bush εκφράζει την ανησυχία του για την κατεύθυνση των επιστημονικών προσπαθειών προς την καταστροφή (ήταν η εποχή που έγινε χρήση πυρηνικών όπλων στην Ιαπωνία), παρά την κατανόηση, και περιγράφει την ιδέα μίας μηχανής που ονόμαζε memex και που με τις δυνατότητες της στη αποθήκευση και ανάκτηση της πληροφορίας, θα έκανε τη γνώση πιο προσιτή. Αυτό κατά τον Bush θα αποτελούσε λύση για το παραπάνω πρόβλημα. Μέσω αυτής της μηχανής, ο Μπους ήλπιζε να μετατρέψει μια έκρηξη πληροφοριών σε έκρηξη γνώσης.
 
+
 {% include figure image_path="/images/aswemaythink-memex.jpg" caption="Figure 1: Η υποθετική μηχανή memex." id="fig:memex" %}
 
-{% include figure image_path="/images/aswemaythink_vannevar_bush.png" caption="Figure 2: Πορτρέτο του Dr. Vannevar Bush." id="fig:vannevar_bush" %}
+{% include figure image_path="/images/aswemaythink_vannevar_bush.jpg" caption="Figure 2: Πορτρέτο του Dr. Vannevar Bush." id="fig:vannevar_bush" %}
 
 Η εργασία αυτή ήταν μία εξέλιξη του δοκιμίου του Μπους "Mechanization and the Record" που δημοσιεύτηκε το 1939. Σε αυτήν, περιέγραψε μια μηχανή που θα συνδύαζε τεχνολογίες χαμηλότερου επιπέδου για να επιτύχει ένα υψηλότερο επίπεδο οργάνωσης της γνώσης. 
 
@@ -15,4 +16,4 @@
 
 [^1]: fig:memex
 
-[^2]: vannevar_bush
+[^2]: fig:vannevar_bush
