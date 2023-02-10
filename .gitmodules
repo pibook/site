@@ -4,20 +4,8 @@
     	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/pibook/extras.git
+	url = https://github.com/sdy60-2022/extras.git
 	branch = master
-[submodule "_notes"]
-	path = _notes
-	url = https://github.com/pibook/notes.git
-	branch = master
-[submodule "_bibliography"]
-	path = _bibliography
-	url = https://github.com/pibook/bibliography.git
-	branch = master
-[submodule "_includes/text"]
-	path = _includes/text
-	url = https://github.com/mibook/text.git
-	branch = main 
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/sdy60-2022/_gallery
