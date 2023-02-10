@@ -1,7 +1,7 @@
 ---
 layout: timeline 
 title: Συνεργατικά συστήματα
-image_url: /wikipedia-edit.jpg
+image_url: /images/wikipedia-edit.jpg
 caption: Κάτω από τις κατάλληλες συνθήκες, τα πλήθη μπορεί να επιδεικνύουν αξιοσημείωτη έξυπνη συμπεριφορά. James Surowiecki
 events: 
  - Συνεργατικά Συστήματα
