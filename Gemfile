@@ -29,4 +29,5 @@ group :jekyll_plugins do
   gem 'jekyll-tagories'
   gem 'jekyll-remote-theme'
   gem 'jekyll-scholar'
+  gem 'faraday-retry'
 end
