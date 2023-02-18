@@ -1,7 +1,7 @@
 ---
 author: gsopy
 title: John Canny
-image_url: /images/canny_portrait.jpg
+image_url: /images/canny-portrait.jpg
 caption: Ο John Canny έχει συνεισφέρει σημαντικά σε διάφορους τομείς της επιστήμης των υπολογιστών όπως η διάδραση ανθρώπου-υπολογιστή, τα γραφικά υπολογιστών, η επίγνωση πλαισίου και η τεχνητή νοημοσύνη.
 categories:
   - Βιογραφία
