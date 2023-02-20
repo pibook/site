@@ -1,6 +1,6 @@
 Ο APDS9960 είναι ένας χαμηλού κόστους ψηφιακός αισθητήρας χειρονομιών, RGB χρωμάτων, εγγύτητας και έντασης φωτός που παρέχει νέες δυνατότητες στη διάδραση ανθρώπου-μηχανής.
 
-{% include figure image_path="/images/wikipedia-edit.png" caption="Figure 1: Ο αισθητήρας APDS9960 της Avago Technologies (Broadcom)[^1]" %}
+{% include figure image_path="/images/APDS9960.png" caption="Figure 1: Ο αισθητήρας APDS9960 της Avago Technologies (Broadcom)" %}
 
 Ο αισθητήρας έχει διαστάσεις 3.94 × 2.36 × 1.35 mm και κρίνεται ιδανικός για ενσωμάτωση τόσο σε φορητές όσο σε κινητές και φορετές εφαρμογές.
 
@@ -13,9 +13,10 @@
 
 Με την εφαρμογή κατάλληλων αλγορίθμων γίνονται αντιληπτές περίπλοκες χειρονομίες όπως αριστερό/δεξιόστροφη περιστροφή, οριζόντιο/κατακόρυφο ζικ-ζακ και απομάκρυνση/προσέγγιση και σύνθετες χειρονομίες όπως χειρονομία προς τα κάτω με απομάκρυνση, χειρονομία προς τα κάτω και δεξιά.
 
-{% include figure image_path="/images/adafruit-APDS9960.jpg" caption="Figure 2: Ένα άρθρωμα σχεδιασμένο από την Adafruit Industries με ενσωματωμένο αισθητήρα APDS9960[^2]" %}
+{% include figure image_path="/images/adafruit-APDS9960.jpg" caption="Figure 2: Ένα άρθρωμα σχεδιασμένο από την Adafruit Industries με ενσωματωμένο αισθητήρα APDS9960" %}
 
 Για την ανίχνευση της χειρονομίας ενεργοποείται IR led το φως του οποίου αντανακλάται στο αντικείμενο και προσλαμβάνεται από τέσσερος στρατηγικά τοποθετημένες κατευθυντικές φωτοδιόδους. Ο αισθητήρας υλοποιεί πρωτόκολλο I2C για την επικοινωνία, έχει ανάλυση 8bit και διαθέτει έξοδο ρυθμιζόμενου interrupt που ενεργοποείται όταν οι τιμές των χρωμάτων ή του αισθητήρα εγγύτητας υπερβούν προκαθορισμένο κατώφλι.
 
-[^1]: https://www.broadcom.com/products/optical-sensors/integrated-ambient-light-and-proximity-sensors/apds-9960
-[^2]: https://www.adafruit.com/product/3595
+Πηγές:
+https://www.broadcom.com/products/optical-sensors/integrated-ambient-light-and-proximity-sensors/apds-9960
+https://www.adafruit.com/product/3595
