@@ -11,4 +11,6 @@ slides:
   - notifications 
   - google-now
   - chat-bot
+  - airpollutionJ1S
+  - EnvironmentalPrediction
 ---
