@@ -12,4 +12,6 @@ events:
   - ipod_1g
   - iphone-jobs
   - apple-smartwatch
+  - Macintosh_XLj1
+  - MacintoshPortableJ2
 ---
