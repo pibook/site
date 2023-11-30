@@ -13,4 +13,7 @@ slides:
   - chat-bot
   - airpollutionJ1S
   - EnvironmentalPrediction
+  - air-quality
+  - air-pollution-Dashboard
+  - air-pollution2
 ---
