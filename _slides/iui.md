@@ -16,4 +16,6 @@ slides:
   - air-quality
   - air-pollution-Dashboard
   - air-pollution2
+  - IoTSystemModel
+  - pollutionMetrics
 ---
