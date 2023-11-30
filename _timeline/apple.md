@@ -12,6 +12,4 @@ events:
   - ipod_1g
   - iphone-jobs
   - apple-smartwatch
-  - IPhone3gJ3
-  - IPhone4J4
 ---
