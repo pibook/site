@@ -2,7 +2,7 @@
 layout: slides
 title: Air is Life
 caption: Αναβαθμίζοντας την ποιότητα ζωής
-image_url: /images/iqair_app.png
+image_url: /images/Air-Quality-Egg-thumb.jpg
 slides:
   - Air-Quality-Egg 
   - air-pollution2 
