@@ -1,12 +1,12 @@
 ---
 layout: slides
 title: Air is Life
-image_url: Air-Quality-Egg-thumb.jpg
+image_url: /images/Air-Quality-Egg.jpg
 caption: Αναβαθμίζοντας την ποιότητα ζωής 
 slides:
   - Air-Quality-Egg 
   - air-pollution2 
-  - airpollutionJ1S.jpg
+  - airpollutionJ1S
   - math-blaster
   - desktop-interaction-history-future
   - gmail-beta
