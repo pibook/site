@@ -9,4 +9,5 @@ events:
   - airpollutionJ1S
   - EnvironmentalPrediction
   - pollutionMetrics
+  - TE-5000D
 ---
