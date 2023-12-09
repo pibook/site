@@ -11,5 +11,5 @@ slides:
   - EnvironmentalPrediction
   - pollutionMetrics
   - instrument-for checking-air-quality
-  -app-measuring-AQI
+  - app-measuring-AQI
 ---
