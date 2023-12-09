@@ -11,5 +11,6 @@ events:
   - apple-macintosh-1984
   - apple-newton
   - iphone-jobs
+  - Amiga500
 ---
 
