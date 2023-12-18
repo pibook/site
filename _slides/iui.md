@@ -15,7 +15,7 @@ slides:
   - EnvironmentalPrediction  
   - air-pollution-Dashboard
   - air-pollution2
-  - air-quality
+  - airquality
   - IoTSystemModel
   - pollutionMetrics
   - Std162798_Air_Pollution_Flow
