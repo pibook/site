@@ -12,10 +12,11 @@ slides:
   - google-now
   - chat-bot
   - airpollutionJ1S
-  - EnvironmentalPrediction
-  - air-quality
+  - EnvironmentalPrediction  
   - air-pollution-Dashboard
   - air-pollution2
+  - airquality
   - IoTSystemModel
   - pollutionMetrics
+  - Std162798_Air_Pollution_Flow
 ---

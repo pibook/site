@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: Seamless Living
+title: Αβίαστη Ζωή
 caption: Συνδέοντας Περιβάλλοντα με Έξυπνη Τεχνολογία
 image_url: /images/iqair_app.png
 slides:
