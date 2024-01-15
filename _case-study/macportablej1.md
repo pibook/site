@@ -10,5 +10,5 @@ tags:
   - Macintosh Portable
 ---
 
-{% include cs-macportablej1.md %}
+{% include cs-alto.md %}
 
