@@ -13,5 +13,4 @@ tags:
   - success
 ---
 
-{% include cs-Amiga.md %}
 
