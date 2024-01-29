@@ -1,6 +1,6 @@
 ---
 author: douvaletas
-title: Amiga 
+title: Σχετικά με την Amiga 
 image_url: /images/Amiga500.jpg
 caption: "Η Amiga, μια σειρά υπολογιστών που κυκλοφόρησε για πρώτη φορά στα μέσα της δεκαετίας του 1980 κατάφερε να φέρει την επανάσταση 
 στους home υπολογιστές, να προσφέρει εντυπωσιακά γραφικά και ήχο, να διαθέτει ένα multitasking γραφικό λειτουργικό σύστημα, 
@@ -13,4 +13,4 @@ tags:
   - success
 ---
 
-
+{% include cs-amiga.md %}
