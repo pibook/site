@@ -10,7 +10,7 @@ This website is served from Netlify and it is based on the [minimal-mistakes the
 
 >> If you need to edit files in submodules, then fork them, too, and update your main site repository submodule configuration to point to your own forked submodules. When working with submodules it is strongly advised to work in the command line only and to edit files in the respective submodule repository and not in the submodule folder.
 
->> Η ιστοσελίδα χρησιμοποιεί την τεχνολογία git submodules (σύνδεσμοι αναφοράς σε εξωτερικά αποθετήρια) η οποία απαιτεί επιπλέον βήματα για τον συντονισμό των επιμέρους φακέλων, [διαβάστε](https://github.blog/2016-02-01-working-with-submodules/) [σχετικά](https://www.atlassian.com/git/tutorials/git-submodule). Συνοπτικά, υπάρχουν επιπλέον εντολές για τον συγχρονισμό, όπως `git submodule update --remote --init` και `git submodule update --remote --merge`.
+>> Η ιστοσελίδα χρησιμοποιεί την τεχνολογία git submodules (σύνδεσμοι αναφοράς σε εξωτερικά αποθετήρια) η οποία απαιτεί επιπλέον βήματα για τον συντονισμό των επιμέρους φακέλων, [διαβάστε](https://github.blog/2016-02-01-working-with-submodules/) [σχετικά](https://www.atlassian.com/git/tutorials/git-submodule). Συνοπτικά, υπάρχουν επιπλέον εντολές για την αρχικοποίηση και τον συγχρονισμό, όπως `git submodule update --remote --init` και `git submodule update --remote --merge`.
 
 >> Optionally run the make-figures shell script (depends on `pandoc`) to prepare figure captions for the chapters text, which are located in `_includes` folder.
 
