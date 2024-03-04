@@ -11,5 +11,5 @@ tags:
   - success
 ---
 
-{% include cs-Virtual_dives.md %}
+{% include cs-virtual_dives.md %}
 
