@@ -8,4 +8,4 @@ categories:
   - Παιχνίδια
 ---
 
-{% include cs-pokemonGo.md %}
+{% include cs-pokemon-go.md %}
