@@ -7,5 +7,7 @@
 Το λογισμικό τη Rezzil είναι συμβατό με γνωστά AR headsets OCCULUS της Μeta όπως το META QUEST 2[^1]
 
 https://www.meta.com/el-gr/experiences/3600836956645933/
+https://www.skroutz.gr/s/30834440/Meta-Quest-2-Aytonomo-VR-Headset-128GB-me-CHeiristirio.html
+
 
 [^1]: fig:rezzil-AR
