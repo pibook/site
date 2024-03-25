@@ -10,5 +10,7 @@ https://www.meta.com/el-gr/experiences/3600836956645933/
 
 https://www.skroutz.gr/s/30834440/Meta-Quest-2-Aytonomo-VR-Headset-128GB-me-CHeiristirio.html
 
+τοίχος αντίδρασης
+
 
 [^1]: fig:rezzil-AR
