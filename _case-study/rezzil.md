@@ -11,4 +11,4 @@ tags:
   - Immersive Experience
 ---
 
-{% include rezzil.md %}
+{% include cs-rezzil.md %}
