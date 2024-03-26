@@ -4,7 +4,7 @@
 
 {% include figure image_path="/images/rezzil_01.jpg" caption="Figure 1: Rezzil AV - Η εμπειρία επαυξημένης πραγματικότητας για αθλητές. " id="fig:rezzil-AR-1" %}
 
-Το λογισμικό τη Rezzil είναι συμβατό με γνωστά AR headsets OCCULUS της Μeta όπως το META QUEST 2[^1]:
+Το λογισμικό τη Rezzil είναι συμβατό με γνωστά AR headsets OCCULUS της Μeta όπως το META QUEST 2[^1] μέσω του Rezzil Player:
 
 https://www.meta.com/el-gr/experiences/3600836956645933/
 
