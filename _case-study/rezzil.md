@@ -1,3 +1,4 @@
+---
 author: std133524
 title: "Rezzil"
 image_url: /images/rezzil_01.png
@@ -12,3 +13,4 @@ tags:
 ---
 
 {% include cs-rezzil.md %}
+---
