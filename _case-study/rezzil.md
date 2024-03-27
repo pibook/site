@@ -1,7 +1,7 @@
 ---
 author: std133524
 title: "Rezzil"
-image_url: /images/rezzil_01.png
+image_url: /images/rezzil_thumb.jpg
 caption: "Το Rezill, είναι ένα λογισμικό τύπου AV για αθλητές που βελτιώνει τις κινητικές τους ικανότητες μέσω διάφορων σεναρίων συμμετοχής σε ποικίλα παιχνίδια"
 categories:
   - Μελέτη Περίπτωσης
