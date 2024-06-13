@@ -1,0 +1,9 @@
+---
+layout: slides
+title: Ιστορικό των αισθητήρων ποιότητας αέρα
+image_url: /images/canary_coal_mine.jpg
+caption: Διαφάνειες για την ποιότητα αέρα
+slides:
+  - canary-sensor
+  - portable-drager-sensor
+---

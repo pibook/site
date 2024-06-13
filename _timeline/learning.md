@@ -19,5 +19,6 @@ events:
   - interactive-whiteboard
   - sugar-neighborhood
   - minecraft-end-user
+  - How-Technology-in-Schools-Has-Changed-Over-Time-Infographic
 ---
 
