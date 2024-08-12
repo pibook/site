@@ -9,11 +9,7 @@
 του παιχνιδιού.[^1]
 
 <figure id="fig:minecraft-end-user">
-{% include figure image_path="/images/minecraft-end-user.png" caption="Η
-ιδέα να δημιουργούνται πίστες από τους τελικούς χρήστες δεν είναι
-καινούργια και έχει δοκιμαστεί με επιτυχία σε αρκετά παιχνίδια ως
-πρόσθετη λειτουργία. Το Minecraft είναι από την αρχή σχεδιασμένο με
-σκοπό οι τελικοί χρήστες να σχεδιάζουν τον εικονικό κόσμο."
+{% include figure image_path="/images/minecraft-end-user.png" caption=""
 alt="Minecraft" %}
 <figcaption>
 Η ιδέα να δημιουργούνται πίστες από τους τελικούς χρήστες δεν είναι
@@ -23,10 +19,7 @@ alt="Minecraft" %}
 </figcaption>
 </figure>
 <figure id="fig:learntomod">
-{% include figure image_path="/images/learntomod.jpg" caption="Η
-ευελιξία και η επεκτασιμότητα του Minecraft δεν σταματούν στη δυνατότητα
-κατασκευής του σκηνικού της δράσης, αλλά επεκτείνονται στη δυνατότητα
-προγραμματισμού της συμπεριφοράς και στη δημιουργία νέων αντικειμένων."
+{% include figure image_path="/images/learntomod.jpg" caption=""
 alt="Κατασκευή επεκτάσεων στο Minecraft" %}
 <figcaption>
 Η ευελιξία και η επεκτασιμότητα του Minecraft δεν σταματούν στη

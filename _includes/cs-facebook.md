@@ -1,19 +1,14 @@
 <figure id="fig:facebook1">
-{% include figure image_path="/images/facebook1.jpg" caption="Μία από
-τις αρχικές εκδοχές του κοινωνικού δικτύου Facebook δεν διέφερε πολύ από
-ένα απλό σύστημα βάσης δεδομένων με προφίλ χρηστών." alt="Αρχική έκδοση
-του thefacebook" %}
+{% include figure image_path="/images/facebook1.jpg" caption=""
+alt="Αρχική έκδοση του thefacebook" %}
 <figcaption>
 Μία από τις αρχικές εκδοχές του κοινωνικού δικτύου Facebook δεν διέφερε
 πολύ από ένα απλό σύστημα βάσης δεδομένων με προφίλ χρηστών.
 </figcaption>
 </figure>
 <figure id="fig:lifestreams">
-{% include figure image_path="/images/lifestreams.jpg" caption="Η
-οργάνωση και η αλληλεπίδραση με την πληροφορία σε χρονολογική σειρά
-παρουσιάστηκε σε μια διεπαφή με τίτλο Lifestreams περισσότερο από μια
-δεκαετία πριν γίνει ο βασικός τρόπος διάδρασης στα ψηφιακά κοινωνικά
-μέσα, όπως τα Twitter, Facebook." alt="Lifestreams" %}
+{% include figure image_path="/images/lifestreams.jpg" caption=""
+alt="Lifestreams" %}
 <figcaption>
 Η οργάνωση και η αλληλεπίδραση με την πληροφορία σε χρονολογική σειρά
 παρουσιάστηκε σε μια διεπαφή με τίτλο Lifestreams περισσότερο από μια

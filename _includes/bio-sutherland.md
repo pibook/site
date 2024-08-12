@@ -8,13 +8,8 @@
 και εταιρείες.
 
 <figure id="fig:sutherland-profile">
-{% include figure image_path="/images/sutherland-profile.jpg"
-caption="Στο σύστημα Sketchpad, εκτός από την υποστήριξη της δημιουργίας
-προσχεδίων, υπήρχε η δυνατότητα επίλυσης εξισώσεων, όπως αυτές ορίζονται
-από τα γραφικά που αναπαριστούν μια γέφυρα. O Ivan Sutherland ξεκίνησε
-από την περιοχή των διαδραστικών γραφικών και συνέχισε ως μέντορας
-ερευνητών και στέλεχος πολλών οργανισμών που άφησαν το αποτύπωμα τους
-στην ευρύτερη περιοχή των υπολογιστών." alt="Ivan Sutherland" %}
+{% include figure image_path="/images/sutherland-profile.jpg" caption=""
+alt="Ivan Sutherland" %}
 <figcaption>
 Στο σύστημα Sketchpad, εκτός από την υποστήριξη της δημιουργίας
 προσχεδίων, υπήρχε η δυνατότητα επίλυσης εξισώσεων, όπως αυτές ορίζονται
@@ -25,13 +20,8 @@ caption="Στο σύστημα Sketchpad, εκτός από την υποστή�
 </figcaption>
 </figure>
 <figure id="fig:sketchpad-drafting">
-{% include figure image_path="/images/sketchpad-drafting.jpg" caption="Η
-βασική λειτουργία του Sketchpad είναι η υποστήριξη της διαδικασίας της
-δημιουργίας προσχεδίων για τον κλάδο της μηχανολογίας. Το Sketchpad,
-εκτός απο τη διάδραση με την πένα, παρέχει μια σειρά εντολών που ορίζουν
-περιορισμούς πάνω στα αρχικά σχεδιαγράμματα, έτσι ώστε να είναι εύκολος
-ο μετασχηματισμός τους με βάση κάποιους κανόνες, όπως οι παράλληλες
-γραμμές και οι ορθές γωνίες." alt="Sketchpad" %}
+{% include figure image_path="/images/sketchpad-drafting.jpg" caption=""
+alt="Sketchpad" %}
 <figcaption>
 Η βασική λειτουργία του Sketchpad είναι η υποστήριξη της διαδικασίας της
 δημιουργίας προσχεδίων για τον κλάδο της μηχανολογίας. Το Sketchpad,

@@ -5,7 +5,7 @@ function Image(img)
         local title=pandoc.utils.stringify(img.title) or "title has not been set"
         local src=pandoc.utils.stringify(img.src) or "src has not been set"
         local caption=pandoc.utils.stringify(img.caption) or "caption has not been set"
-        local figure = "{% include figure image_path=\"" .. src .. "\" caption=\"" .. caption .. "\" alt=\"" .. title .. "\" %}"
+        local figure = "{% include figure image_path=\"" .. src .. "\" caption=\"\" alt=\"" .. title .. "\" %}"
         return pandoc.RawInline('html',figure)
 end
 

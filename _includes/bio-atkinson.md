@@ -1,11 +1,6 @@
 <figure id="fig:atkinson-profile">
-{% include figure image_path="/images/atkinson-profile.jpg" caption="Ο
-Bill Atkinson ήταν βασικός συντελεστής σε σημαντικά προϊόντα όπως τα
-Apple Lisa και Macintosh, καθώς και το Apple Paint, για το οποίο
-κατασκεύασε τη διάδραση με τα μενού και τις παλέτες εργαλείων. Η
-συνεισφορά του αποτυπώνεται καλύτερα στο Hypercard, το οποίο έδωσε για
-πρώτη φορά τη δυνατότητα σε απλούς χρήστες να φτιάξουν τις δικές τους
-εφαρμογές πολυμέσων και υπερκειμένου." alt="Bill Atkinson" %}
+{% include figure image_path="/images/atkinson-profile.jpg" caption=""
+alt="Bill Atkinson" %}
 <figcaption>
 Ο Bill Atkinson ήταν βασικός συντελεστής σε σημαντικά προϊόντα όπως τα
 Apple Lisa και Macintosh, καθώς και το Apple Paint, για το οποίο
@@ -16,13 +11,8 @@ Apple Lisa και Macintosh, καθώς και το Apple Paint, για το ο�
 </figcaption>
 </figure>
 <figure id="fig:macpaint-prototype">
-{% include figure image_path="/images/macpaint-prototype.jpg"
-caption="Πριν ακόμη κατασκευαστεί το γραφικό περιβάλλον με τα παράθυρα,
-ο Bill Atkinson ανάπτυξε το λογισμικό ψηφιακής επεξεργασίας εικόνας
-Sketchpad, το οποίο τρέχει στον αρχικό εξομοιωτή και βοήθησε στον
-διαχωρισμό του λειτουργικού συστήματος από τις εφαρμογές αλλά και στη
-σχεδίαση στοιχείων του μελλοντικού γραφικού περιβάλλοντος." alt="Αρχικό
-MacPaint χωρίς παράθυρα" %}
+{% include figure image_path="/images/macpaint-prototype.jpg" caption=""
+alt="Αρχικό MacPaint χωρίς παράθυρα" %}
 <figcaption>
 Πριν ακόμη κατασκευαστεί το γραφικό περιβάλλον με τα παράθυρα, ο Bill
 Atkinson ανάπτυξε το λογισμικό ψηφιακής επεξεργασίας εικόνας Sketchpad,
