@@ -1,3 +1,4 @@
+--Convert a markdown image to the figure tag for the minimal mistakes theme
 function Image(img)
         local id=pandoc.utils.stringify(img.identifier)
         local src=pandoc.utils.stringify(img.src) or "src has not been set"

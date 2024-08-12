@@ -1,3 +1,4 @@
+--Convert the figure reference format to a markdown image with caption and image id
 function Image(img)
       if img.classes:find('figure',1) then
         local fn = img.src
