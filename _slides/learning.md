@@ -19,7 +19,7 @@ slides:
   - olpc-classroom
   - sugar-neighborhood
   - processing-ide
-  - arduino_uno
+  - arduino-uno
   - touch-develop
   - raspberrypi
   - minecraft-pi

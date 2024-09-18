@@ -16,7 +16,7 @@ slides:
   - pygmalion
   - xerox-star-desktop
   - aspen-movie-map
-  - hypercard-screen
+  - hypercard-layout
   - digital-desk
   - zoomable
   - lifestreams

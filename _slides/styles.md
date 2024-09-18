@@ -10,7 +10,7 @@ slides:
   - eliza-chat-bot
   - joss
   - dartmouth-basic
-  - sword-of-damocles
+  - damocles-sword
   - genesys
   - plato4
   - unix-shell
