@@ -1,15 +1,14 @@
 ---
 layout: slides
 title: Τεχνολογία 
-image_url: /images/emulators.jpg
+image_url: /images/ibm-monitor-cash.jpg
 caption: Διαφάνειες για το κεφάλαιο Τεχνολογία 
 slides:
-  - card-puncher
+  - monitor-cash
   - human-computers
-  - transistor-radio
-  - swyftware
+  - java
+  - Virtual Network Computing
   - emulators 
   - android-emulator
-  - smalltalk
+  - windows
 ---
-
