@@ -16,6 +16,17 @@ This website is served from Netlify and it is based on the [minimal-mistakes the
 
 # Contribute to content and to development
 
+For members only
+1. Fork sdy60-2024/images and sdy60-2024/_gallery to your account (you will have username/images and username/_gallery) or just create your branch
+2. Put two images in the images folder with their thumbnails named image-name and image-name-thumb
+3. Create a pull request, one of us will merge your changes.
+4. Create an md file for each image in the _gallery folder following the same format of the existing files
+5. Create a pull request, one of us will merge your changes
+6. Create an md file in the _timeline and _slides folders following the same format of the existing files
+7. Commit your changes (I think you can do it as a member, otherwise create a pull request)
+8. Remember that events and slides at the bottom of each md file must be an image name from the image folder.
+9. I think that's all for now.
+
 You can go a long way just by adding/editing files with the Github web interface, but if you really want to hack the internals of this web site, then you might want to get yourself more familiar with the command line and the [jekyll static web site system](https://jekyllrb.com/). In any case, please respect the following licence.
 
 # License
