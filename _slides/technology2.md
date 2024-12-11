@@ -8,4 +8,5 @@ slides:
   - emulators 
   - android-emulator
   - ibm-touchscreen-monitor-cash
+  - PERSONAL-MOBILE-TOOL
 ---
