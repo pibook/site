@@ -7,7 +7,7 @@ events:
   - memex
   - xanadu-sketch
   - hypercard-notes
-  - www
+  - cern-www-editor
   - violaWWW
   - ncsa-mosaic
   - xanadu-viewer3d
