@@ -11,6 +11,7 @@ events:
   - minitel
   - irc
   - media-spaces
+  - ncsa-collage
   - xerox-parc-portholes
   - utoronto-hydra
   - telepresence-doors
