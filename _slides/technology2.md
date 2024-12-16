@@ -9,4 +9,5 @@ slides:
   - android-emulator
   - ibm-touchscreen-monitor-cash
   - PERSONAL-MOBILE-TOOL
+  - IBM-System-console
 ---
