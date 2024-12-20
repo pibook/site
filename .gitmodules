@@ -4,7 +4,7 @@
     branch = master
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/sdy60-2024/_gallery
+	url = https://github.com/sdy60-2024/_gallery.git
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
