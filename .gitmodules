@@ -1,7 +1,7 @@
 [submodule "images"]
 	path = images
-    url = https://github.com/sdy60-2024/images.git
-    branch = master
+        url = https://github.com/sdy60-2024/images.git
+        branch = master
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/sdy60-2024/_gallery.git
