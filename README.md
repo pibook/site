@@ -8,15 +8,20 @@ This website is served from Netlify and it is based on the [minimal-mistakes the
 2. Configure the deployment from your netlify (or vercel) account and update your `_config.yml`.
 3. Edit the about description and URL on the github repository page to match your own repository settings.
 
->> If you need to edit files in submodules, then fork them, too, and update your main site repository submodule configuration to point to your own forked submodules. When working with submodules it is strongly advised to work in the command line only and to edit files in the respective submodule repository and not in the submodule folder.
+# Git Submodules
 
->> Η ιστοσελίδα χρησιμοποιεί την τεχνολογία git submodules (σύνδεσμοι αναφοράς σε εξωτερικά αποθετήρια) η οποία απαιτεί επιπλέον βήματα για τον συντονισμό των επιμέρους φακέλων, [διαβάστε](https://github.blog/2016-02-01-working-with-submodules/) [σχετικά](https://www.atlassian.com/git/tutorials/git-submodule). Συνοπτικά, υπάρχουν επιπλέον εντολές για την αρχικοποίηση και τον συγχρονισμό, όπως `git submodule update --remote --init` και `git submodule update --remote --merge`.
+If you need to edit files in submodules, then fork them, too, and update your main site repository submodule configuration to point to your own forked submodules. When working with submodules it is strongly advised to work in the command line only and to edit files in the respective submodule repository and not in the submodule folder. Git submodules make git even more complicated, but they are required by this project, in order to avoid duplication of data between the online and the print repositories of the book.
+
+Η ιστοσελίδα χρησιμοποιεί την τεχνολογία git submodules (σύνδεσμοι αναφοράς σε εξωτερικά αποθετήρια) η οποία απαιτεί επιπλέον βήματα για τον συντονισμό των επιμέρους φακέλων, [διαβάστε](https://github.blog/2016-02-01-working-with-submodules/) [σχετικά](https://www.atlassian.com/git/tutorials/git-submodule). Συνοπτικά, υπάρχουν επιπλέον εντολές για την αρχικοποίηση και τον συγχρονισμό, όπως `git submodule update --remote --init` και `git submodule update --remote --merge`.
+
+
+# Command line is not required but it is strongly advised
+
+You can go a long way just by adding/editing files with the Github web interface, but if you really want to hack the internals of this web site, then you might want to get yourself more familiar with the command line and the [jekyll static web site system](https://jekyllrb.com/). 
 
 >> Optionally run the make-figures shell script (depends on `pandoc`) to prepare figure captions for the chapters text, which are located in `_includes` folder.
 
-# Contribute to content and to development
-
-You can go a long way just by adding/editing files with the Github web interface, but if you really want to hack the internals of this web site, then you might want to get yourself more familiar with the command line and the [jekyll static web site system](https://jekyllrb.com/). In any case, please respect the following licence.
+Last, please respect the following licence:
 
 # License
 
