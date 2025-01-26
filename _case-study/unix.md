@@ -7,9 +7,12 @@ categories:
   - Μελέτη Περίπτωσης
   - Αρχέτυπα
   - Ορισμός
+  - Τεχνολογία
+  - Γραμμή Εντολών
 tags:
-  - unix 
-  - success
+  - Unix 
+  - X-Windows
+  - Bell Labs
 ---
 
 {% include cs-unix.md %}
