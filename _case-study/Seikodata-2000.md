@@ -8,7 +8,7 @@ categories:
   - archetypes
   - technology
 tags:
-  - Seiko
+  - seiko
   - wearable
     ---
 
