@@ -11,4 +11,5 @@ tags:
   - wearable
 
     ---
+    {% include SeikoData-2000.md %}
 
