@@ -8,6 +8,7 @@ categories:
   - Μελέτη Περίπτωσης
   - Αρχέτυπα
 tags:
+  - Seiko
   - wearable
 
     ---
