@@ -11,5 +11,6 @@ tags:
   - Douglas Engelbart
 ---
 
+{% include cs-mouse.md %}
 
 
