@@ -7,7 +7,6 @@ categories:
   - Μελέτη Περίπτωσης
   - Αρχέτυπα
 tags:
-  - Seiko
+  - Seikodata-2000
   -wearable
 
-{% include Seikodata-2000.md %}
