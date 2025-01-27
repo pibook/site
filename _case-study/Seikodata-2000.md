@@ -10,7 +10,5 @@ categories:
 tags:
   - Seiko
   - wearable
-
     ---
-    {% include SeikoData-2000.md %}
 
