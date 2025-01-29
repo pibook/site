@@ -11,3 +11,5 @@ tags:
   - Seiko
   - Wearable
 ---
+
+{% include smartwatch.md %}
