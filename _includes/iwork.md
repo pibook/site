@@ -63,19 +63,19 @@
 
 ## ** Εικόνες**
 ### Εικόνα 1: Το Stanford iRoom
-![Stanford iRoom](../images/iwork.jpg)
+![Stanford iRoom](../images/iwork.jpg)    
 *Το διαδραστικό περιβάλλον του Stanford Interactive Workspaces.*
 
 ### Εικόνα 2: Event Heap in Action
-![Event Heap](https://github.com/KonstantinosZarkadoulas/case_study_images/blob/main/iwork_figure3.jpg)
+![Event Heap](https://github.com/KonstantinosZarkadoulas/case_study_images/blob/main/iwork_figure3.jpg)  
 *Η τεχνολογία Event Heap επιτρέπει την αποκεντρωμένη επικοινωνία μεταξύ συσκευών και εφαρμογών.*
 
 ### Εικόνα 3: iStuff Devices
-![iStuff](https://github.com/KonstantinosZarkadoulas/case_study_images/blob/main/iwork_istuff.jpg)
+![iStuff](https://github.com/KonstantinosZarkadoulas/case_study_images/blob/main/iwork_istuff.jpg)  
 *Μερικές από τις φυσικές διαδραστικές συσκευές του iStuff.*
 
 ### Εικόνα 4: UI Διαμόρφωση σε Διάφορες Συσκευές
-![UI Customization](https://github.com/KonstantinosZarkadoulas/case_study_images/blob/main/iwork_figure2.jpg)
+![UI Customization](https://github.com/KonstantinosZarkadoulas/case_study_images/blob/main/iwork_figure2.jpg)  
 *Διαμόρφωση διεπαφής χρήστη σε διαφορετικές συσκευές, χρησιμοποιώντας το Context Database.*
 ---
 
