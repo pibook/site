@@ -12,4 +12,4 @@ tags:
   - Wearable
 ---
 
-{% include smartwatch.md %}
+{% include cs-smartwatch.md %}
