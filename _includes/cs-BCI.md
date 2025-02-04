@@ -4,7 +4,7 @@ Their sensors capture electrophysiological signals transmitted between the brain
 These brain chips go over the scalp in a wearable device, get surgically placed under the scalp or even get implanted within brain tissue. 
 The idea is that, the closer the chip is to the brain’s neural network, the more clear, or “high definition,” a signal can be interpreted.  
 
-`BCI[^1] image (1)`
+**BCI[^1] image (1)**
 <figure id="fig:BCI3">
 {% include figure image_path="/images/bci3.jpg" caption="" alt="BCI_image_3" %}
 <figcaption>
@@ -15,7 +15,7 @@ This setup is common in neuroscience labs and medical facilities for studying br
 </figcaption>
 </figure>
 
-`BCI[^2] image (2)`
+**BCI[^2] image (2)**
 <figure id="fig:BCI2">
 {% include figure image_path="/images/bci2.jpg" caption="" alt="BCI_image_2" %}
 <figcaption>
@@ -37,6 +37,6 @@ Ramses Alcaide, CEO of neurotech startup Neurable, which develops non-invasive b
 
 Excitement around the possibilities of BCI has resulted in a thriving market, which is expected to triple in size from $2 billion in 2023 to $6.2 billion by the end of the decade.
 
-[^1]: fig. **BCI_1_image**
+[^1]: **BCI_1_image**
 
-[^2]: fig. **BCI_2_image**
+[^2]: **BCI_2_image**
