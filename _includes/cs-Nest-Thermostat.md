@@ -6,7 +6,7 @@
 
 Nest Thermostat[^1] εικόνα (1)
 <figure id="fig:Nest1">
-{% include figure image_path="https://github.com/Vasilis-Kovas/images/blob/master/Nest_front_official_1.png" caption="" alt="Nest_Thermostat_image_1" %}
+{% include figure image_path="/images/Nest_front_official_1.png" caption="" alt="Nest_Thermostat_image_1" %}
 <figcaption>
 Αυτή η εικόνα δείχνει την μπροστινή όψη του Έξυπνου Θερμοστάτη Nest. Ο κομψός κυκλικός σχεδιασμός του διαθέτει ψηφιακή οθόνη που δείχνει τις ρυθμίσεις θερμοκρασίας και πληροφορίες για την κατανάλωση ενέργειας. 
 Η διεπαφή του επιτρέπει στους χρήστες να ρυθμίζουν τη θερμοκρασία με μια απλή περιστροφή του εξωτερικού δακτυλίου.
@@ -15,7 +15,7 @@ Nest Thermostat[^1] εικόνα (1)
 
 Nest Thermostat[^2] εικόνα (2)
 <figure id="fig:Nest2">
-{% include figure image_path="https://github.com/Vasilis-Kovas/images/blob/master/Nest_front_official_2.png" caption="" alt="Nest_Thermostat_image_2" %}
+{% include figure image_path="/images//Nest_front_official_2.png" caption="" alt="Nest_Thermostat_image_2" %}
 <figcaption>
 Ο Έξυπνος Θερμοστάτης Nest μαθαίνει από τη συμπεριφορά των χρηστών και ρυθμίζει αυτόματα τη θερμοκρασία ώστε να εξοικονομεί ενέργεια. 
 Ανιχνεύοντας πότε οι ένοικοι απουσιάζουν, μπορεί να μειώσει την κατανάλωση ενέργειας, μειώνοντας το κόστος των λογαριασμών και το περιβαλλοντικό αποτύπωμα.
