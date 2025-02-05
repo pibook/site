@@ -25,7 +25,7 @@ For members only
 6. Create an md file in the _timeline and _slides folders following the same format of the existing files
 7. Commit your changes (I think you can do it as a member, otherwise create a pull request)
 8. Remember that events and slides at the bottom of each md file must be an image name from the image folder.
-9. If you want to add a new case study you must create a new md file in the _case-study folder using the same format as the existnig files. At the end of that file you must have a link to an md file that should be in the _includes folder that conatains the main body of the case study.
+9. If you want to add a new case study you must create a new md file in the _case-study folder using the same format as the existnig files. At the end of that file you must have a link to an md file that should be in the _includes folder that contains the main body of the case study.
 
 You can go a long way just by adding/editing files with the Github web interface, but if you really want to hack the internals of this web site, then you might want to get yourself more familiar with the command line and the [jekyll static web site system](https://jekyllrb.com/). In any case, please respect the following licence.
 
