@@ -10,14 +10,14 @@
 {% include figure image_path="/images/PSX-DualShock-Controller.jpg" caption=""
 alt="PSX DualShock Controller" %}
 <figcaption>
-Το DualShock είναι μια σειρά από gamepads που αναπτύχθηκε από την Sony Interactive Entertainment για την οικογένεια των κονσολών βιντεοπαιχνιδιών PlayStation. Είναι γνωστό για τη δόνηση και τα αναλογικά χειριστήρια. Αρχικά κυκλοφόρησε ως δευτερογενής περιφερειακή συσκευή για την πρώτη κονσόλα PlayStation. Το πακέτο της κονσόλας ανανεώθηκς για να συμπεριλάβει το DualShock και να καταργήσει σταδιακά το αρχικό χειριστήριο PlayStation και το Dual Analog Controller. Το DualShock είναι το gamepad με τις μεγαλύτερες πωλήσεις όλων των εποχών.
+Το DualShock είναι μια σειρά από gamepads που αναπτύχθηκε από την Sony Interactive Entertainment για την οικογένεια των κονσολών βιντεοπαιχνιδιών PlayStation. Είναι γνωστό για τη δόνηση και τα αναλογικά χειριστήρια. Αρχικά κυκλοφόρησε ως δευτερογενής περιφερειακή συσκευή για την πρώτη κονσόλα PlayStation. Το πακέτο της κονσόλας ανανεώθηκε για να συμπεριλάβει το DualShock και να καταργήσει σταδιακά το αρχικό χειριστήριο PlayStation και το Dual Analog Controller. Το DualShock είναι το gamepad με τις μεγαλύτερες πωλήσεις όλων των εποχών.
 </figcaption>
+</figure>
 
 Ο DualShock controller έγινε το μακροβιότερο χειριστήριο του Playstation και σε αυτόν τα δύο stick μπορούσαν να πατηθούν προσθέτοντας δύο επιπλέον κουμπιά. Ακολούθησαν τα DualShock2, DualShock3 και DualShock4.
 
 Το Playstation Move είναι μια πλατφόρμα χειριστηρίου παιχνιδιών με ανίχνευση κίνησης που παρουσιάστηκε το 2009. Βασίζεται στο Playstation Move ραβδί με τους εσωτερικούς αισθητήρες για την ανίχνευση της κίνησης και την κάμερα Playstation Eye για την παρακολούθηση της θέσης του ραβδιού. [^2]
 
-</figure>
 <figure id="fig:Move">
 {% include figure image_path="/images/Sony-Playstation-Move-Controller.jpg" caption=""
 alt="Playstation Move" %}
