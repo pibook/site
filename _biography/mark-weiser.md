@@ -13,4 +13,4 @@ tags:
   - Xerox PARC
 ---
 
-{% include cs-mark-weiser.md %}
+{% include bio-mark-weiser.md %}
