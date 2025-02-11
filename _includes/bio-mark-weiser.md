@@ -3,7 +3,7 @@
 Mark Weiser [^1] Image (1)
 
 <figure id="fig:mark-weiser">
-{% include figure image_path="/images/weiser-profile.jpg caption=""
+{% include figure image_path="/images/weiser-profile.jpg" caption=""
 alt="Mark Weiser" %}
 <figcaption>
 Το προφίλ του Mark Weiser.
@@ -13,7 +13,7 @@ alt="Mark Weiser" %}
 Mark Weiser Tabs-Pads-Boards[^2] Image (2)
 
 <figure id="fig:mark-weiser-tabs-pads-boards">
-{% include figure image_path="/images/weiser-tab-pad-board.png caption=""
+{% include figure image_path="/images/weiser-tab-pad-board.png" caption=""
 alt="Mark Weiser Tabs-Pads-Boards" %}
 <figcaption>
 H ιδέα του Mark Weiser για τα τρία είδη τύπων συσκευών.
