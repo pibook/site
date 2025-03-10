@@ -1,12 +1,13 @@
 Ο Joseph Carl Robnett Licklider ( 11 Μαρτίου 1915 – 26 Ιουνίου 1990), γνωστός απλά ως JCR ή " Lick ", ήταν Αμερικανός ψυχολόγος και επιστήμονας υπολογιστών που θεωρείται από τις πιο εξέχουσες προσωπικότητες.
-<figure id="fig:licklider-profile">
+<figure id="fig:licklider">
 {% include figure image_path="/images/J.C.R. Licklider.jpg" caption=""
-alt="JCR Licklider" %}
+alt="Joseph Carl Robnett Licklider" %}
 <figcaption>
   
 </figcaption>
 </figure>
-[^1] Σπούδασε στο Πανεπιστήμιο της Ουάσιγκτον στο Σεντ Λούις , όπου έλαβε πτυχίο με τριπλή κατεύθυνση στη φυσική , τα μαθηματικά και την ψυχολογία το 1937 και μεταπτυχιακό στην ψυχολογία το 1938. [^2]
+[^1]
+Σπούδασε στο Πανεπιστήμιο της Ουάσιγκτον στο Σεντ Λούις , όπου έλαβε πτυχίο με τριπλή κατεύθυνση στη φυσική , τα μαθηματικά και την ψυχολογία το 1937 και μεταπτυχιακό στην ψυχολογία το 1938. [^2]
 <figure id="fig:arpanet_jcr">
 {% include figure image_path="/images/arpanet_jcr.jpg" caption=""
 alt="arpanet_jcr" %}
@@ -36,6 +37,6 @@ alt="arpanet_jcr" %}
 Αυτές οι ιδέες περιείχαν σχεδόν τα πάντα που είναι το Διαδίκτυο σήμερα, συμπεριλαμβανομένου του υπολογιστικού νέφους.
 Τέλος το γνωστό Licklider Transmission Protocol πήρε το όνομα από τον ίδιο. 
 
-[^1]: fig. **¿fig:licklider-profile?**
+[^1]: fig. **¿fig:licklider?**
 
 [^2]: fig. **¿fig:arpanet_jcr?**
