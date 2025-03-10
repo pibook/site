@@ -37,6 +37,6 @@ alt="arpanet_jcr" %}
 Αυτές οι ιδέες περιείχαν σχεδόν τα πάντα που είναι το Διαδίκτυο σήμερα, συμπεριλαμβανομένου του υπολογιστικού νέφους.
 Τέλος το γνωστό Licklider Transmission Protocol πήρε το όνομα από τον ίδιο. 
 
-[^1]: fig. **¿fig:licklider?**
 
-[^2]: fig. **¿fig:arpanet_jcr?**
+[^1]: fig. **¿licklider?**
+[^2]: fig. **¿arpanet_jcr?**
