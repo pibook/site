@@ -1,6 +1,6 @@
 Ο Joseph Carl Robnett Licklider ( 11 Μαρτίου 1915 – 26 Ιουνίου 1990), γνωστός απλά ως JCR ή " Lick ", ήταν Αμερικανός ψυχολόγος και επιστήμονας υπολογιστών που θεωρείται από τις πιο εξέχουσες προσωπικότητες. [^1]
 <figure id="fig:licklider">
-{% include figure image_path="/images/J.C.R. Licklider.jpg" caption=""
+{% include figure image_path="/images/J.C.R-Licklider.jpg" caption=""
 alt="Joseph Carl Robnett Licklider" %}
 <figcaption>
   
