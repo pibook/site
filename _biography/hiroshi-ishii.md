@@ -12,3 +12,5 @@ tags:
   - Tangible Interfaces 
   
 ---
+
+{% include bio-hiroshi-ishii.md %}
