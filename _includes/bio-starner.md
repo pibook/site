@@ -1,6 +1,6 @@
 Ο Thad Starner είναι ένας διακεκριμένος επιστήμονας πληροφορικής, γνωστός για την πρωτοποριακή του έρευνα στις φορετές συσκευές υπολογιστών (wearable computing) και τη διεπαφή ανθρώπου-υπολογιστή. Είναι καθηγητής στο Georgia Institute of Technology και επικεφαλής ερευνητής στην ομάδα Contextual Computing του πανεπιστημίου. [^1]
 <figure id="fig:starner1">
-{% include figure image_path="/images/starner1.jpg" caption=""
+{% include figure image_path="/images/starner_couple.jpg" caption=""
 alt="Thad Eugene Starner" %}
 <figcaption>
   
@@ -13,7 +13,7 @@ alt="Thad Eugene Starner" %}
 
 Ένας από τους πρώτους χρήστες φορετών υπολογιστών, ο Starner έχει χρησιμοποιήσει τέτοιες συσκευές στην καθημερινότητά του από τις αρχές της δεκαετίας του 1990. Η δουλειά του έθεσε τα θεμέλια για την ανάπτυξη τεχνολογιών όπως τα έξυπνα γυαλιά και οι επεκτάσεις μνήμης μέσω υπολογιστών. [^2]
 <figure id="fig:starner2">
-{% include figure image_path="/images/starner2.jpg" caption=""
+{% include figure image_path="/images/starnerggl.jpg" caption=""
 alt="starner" %}
 <figcaption>
 </figcaption>
