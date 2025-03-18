@@ -1,7 +1,7 @@
 ---
 author: KonstantinosZarkadoulas
 title: "Stuart Card"
-image_url: ![Image](https://github.com/user-attachments/assets/8a8ad9af-da49-4afe-ab3f-87ffcc547e0a)
+image_url: "/images/stuart-card.jpg"
 caption: "Ο Stuart Card είναι πρωτοπόρος στην αλληλεπίδραση ανθρώπου-υπολογιστή και στην οπτικοποίηση πληροφοριών."
 categories:
   - Βιογραφία
