@@ -11,6 +11,7 @@ events:
   - macpaint 
   - mediaspace
   - hypercard-multimedia
+  - macromedia-flash-editor
   - www
   - digital-desk
   - windows95

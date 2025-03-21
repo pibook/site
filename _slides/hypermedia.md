@@ -11,6 +11,7 @@ slides:
   - hypercard-multimedia
   - hypercard-layout 
   - myst
+  - macromedia-flash-editor
   - www
   - web-search
   - wikipedia-edit
