@@ -13,8 +13,10 @@ events:
   - home-programming
   - computer-lab
   - rockys-boots
+  - robot-odyssey
   - math-blaster
   - kidsim
+  - colobot
   - mit-scratch
   - interactive-whiteboard
   - sugar-neighborhood
