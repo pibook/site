@@ -12,6 +12,8 @@ slides:
   - home-programming
   - computer-lab
   - rockys-boots
+  - robot-odyssey
+  - colobot
   - bbc-micro
   - kidsim
   - mit-scratch
