@@ -10,7 +10,7 @@ tags:
   - HCI
 ---
 
-Διαδραστικό παράδειγμα κώδικα που δημιουργεί ένα ρολόι με έντονη την περιοχή ώρας με το κανονισμένο γεγονός. Επίσης διαθέτει και μια υπηρεσία ειδοποίησης που που εμφανίζει μήνυμα με την δραστηριότητα της στιγμής.  Ο κώδικας υλοποιείται με χρήση HTML, CSS και JavaScript. 
+Διαδραστικό παράδειγμα κώδικα που δημιουργεί ένα ρολόι στο οποίο ο χρήστης μπορεί να προσθέσει γεγονότα, τα οποία εμφανίζονται με έντονη την περιοχή ώρας με το κανονισμένο γεγονός. Επίσης διαθέτει και μια υπηρεσία ειδοποίησης που που εμφανίζει μήνυμα με την δραστηριότητα της στιγμής.  Ο κώδικας υλοποιείται με χρήση HTML, CSS και JavaScript. 
 
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="jXGPdP" data-pen-title="clockSchedulerJS" data-user="iamdshri" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/iamdshri/pen/jXGPdP">
