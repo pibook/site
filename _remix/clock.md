@@ -10,8 +10,6 @@ tags:
   - HCI
 ---
 
-Display's a clock with highlighted scheduled area. Also has an alarm with notification for the scheduled time.
-
 Διαδραστικό παράδειγμα κώδικα που δημιουργεί ένα ρολόι με έντονη την περιοχή ώρας με το κανονισμένο γεγονός. Επίσης διαθέτει και μια υπηρεσία εισοποίησης που που εμφανίζει μήνυμα με την δραστηριότητα της στιγμής. Ένα  script σε κώδικα javascript. 
 
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="jXGPdP" data-pen-title="clockSchedulerJS" data-user="iamdshri" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
