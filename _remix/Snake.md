@@ -14,7 +14,7 @@ tags:
 
 Το παρακάτω παράδειγμα θα μας βοηθήσει να καταλάβουμε τις διαφορετικές λειτουργίες που έχουν οι  HTML, CSS και JavaScript σε μια web εφαρμογή.  
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="XJJmWgp" data-pen-title="Snake" data-editable="true" data-user="Pagiatis-Spiros" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="450" data-default-tab="html,result" data-slug-hash="XJJmWgp" data-pen-title="Snake" data-editable="true" data-user="Pagiatis-Spiros" style="height: 450px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/Pagiatis-Spiros/pen/XJJmWgp">
   Snake</a> by Pagiatis-Spiros (<a href="https://codepen.io/Pagiatis-Spiros">@Pagiatis-Spiros</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
