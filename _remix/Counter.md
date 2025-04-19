@@ -14,9 +14,9 @@ tags:
 
 Το παρακάτω παράδειγμα θα μας βοηθήσει να καταλάβουμε γιατί χρησιμοποιούμαι  HTML, CSS και JavaScript στην κατασκευή ιστοσελίδων. 
 
-<p class="codepen" data-height="200" data-default-tab="html" data-slug-hash="ByyNeXq" data-pen-title="Counter modified" data-editable="true" data-user="Pagiatis-Spiros" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/Pagiatis-Spiros/pen/ByyNeXq">
-  Counter modified</a> by Pagiatis-Spiros (<a href="https://codepen.io/Pagiatis-Spiros">@Pagiatis-Spiros</a>)
+<p class="codepen" data-height="200" data-default-tab="html" data-slug-hash="GggJaad" data-pen-title="Counter" data-editable="true" data-user="Pagiatis-Spiros" style="height: 200px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/Pagiatis-Spiros/pen/GggJaad">
+  Counter</a> by Pagiatis-Spiros (<a href="https://codepen.io/Pagiatis-Spiros">@Pagiatis-Spiros</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://public.codepenassets.com/embed/index.js"></script>
