@@ -17,6 +17,7 @@ tags:
 
 <p data-height="350" data-theme-id="light" data-slug-hash="YPPxBxy" data-default-tab="result" 
   data-user="VasilisKokkalis" data-embed-version="2" data-pen-title="Apple watch like Mickey watch" class="codepen"></p>
-<script async src="https://assets.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 
 Ασκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε όταν αλλάζετε σκάλες στο Keyframes του CSS να πηγαίνει πιο γρήγορα το χέρι από ότι στο παράδειγμα.
