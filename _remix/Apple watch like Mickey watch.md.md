@@ -15,6 +15,14 @@ tags:
 με τα χέρια του να δείχνουν την ώρα και τα λεπτά, παρόμοια με το επίσημο ρολόι της Apple. Όταν πατάς πάνω δημιουργεί κίνηση πιο γρήγορη από τη συνηθισμένη 
 για να σου δείξει την ώρα. 
 
+<p class="codepen" data-height="400" data-theme-id="light" data-default-tab="result" data-slug-hash="YPYXBv" data-user="VasilisKokkalis" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Apple watch like Mickey watch">
+  <span>See the Pen <a href="https://codepen.io/VasilisKokkalis/pen/YPYXBv">
+  Apple watch like Mickey watch</a> by VasilisKokkalis (<a href="https://codepen.io/VasilisKokkalis">@VasilisKokkalis</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
 <p data-height="350" data-theme-id="light" data-slug-hash="YPPxBxy" data-default-tab="result" 
   data-user="VasilisKokkalis" data-embed-version="2" data-pen-title="Apple watch like Mickey watch" class="codepen"></p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
