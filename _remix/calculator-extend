@@ -1,0 +1,18 @@
+---
+layout: single
+title: Calculator with History
+header: no
+categories:
+  - models
+tags:
+  - calculator
+  - HCI
+  - IV
+updated: 2025-05-06
+---
+
+Παράδειγμα οπτικής και λειτουργικής εξομοίωσης αριθμομηχανής.
+
+**Άσκηση 1**: Τροποποιήστε το παράδειγμα έτσι ώστε κάθε φορά που επιλέγεται το σύμβολο/τελεστής “=” να τυπώνεται το αποτέλεσμα σε νέο πλαίσιο κάτω από την αριθμομηχανή. Το επόμενο αποτέλεσμα να εμφανίζεται σε νέα γραμμή.
+
+<iframe src="https://calculator-history-zarkadoulas.glitch.me" width="100%" height="500px"></iframe>
