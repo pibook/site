@@ -8,7 +8,7 @@ slides:
   - spacewar-gamepad
   - magnavox-odyssey
   - pong
-  - atari-adventure
+  - adventure-videogame 
   - pop
   - c64-demoscene
   - math-blaster
