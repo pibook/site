@@ -6,7 +6,7 @@ caption: Διαφάνειες για το κεφάλαιο Μορφές
 slides:
   - linc-pc
   - nls-desk
-  - pdp-11-tty-unix
+  - pdp11-tty-unix
   - xerox-alto
   - xerox-star-pc
   - apple-macintosh

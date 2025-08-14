@@ -7,7 +7,7 @@ slides:
   - ibm2471
   - engelbart-mouse
   - smalltalk-scrollbar-left
-  - icons-documents
+  - icons-document
   - norton-commander
   - xerox-star-desktop
   - vt100
@@ -15,5 +15,5 @@ slides:
   - menus-on-windows
   - menus-on-top
   - igoefinger
-  - x-window-system
+  - x-windows-system
 ---
