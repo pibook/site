@@ -235,9 +235,9 @@ collections:
   case-study:
     output: true
     permalink: /case-study/:path/
-  gallery:
+  figure:
     output: true
-    permalink: /gallery/:path/
+    permalink: /figure/:path/
   header:
     output: false
 
@@ -276,7 +276,7 @@ defaults:
       show_meta: false
   - scope:
       path: ""
-      type: gallery 
+      type: figure 
     values:
       layout: image 
       header: no

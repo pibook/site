@@ -2,8 +2,8 @@
 	path = images
     url = https://github.com/pibook/images.git
     branch = master
-[submodule "_gallery"]
-	path = _gallery
+[submodule "_figure"]
+	path = _figure
 	url = https://github.com/pibook/_gallery.git
 	branch = master
 [submodule "_includes/extras"]
