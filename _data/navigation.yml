@@ -6,22 +6,14 @@ main:
     url: /slides/
   - title: "Χρονολόγιο"
     url: /timeline/
-  - title: "Ευρετήριο"
-    url: /tags/
-  - title: "Ασκήσεις"
-    url: /remix/
   - title: "Βιογραφίες"
     url: /biography/
   - title: "Μελέτες Περίπτωσης"
     url: /case-study/
-  - title: "Υποενότητες"
-    url: /categories/
   - title: "Βίντεο"
     url: /playlist/
-  - title: "Κατασκευές"
-    url: /making/
-  - title: "Εικόνες"
-    url: /gallery/
+  - title: "Ασκήσεις"
+    url: /remix/
   - title: "Διδακτική"
     url: /method/
   - title: "Αγορά"
