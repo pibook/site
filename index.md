@@ -17,9 +17,9 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 
   {% include feature_col.html id="biography" type="left" index=random %}
 
-  {% assign random = site.time | date: "%s%N" | modulo: site.gallery.size %}
+  {% assign random = site.time | date: "%s%N" | modulo: site.figure.size %}
 
-  {% include feature_col.html id="gallery" type="center" index=random %}
+  {% include feature_col.html id="figure" type="center" index=random %}
 
   {% assign random = site.time | date: "%s%N" | modulo: site.case-study.size %}
 
