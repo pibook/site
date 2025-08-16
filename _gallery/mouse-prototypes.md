@@ -1,0 +1,10 @@
+---
+title: Εργαστηριακά υποδείγματα για μια νέα συσκευή εισόδου
+image_url: /images/engelbart-mouse.jpg
+caption: Το αρχικό λειτουργικό υπόδειγμα για την εφεύρεση της συσκευής εισόδου ποντίκι διευκόλυνε τις πρώτες εργαστηριακές δοκιμές και κυρίως την κατασκευή του κατάλληλου λογισμικού για τα μελλοντικά πειράματα που θα γίνονταν με περισσότερο ώριμες εκδοχές.
+gallery:
+  - image_path: /images/engelbart-mouse.jpg
+  - image_path: /images/nls-mouse.jpg
+---
+    
+{% include gallery id="gallery" caption=page.caption %}
