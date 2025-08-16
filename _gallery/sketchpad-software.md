@@ -7,4 +7,3 @@ gallery:
   - image_path: /images/sage-lightgun.jpg
 ---
     
-{% include gallery id="gallery" caption=page.caption %}

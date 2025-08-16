@@ -7,4 +7,3 @@ gallery:
   - image_path: /images/nls-mouse.jpg
 ---
     
-{% include gallery id="gallery" caption=page.caption %}

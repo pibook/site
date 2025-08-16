@@ -7,4 +7,3 @@ gallery:
   - image_path: /images/nls-input.jpg
 ---
     
-{% include gallery id="gallery" caption=page.caption %}

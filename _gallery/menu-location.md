@@ -7,4 +7,3 @@ gallery:
   - image_path: /images/menus-on-windows.png
 ---
     
-{% include gallery id="gallery" caption=page.caption %}

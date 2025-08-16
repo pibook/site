@@ -288,7 +288,7 @@ defaults:
       path: ""
       type: gallery 
     values:
-      layout: splash 
+      layout: gallery 
       header: no
       show_meta: false
   - scope:
