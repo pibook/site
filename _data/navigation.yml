@@ -2,16 +2,18 @@
 main:
   - title: "Κεφάλαια"
     url: /chapters/
-  - title: "Διαφάνειες"
-    url: /slides/
+  - title: "Γκαλερί"
+    url: /gallery/
   - title: "Χρονολόγιο"
     url: /timeline/
   - title: "Βιογραφίες"
     url: /biography/
-  - title: "Μελέτες Περίπτωσης"
-    url: /case-study/
   - title: "Βίντεο"
     url: /playlist/
+  - title: "Μελέτες Περίπτωσης"
+    url: /case-study/
+  - title: "Διαφάνειες"
+    url: /slides/
   - title: "Ασκήσεις"
     url: /remix/
   - title: "Διδακτική"
