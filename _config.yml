@@ -238,6 +238,9 @@ collections:
   figure:
     output: true
     permalink: /figure/:path/
+  gallery:
+    output: true
+    permalink: /gallery/:path/
   header:
     output: false
 
@@ -279,6 +282,13 @@ defaults:
       type: figure 
     values:
       layout: image 
+      header: no
+      show_meta: false
+  - scope:
+      path: ""
+      type: gallery 
+    values:
+      layout: splash 
       header: no
       show_meta: false
   - scope:
