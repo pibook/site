@@ -1,5 +1,5 @@
 ---
-layout: single 
+layout: archive 
 title: Χρονολόγιο 
 permalink: /timeline/
 ---

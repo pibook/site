@@ -65,7 +65,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : "https://www.epidro.me"
+  home             : "https://vita.epidro.me"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -169,8 +169,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-tagories
-  - jekyll-remote-theme
   - jekyll-scholar
 
 
@@ -246,17 +244,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
   - scope:
       path: ""
       type: chapter 
