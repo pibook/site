@@ -6,7 +6,7 @@ permalink: "/chapters"
 header: no
 ---
 
-<div class="page__inner-wrap">
+<div class="grid__wrapper">
   {% for item in site.chapter %}
       {% include gallery-item.html type="grid" %}
   {% endfor %}
