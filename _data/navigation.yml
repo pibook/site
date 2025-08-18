@@ -8,12 +8,12 @@ main:
     url: /timeline/
   - title: "Βιογραφίες"
     url: /biography/
-  - title: "Βίντεο"
-    url: /playlist/
-  - title: "Μελέτες Περίπτωσης"
-    url: /case-study/
   - title: "Διαφάνειες"
     url: /slides/
+  - title: "Βίντεο"
+    url: /playlist/
+  - title: "Μελέτες"
+    url: /case-study/
   - title: "Ασκήσεις"
     url: /remix/
   - title: "Διδακτική"

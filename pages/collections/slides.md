@@ -20,17 +20,4 @@ header: no
   {% endfor %}
 </div>
 
-<br>
-
-## Κεφάλαια του βιβλίου
-
-<div class="grid__wrapper">
-  {% for item in site.slides %}
-    {% if chapters contains item.title %}
-      {% include gallery-item.html type="grid" %}
-    {% endif %}
-  {% endfor %}
-</div>
-
-
 
