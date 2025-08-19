@@ -7,7 +7,7 @@ slides:
   - prototype-levels
   - office-schematic
   - lisa-bootstrapping
-  - kodak-hifi
+  - kodak-buck
   - handspring-buck
   - itv-buck
   - iphone-buck
