@@ -6,6 +6,5 @@ gallery:
   - image_path: /images/kodak-buck.png
   - image_path: /images/handspring-buck.jpg
   - image_path: /images/itv-buck.png
-  - image_path: /images/pebble-buck.png
 ---
     
