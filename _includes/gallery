@@ -1,0 +1,28 @@
+{% assign gallery = page.gallery %}
+
+{% if include.layout %}
+  {% assign gallery_layout = include.layout %}
+{% else %}
+  {% if gallery.size == 2 %}
+    {% assign gallery_layout = 'half' %}
+  {% elsif gallery.size >= 3 %}
+    {% assign gallery_layout = 'third' %}
+  {% else %}
+    {% assign gallery_layout = '' %}
+  {% endif %}
+{% endif %}
+
+<figure class="{{ gallery_layout }} {{ include.class }}">
+  {% for figure in gallery %}
+    {% assign image = site.figure | find_exp:"item","item.image_url contains figure" %} 
+    {% capture url %}{{ image.image_url }}{% endcapture %} 
+    {% if url %}
+      <a href="/figure/{{ figure }}/">
+          <img src="{{ url | relative_url }}" %}">
+      </a>
+    {% endif %}
+  {% endfor %}
+  {% if include.caption %}
+    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% endif %}
+</figure>

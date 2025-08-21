@@ -3,7 +3,7 @@ title: Μεταφορές από το χώρο του γραφείου
 image_url: /images/magic-cap.png
 caption: Η χρήστη της μεταφοράς από το πραγματικό κόσμο και η μεγάλη αποδοχή που είχε η επιφάνεια εργασίας για τους επιτραπέζιους υπολογιστές, χρησιμοποιήθηκε για ένα από τα πρώτα λειτουργικά συστήματα για τον κινητό υπολογισμό, αλλά χωρίς να υπάρχει η ίδια αποδοχή. 
 gallery:
-  - image_path: /images/xerox-star-desktop.png
-  - image_path: /images/magic-cap.png
+  - xerox-star-desktop
+  - magic-cap
 ---
     

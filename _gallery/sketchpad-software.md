@@ -3,7 +3,7 @@ title: Μετασχηματισμός της αλληλεπίδρασης με �
 image_url: /images/sketchpad-interaction.png
 caption: Η μετάβαση της διάδρασης από το σύστημα SAGE στο Sketchpad φαίνεται σχετικά μικρή, αλλά η καινοτομία του τελευταίου βρίσκεται περισσότερο στο λογισμικό διάδρασης, το οποίο έπρεπε να εφευρεθεί από την αρχή, παρά στο υλικό διάδρασης το οποίο βασίζεται στις υπάρχουσες συσκευές της πένας και της οθόνης του ραντάρ.
 gallery:
-  - image_path: /images/sketchpad-interaction.png
-  - image_path: /images/sage-lightgun.jpg
+  - sketchpad-interaction
+  - sage-lightgun
 ---
     
