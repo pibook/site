@@ -16,6 +16,7 @@ gem 'minimal-mistakes-jekyll'
 # gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
+gem "faraday-retry"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -26,7 +27,9 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "ostruct"
   gem 'jekyll-tagories'
   gem 'jekyll-remote-theme'
   gem 'jekyll-scholar'
+  gem 'jekyll-sass-converter', '~> 2.2'
 end
