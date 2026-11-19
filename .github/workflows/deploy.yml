@@ -46,6 +46,12 @@ jobs:
             --destination _site
       - name: Diagnose timeline output
         run: |
+          echo "Timeline source files tracked by Git:"
+          git ls-files '*touchscreen-evolution*'
+          echo "Timeline source file details:"
+          ls -l _timeline/touchscreen-evolution.md
+          echo "Jekyll collection configuration:"
+          bundle exec jekyll build --verbose 2>&1 | grep -i 'touchscreen-evolution' || true
           echo "Timeline source files:"
           ls -la _timeline/
           echo "Generated timeline files:"
