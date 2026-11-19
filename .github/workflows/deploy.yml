@@ -58,6 +58,10 @@ jobs:
           find _site/timeline -maxdepth 4 -type f | sort
           echo "Timeline collection configuration:"
           bundle exec jekyll doctor
+          echo "First bytes of touchscreen timeline:"
+          od -An -tx1 -N24 _timeline/touchscreen-evolution.md
+          echo "First bytes of working mobile timeline:"
+          od -An -tx1 -N24 _timeline/mobile.md
           
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
