@@ -4,7 +4,7 @@ title: "Διαφάνειες"
 subheadline: ""
 show_meta: false
 teaser: ""
-permalink: "/slides"
+permalink: "/slides/"
 header: no
 ---
 
