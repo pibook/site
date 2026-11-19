@@ -2,7 +2,7 @@
 layout: archive 
 title: Κεφάλαια του βιβλίου
 show_meta: false
-permalink: "/chapters"
+permalink: "/chapters/"
 header: no
 ---
 
