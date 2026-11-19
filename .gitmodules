@@ -1,10 +1,10 @@
 [submodule "images"]
 	path = images
-    url = https://github.com/pibook/images.git
+    url = https://github.com/sdy60-2026/images.git
     branch = master
 [submodule "_figure"]
 	path = _figure
-	url = https://github.com/pibook/figure.git
+	url = https://github.com/sdy60-2026/figure.git
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
