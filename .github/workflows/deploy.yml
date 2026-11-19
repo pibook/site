@@ -44,7 +44,15 @@ jobs:
           bundle exec jekyll build \
             --baseurl "/site" \
             --destination _site
-
+      - name: Diagnose timeline output
+        run: |
+          echo "Timeline source files:"
+          ls -la _timeline/
+          echo "Generated timeline files:"
+          find _site/timeline -maxdepth 4 -type f | sort
+          echo "Timeline collection configuration:"
+          bundle exec jekyll doctor
+          
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
