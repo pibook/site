@@ -1,5 +1,4 @@
-# netlify.toml
 [build]
-command = "jekyll build"
+command = "git submodule update --init images _figure && git -C images remote set-url origin https://github.com/Ioanna8888/images.git && git -C _figure remote set-url origin https://github.com/Ioanna8888/figure.git && git submodule update --remote images _figure && jekyll build"
 publish = "_site"
 
